@@ -44,7 +44,12 @@ def main() -> int:
     compiled = compile_topics(topics)
     now = datetime.now(timezone.utc)
 
-    status = load_json(DATA / "feed_status.json", {})
+    if not feeds:
+        log.error("no enabled feeds configured in config/feeds.yaml")
+        return 1
+
+    previous_status = load_json(DATA / "feed_status.json", {})
+    status = {f["name"]: previous_status.get(f["name"], {}) for f in feeds}
     incoming, failures = [], 0
 
     for feed in feeds:
@@ -64,7 +69,7 @@ def main() -> int:
     if args.check:
         for name, entry in status.items():
             print(name, entry)
-        return 0
+        return 1 if failures == len(feeds) else 0
 
     archive = load_json(DATA / "articles.json", [])
     for art in archive:
