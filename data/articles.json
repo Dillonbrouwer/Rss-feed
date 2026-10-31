@@ -1,5 +1,65 @@
 [
   {
+    "id": "https://bbc.co.uk/news/articles/cmq5npz5l5geo?at_medium=RSS&at_campaign=rss",
+    "title": "I've been stuck on a tiny Pacific island for years and can't get a transit visa to fly home",
+    "link": "https://www.bbc.co.uk/news/articles/cmq5npz5l5geo?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-10-31T23:06:13+00:00",
+    "first_seen": "2026-10-31T23:45:19.062313+00:00",
+    "excerpt": "Ruchira Ranasingha, 50, has been stranded in the Cook Islands since 2023 and wants to return to Sri Lanka.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://npr.org/2026/10/31/nx-s1-6024694/virginia-dc-sue-trump-arch",
+    "title": "Virginia and D.C. sue to block construction of Trump arch",
+    "link": "https://www.npr.org/2026/10/31/nx-s1-6024694/virginia-dc-sue-trump-arch",
+    "outlet": "NPR",
+    "author": "Chandelis Duster",
+    "published": "2026-10-31T22:48:51+00:00",
+    "first_seen": "2026-10-31T23:45:19.062313+00:00",
+    "excerpt": "U.S. District Court Judge Tanya Chutkin ordered both sides to talk and to agree on a proposed briefing schedule on the motion for a temporary restraining order by Saturday evening.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/world/2026/oct/31/donald-tusk-defends-overhaul-poland-constitutional-court-despite-protests",
+    "title": "Tusk defends overhaul of Poland’s constitutional court despite protests",
+    "link": "https://www.theguardian.com/world/2026/oct/31/donald-tusk-defends-overhaul-poland-constitutional-court-despite-protests",
+    "outlet": "The Guardian",
+    "author": "Jakub Krupa",
+    "published": "2026-10-31T22:43:09+00:00",
+    "first_seen": "2026-10-31T23:45:19.062313+00:00",
+    "excerpt": "Prime minister says shake-up is vital to restore tribunal crippled by years of political disputes Poland’s prime minister, Donald Tusk, has vowed to see through a contested overhaul of the country’s constitutional court, declaring that “in certain matters, there can be no compromise”. In a…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/10/31/dutch-authorities-rescue-38-people-adrift-in-rubber-boat?traffic_source=rss",
+    "title": "Dutch authorities rescue 38 people adrift in rubber boat",
+    "link": "https://www.aljazeera.com/news/2026/10/31/dutch-authorities-rescue-38-people-adrift-in-rubber-boat?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-10-31T22:38:03+00:00",
+    "first_seen": "2026-10-31T23:45:19.062313+00:00",
+    "excerpt": "Migrant boats are rarely found in Dutch waters, and authorities are still trying to establish where this one came from.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/10/31/trump-loses-legal-battle-over-epstein-linked-wall-street-journal-case?traffic_source=rss",
+    "title": "Trump loses legal battle over Epstein-linked Wall Street Journal case",
+    "link": "https://www.aljazeera.com/news/2026/10/31/trump-loses-legal-battle-over-epstein-linked-wall-street-journal-case?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-10-31T22:36:41+00:00",
+    "first_seen": "2026-10-31T23:45:19.062313+00:00",
+    "excerpt": "Judge permanently drops Trump's $10bn WSJ lawsuit, ruling he failed to prove actual malice in the newspaper's reporting.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://aljazeera.com/video/newsfeed/2026/10/31/aje-onl-nf_palestine-action-supporters-arrested-in-london-311026?traffic_source=rss",
     "title": "Palestine Action supporters arrested outside US embassy in London",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/aje-onl-nf_palestine-action-supporters-arrested-in-london-311026?traffic_source=rss",
