@@ -1,44 +1,62 @@
-# Feed list. "verified" records the date a feed was confirmed to return recent items.
-# All URLs below are UNVERIFIED starting points. Run `python scripts/fetch_feeds.py --check`
-# locally and set enabled/verified before relying on them.
+# Feed list. Each URL was located through web search listings; none has been
+# fetched live yet. Run `python scripts/fetch_feeds.py --check` on your Mac
+# (or in the Actions log) to confirm each one returns items before relying on it.
+#
+# Status key:
+#   confirmed   - listed at the outlet's own domain in multiple directories
+#   check       - found in listings, but the listing was old or thin; verify
+#   disabled    - no working feed found; enable only after adding a verified URL
 feeds:
   - name: BBC World
     url: https://feeds.bbci.co.uk/news/world/rss.xml
     enabled: true
-    verified: null
+    status: confirmed
+
   - name: NPR
     url: https://feeds.npr.org/1001/rss.xml
     enabled: true
-    verified: null
+    status: confirmed
+
   - name: The Guardian
     url: https://www.theguardian.com/world/rss
     enabled: true
-    verified: null
+    status: confirmed
+
   - name: Al Jazeera
     url: https://www.aljazeera.com/xml/rss/all.xml
     enabled: true
-    verified: null
+    status: confirmed
+
   - name: Foreign Policy
     url: https://foreignpolicy.com/feed/
     enabled: true
-    verified: null
+    status: confirmed
+
   - name: Politico
     url: https://www.politico.com/rss/politicopicks.xml
     enabled: true
-    verified: null
+    status: check
+
   - name: SCOTUSblog
     url: https://www.scotusblog.com/feed/
     enabled: true
-    verified: null
-  - name: Lawfare
-    url: https://www.lawfaremedia.org/rss.xml
-    enabled: true
-    verified: null
-  - name: Brookings
-    url: https://www.brookings.edu/feed/
-    enabled: true
-    verified: null
+    status: check
+
   - name: The Conversation
-    url: https://theconversation.com/us/articles.atom
+    url: https://theconversation.com/us/politics/articles.atom
     enabled: true
-    verified: null
+    status: check
+
+  - name: Lawfare
+    # No confirmed feed. Lawfare's site returned no RSS, and only its podcast
+    # feeds are listed. Add a verified URL here, then set enabled: true.
+    url: https://www.lawfaremedia.org/feed
+    enabled: false
+    status: disabled
+
+  - name: Brookings
+    # No confirmed feed. Brookings links to an RSS subscribe page, but the
+    # URL wasn't found. Add a verified URL here, then set enabled: true.
+    url: https://www.brookings.edu/feed/
+    enabled: false
+    status: disabled
