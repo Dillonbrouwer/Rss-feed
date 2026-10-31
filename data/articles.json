@@ -1,5 +1,17 @@
 [
   {
+    "id": "https://aljazeera.com/video/newsfeed/2026/10/31/aje-onl-nf_palestine-action-supporters-arrested-in-london-311026?traffic_source=rss",
+    "title": "Palestine Action supporters arrested outside US embassy in London",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/aje-onl-nf_palestine-action-supporters-arrested-in-london-311026?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-10-31T22:10:53+00:00",
+    "first_seen": "2026-10-31T22:47:26.051488+00:00",
+    "excerpt": "Hundreds of protesters gathered outside the US Embassy in London to oppose the UK government's ban on Palestine Action.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://aljazeera.com/news/2026/10/31/legal-filing-questions-trumps-claims-of-non-citizen-voting-in-california?traffic_source=rss",
     "title": "Legal filing questions Trump’s claims of non-citizen voting in California",
     "link": "https://www.aljazeera.com/news/2026/10/31/legal-filing-questions-trumps-claims-of-non-citizen-voting-in-california?traffic_source=rss",
@@ -8,6 +20,18 @@
     "published": "2026-10-31T21:38:54+00:00",
     "first_seen": "2026-10-31T21:47:42.854195+00:00",
     "excerpt": "Data scientists find that many 'likely non-citizens' identified by the Trump administration were erroneously flagged.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://npr.org/2026/10/31/nx-s1-6022285/mixed-economic-forecast-weighs-heavy-ahead-of-midterms",
+    "title": "Mixed economic forecast weighs heavy ahead of midterms",
+    "link": "https://www.npr.org/2026/10/31/nx-s1-6022285/mixed-economic-forecast-weighs-heavy-ahead-of-midterms",
+    "outlet": "NPR",
+    "author": "Scott Horsley",
+    "published": "2026-10-31T21:14:35+00:00",
+    "first_seen": "2026-10-31T22:47:26.051488+00:00",
+    "excerpt": "There was a mixed Halloween bag of economic news this week. GDP growth is up, but so are prices. For now at least, interest rates are staying the same. What does that mean for the midterm elections?",
     "tags": [],
     "also_reported_by": []
   },
