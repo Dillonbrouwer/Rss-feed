@@ -1,5 +1,16 @@
 # Handoff: News Digest Project
 
+> Repair update (October 31, 2026): the workflows described in the original handoff
+> were absent from the uploaded repository. This repair adds hourly refresh and
+> explicit Pages deployment, daily Teams delivery, and CI tests, with actions pinned
+> to commit SHAs. A live fetch produced 183 articles from seven working feeds;
+> Politico returned HTTP 403. Empty topics now use an "All" digest. The 15 tests,
+> page render, Teams dry-run, and actionlint validation pass. Follow the current
+> README for setup: Pages must use **GitHub Actions**, and the archive bot needs
+> permission to push to `main`. Live Teams delivery still needs the webhook secret
+> and an explicit test by the owner. The sections below preserve the original
+> handoff snapshot and may describe issues resolved by this repair.
+
 **Repository:** https://github.com/Dillonbrouwer/Rss-feed (public, branch `main`)
 **Live page (once Pages is enabled):** https://dillonbrouwer.github.io/Rss-feed/
 **Owner:** Dillon Brouwer

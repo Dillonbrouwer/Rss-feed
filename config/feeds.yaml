@@ -1,10 +1,10 @@
-# Feed list. Each URL was located through web search listings; none has been
-# fetched live yet. Run `python scripts/fetch_feeds.py --check` on your Mac
-# (or in the Actions log) to confirm each one returns items before relying on it.
+# Feed list. Seven enabled feeds returned usable items on 2026-10-31.
+# Politico returned HTTP 403; it stays enabled so another runner can retry it.
+# Run `python scripts/fetch_feeds.py --check` to check current health.
 #
 # Status key:
-#   confirmed   - listed at the outlet's own domain in multiple directories
-#   check       - found in listings, but the listing was old or thin; verify
+#   confirmed   - returned usable feed items at the last live check
+#   check       - needs investigation or verification on another runner
 #   disabled    - no working feed found; enable only after adding a verified URL
 feeds:
   - name: BBC World
@@ -40,12 +40,12 @@ feeds:
   - name: SCOTUSblog
     url: https://www.scotusblog.com/feed/
     enabled: true
-    status: check
+    status: confirmed
 
   - name: The Conversation
     url: https://theconversation.com/us/politics/articles.atom
     enabled: true
-    status: check
+    status: confirmed
 
   - name: Lawfare
     # No confirmed feed. Lawfare's site returned no RSS, and only its podcast

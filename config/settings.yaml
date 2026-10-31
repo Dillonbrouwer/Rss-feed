@@ -2,7 +2,7 @@
 site_title: "News Digest"
 timezone: America/Chicago
 archive_days: 90
-user_agent: "news-digest/1.0 (+https://github.com/Dillonbrouwer/news-digest)"  # replace OWNER
+user_agent: "news-digest/1.0 (+https://github.com/Dillonbrouwer/Rss-feed)"
 request_timeout_seconds: 20
 stale_feed_hours: 48
 

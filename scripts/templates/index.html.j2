@@ -35,7 +35,7 @@
 </header>
 <main>
   {% if stale %}
-  <div class="stale">Feeds with no successful fetch in the last 48 hours:
+  <div class="stale">Feeds with no successful fetch in the last {{ stale_feed_hours }} hours:
     {% for s in stale %}{{ s.name }} (last: {{ s.last }}){% if not loop.last %}, {% endif %}{% endfor %}
   </div>
   {% endif %}

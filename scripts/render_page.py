@@ -39,13 +39,17 @@ def main() -> None:
 
     stale_cutoff = now - timedelta(hours=settings.get("stale_feed_hours", 48))
     stale = []
-    for name, entry in status.items():
+    enabled_names = {f["name"] for f in load_yaml("feeds.yaml").get("feeds", [])
+                     if f.get("enabled")}
+    for name in sorted(enabled_names):
+        entry = status.get(name, {})
         last = parse_iso(entry.get("last_success"))
         if not last or last < stale_cutoff:
             stale.append({"name": name, "last": fmt_local(last, tz) if last else "never"})
 
     env = Environment(loader=FileSystemLoader(ROOT / "scripts" / "templates"),
-                      autoescape=select_autoescape(["html"]))
+                      autoescape=select_autoescape(["html", "html.j2"]),
+                      trim_blocks=True, lstrip_blocks=True)
     html = env.get_template("index.html.j2").render(
         site_title=settings.get("site_title", "News Digest"),
         generated=fmt_local(now, tz),
@@ -53,6 +57,7 @@ def main() -> None:
         outlets=sorted({a["outlet"] for a in articles}),
         articles=rows,
         stale=stale,
+        stale_feed_hours=settings.get("stale_feed_hours", 48),
         archive_days=settings.get("archive_days", 90),
     )
 

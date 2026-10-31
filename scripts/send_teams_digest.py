@@ -72,6 +72,8 @@ def main() -> int:
              if (parse_iso(a.get("first_seen")) or since) >= since]
 
     groups = {}
+    if not topics and fresh:
+        groups["All"] = fresh
     for topic in topics:
         matched = [a for a in fresh if topic in a.get("tags", [])]
         if matched:
