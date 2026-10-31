@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Sample</title>
+    <item>
+      <title>Senate passes tariff bill</title>
+      <link>https://www.example.com/news/tariff-bill/?utm_source=rss&amp;utm_medium=feed</link>
+      <pubDate>Mon, 27 Oct 2026 14:00:00 GMT</pubDate>
+      <author>Jane Reporter</author>
+      <description>&lt;p&gt;The &lt;b&gt;tariff&lt;/b&gt; measure cleared the chamber.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ai model release notes</title>
+      <link>https://example.com/news/ai-release</link>
+      <pubDate>Mon, 27 Oct 2026 09:00:00 GMT</pubDate>
+      <description>Said nothing about the topic here.</description>
+    </item>
+    <item>
+      <title>No link item</title>
+      <description>should be skipped</description>
+    </item>
+  </channel>
+</rss>
