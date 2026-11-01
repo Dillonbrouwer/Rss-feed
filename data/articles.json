@@ -1,5 +1,53 @@
 [
   {
+    "id": "https://aljazeera.com/video/newsfeed/2026/11/1/fire-engulfs-hotel-in-nepal-along-everest-base-camp-route?traffic_source=rss",
+    "title": "Fire engulfs hotel in Nepal along Everest Base Camp route",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/fire-engulfs-hotel-in-nepal-along-everest-base-camp-route?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-01T12:12:31+00:00",
+    "first_seen": "2026-11-01T13:02:55.978578+00:00",
+    "excerpt": "A fire broke out at a hotel in Dingboche, Nepal along the popular trekking route to Mount Everest Base Camp.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi",
+    "title": "The US-China trade war seems to have subsided – but the sense of calm is misleading",
+    "link": "https://www.theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi",
+    "outlet": "The Guardian",
+    "author": "Eduardo Porter",
+    "published": "2026-11-01T12:00:12+00:00",
+    "first_seen": "2026-11-01T13:02:55.978578+00:00",
+    "excerpt": "A truce has cooled the trade conflict, but neither country has done anything to limit the outbreak of new hostilities Donald Trump ’s trade wars have largely fallen off the headlines. Fears of new tariffs flare up from time to time when the US president goes off the rails – for instance,…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://npr.org/2026/11/01/nx-s1-6023423/aca-open-enrollment-health-insurance",
+    "title": "It's ACA open enrollment time. Here are the changes for health insurance shoppers",
+    "link": "https://www.npr.org/2026/11/01/nx-s1-6023423/aca-open-enrollment-health-insurance",
+    "outlet": "NPR",
+    "author": "Julie Appleby",
+    "published": "2026-11-01T12:00:00+00:00",
+    "first_seen": "2026-11-01T13:02:55.978578+00:00",
+    "excerpt": "The ACA health insurance marketplaces — find yours at HealthCare.gov — open Nov. 1 for 2027 coverage. Getting an early start may be especially important this year.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/society/2026/nov/01/chancellor-fails-to-guarantee-minimum-wage-pledge-younger-workers-kuenssberg",
+    "title": "Labour’s pledge to level-up minimum wage for under-20s before next election in doubt",
+    "link": "https://www.theguardian.com/society/2026/nov/01/chancellor-fails-to-guarantee-minimum-wage-pledge-younger-workers-kuenssberg",
+    "outlet": "The Guardian",
+    "author": "Jessica Elgot Deputy political editor",
+    "published": "2026-11-01T11:52:55+00:00",
+    "first_seen": "2026-11-01T13:02:55.978578+00:00",
+    "excerpt": "Chancellor John Healey fails to guarantee equalisation with adult wage will happen in timeframe set out in manifesto Labour looks less likely to meet its manifesto pledge to equalise the minimum wage for younger workers before the next election, after the chancellor failed to guarantee the rise…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://theguardian.com/world/2026/nov/01/britain-should-not-apologise-slave-trade-kemi-badenoch",
     "title": "Britain should not issue apology over slave trade, says Kemi Badenoch",
     "link": "https://www.theguardian.com/world/2026/nov/01/britain-should-not-apologise-slave-trade-kemi-badenoch",
