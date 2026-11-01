@@ -1,5 +1,53 @@
 [
   {
+    "id": "https://theguardian.com/us-news/2026/nov/01/chatgpt-woman-seizure-lawsuit-openai",
+    "title": "Parents of woman who died of seizure after ChatGPT misguidance sue OpenAI",
+    "link": "https://www.theguardian.com/us-news/2026/nov/01/chatgpt-woman-seizure-lawsuit-openai",
+    "outlet": "The Guardian",
+    "author": "Eric Berger",
+    "published": "2026-11-01T22:37:36+00:00",
+    "first_seen": "2026-11-01T22:48:15.720150+00:00",
+    "excerpt": "Bowen Wan was on anti-seizure medication, and chatbot provided her with a tapering schedule to reduce dosage A woman’s death from an epileptic seizure after she received dangerous advice from a chatbot has prompted her parents to sue OpenAI earlier this week. The legal action is the latest lawsuit…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/1/high-ranking-us-democratic-senator-suffers-stroke?traffic_source=rss",
+    "title": "High-ranking US Democratic senator suffers stroke",
+    "link": "https://www.aljazeera.com/news/2026/11/1/high-ranking-us-democratic-senator-suffers-stroke?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-01T22:32:54+00:00",
+    "first_seen": "2026-11-01T22:48:15.720150+00:00",
+    "excerpt": "Senator Chris Murphy, a fierce Trump critic who is not up for re-election in the midterms, is 'alert' after a stroke.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://npr.org/2026/11/01/nx-s1-6025502/stroke-acronym-be-fast",
+    "title": "Do you know signs of a stroke? BE FAST are the words to remember",
+    "link": "https://www.npr.org/2026/11/01/nx-s1-6025502/stroke-acronym-be-fast",
+    "outlet": "NPR",
+    "author": "Diane Webber",
+    "published": "2026-11-01T22:22:12+00:00",
+    "first_seen": "2026-11-01T22:48:15.720150+00:00",
+    "excerpt": "Sen. Chris Murphy is expected to fully recover from his stroke. The acronym BE FAST can help you remember the symptoms of stroke and what to do when it happens: Call 911 quickly.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/1/ukraine-evacuates-civilians-in-kherson-region-as-localised-ceasefire-ends?traffic_source=rss",
+    "title": "Kherson braces for return of war as localised Russia-Ukraine truce ends",
+    "link": "https://www.aljazeera.com/news/2026/11/1/ukraine-evacuates-civilians-in-kherson-region-as-localised-ceasefire-ends?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-01T22:15:14+00:00",
+    "first_seen": "2026-11-01T22:48:15.720150+00:00",
+    "excerpt": "Moscow and Kyiv continue strikes elsewhere, but no reported violations in Kherson region during the six-day ceasefire.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://aljazeera.com/video/newsfeed/2026/11/1/democrat-haley-stevens-heckled-as-she-backs-el-sayed-rival?traffic_source=rss",
     "title": "Democrat Haley Stevens heckled as she backs El-Sayed rival",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/democrat-haley-stevens-heckled-as-she-backs-el-sayed-rival?traffic_source=rss",
@@ -20,6 +68,18 @@
     "published": "2026-11-01T21:28:47+00:00",
     "first_seen": "2026-11-01T21:48:41.687526+00:00",
     "excerpt": "Almost 5,000 people have been displaced as a result of Israel’s military siege on the city of Hebron in the West Bank.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/australia-news/2026/nov/02/nationals-leader-matt-canavan-one-nation-james-ashby-capricornia-election-ntwnfb",
+    "title": "Nationals leader Matt Canavan to run for lower house seat in possible showdown with One Nation’s James Ashby",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/02/nationals-leader-matt-canavan-one-nation-james-ashby-capricornia-election-ntwnfb",
+    "outlet": "The Guardian",
+    "author": "Tess Ikonomou",
+    "published": "2026-11-01T21:25:18+00:00",
+    "first_seen": "2026-11-01T22:48:15.720150+00:00",
+    "excerpt": "Tilt comes after Michelle Landry announced she will not recontest her Queensland seat of Capricornia Get our daily political email , free app or daily news podcast The Nationals leader, Matt Canavan, will run in a lower house Queensland seat at the next federal election, in a move that may see him…",
     "tags": [],
     "also_reported_by": []
   },
