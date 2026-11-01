@@ -1,5 +1,77 @@
 [
   {
+    "id": "https://theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency",
+    "title": "Binance says 90% of losses from $6.3bn hack covered as FBI says North Korea behind attack",
+    "link": "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency",
+    "outlet": "The Guardian",
+    "author": "Guardian staff and agencies",
+    "published": "2026-11-01T02:41:34+00:00",
+    "first_seen": "2026-11-01T02:59:22.897465+00:00",
+    "excerpt": "Cryptocurrency exchange says withdrawals expected to resume on Sunday as FBI blames North Korean state-sponsored group TraderTraitor Cryptocurrency exchange Binance says it has replaced 90% of the ⁠amount stolen after a record $6.3bn hack of its platform by a group the FBI identified as being…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/1/fbi-blames-north-korea-for-record-6-3bn-crypto-heist?traffic_source=rss",
+    "title": "FBI blames North Korea for record $6.3bn crypto heist",
+    "link": "https://www.aljazeera.com/news/2026/11/1/fbi-blames-north-korea-for-record-6-3bn-crypto-heist?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-01T02:28:38+00:00",
+    "first_seen": "2026-11-01T02:59:22.897465+00:00",
+    "excerpt": "Crypto firm Binance says it has covered 90 percent of losses from the multibillion-dollar hack.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/1/thousands-rally-in-israel-urging-eisenkot-arab-deal-to-remove-netanyahu?traffic_source=rss",
+    "title": "Thousands rally in Israel urging Eisenkot-Arab deal to remove Netanyahu",
+    "link": "https://www.aljazeera.com/news/2026/11/1/thousands-rally-in-israel-urging-eisenkot-arab-deal-to-remove-netanyahu?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-01T02:05:40+00:00",
+    "first_seen": "2026-11-01T02:59:22.897465+00:00",
+    "excerpt": "In a counterprotest, Netanyahu supporters demand that Israel should not have a government with 'terrorists'.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+    "title": "Shops looted as German cost of living protests turn violent",
+    "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-01T01:59:57+00:00",
+    "first_seen": "2026-11-01T02:59:22.897465+00:00",
+    "excerpt": "Police in Frankfurt say \"violent riots\" took place in the city centre, with unrest also reported in Berlin, Hamburg and Cologne.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss",
+    "title": "These firms you've never heard of are feeding fears the AI bubble could burst",
+    "link": "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-01T01:37:26+00:00",
+    "first_seen": "2026-11-01T02:59:22.897465+00:00",
+    "excerpt": "The amount of debt held by data centres is measured in the tens of billions of pounds.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/video/newsfeed/2026/11/1/talarico-draws-a-packed-campus-rally-but-can-he-win-over-young-voters?traffic_source=rss",
+    "title": "Talarico draws a packed campus rally, but can he win over young voters?",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/talarico-draws-a-packed-campus-rally-but-can-he-win-over-young-voters?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-01T01:14:47+00:00",
+    "first_seen": "2026-11-01T02:59:22.897465+00:00",
+    "excerpt": "Al Jazeera’s @EmmaWithrow attended a packed rally for Democrat Senate Candidate James Talarico at Texas A&M.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://bbc.co.uk/news/articles/c893z699q401o?at_medium=RSS&at_campaign=rss",
     "title": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
     "link": "https://www.bbc.co.uk/news/articles/c893z699q401o?at_medium=RSS&at_campaign=rss",
