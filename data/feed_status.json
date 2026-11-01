@@ -2,47 +2,47 @@
   "BBC World": {
     "last_error": null,
     "last_error_at": "2026-10-31T19:47:00.298602+00:00",
-    "last_success": "2026-11-01T04:02:39.206144+00:00",
+    "last_success": "2026-11-01T05:00:58.849871+00:00",
     "last_item_count": 28
   },
   "NPR": {
     "last_error": null,
     "last_error_at": "2026-10-31T19:47:00.298602+00:00",
-    "last_success": "2026-11-01T04:02:39.206144+00:00",
+    "last_success": "2026-11-01T05:00:58.849871+00:00",
     "last_item_count": 10
   },
   "The Guardian": {
     "last_error": null,
     "last_error_at": "2026-10-31T19:47:00.298602+00:00",
-    "last_success": "2026-11-01T04:02:39.206144+00:00",
+    "last_success": "2026-11-01T05:00:58.849871+00:00",
     "last_item_count": 45
   },
   "Al Jazeera": {
     "last_error": null,
     "last_error_at": "2026-10-31T19:47:00.298602+00:00",
-    "last_success": "2026-11-01T04:02:39.206144+00:00",
+    "last_success": "2026-11-01T05:00:58.849871+00:00",
     "last_item_count": 25
   },
   "Foreign Policy": {
     "last_error": null,
     "last_error_at": "2026-10-31T19:47:00.298602+00:00",
-    "last_success": "2026-11-01T04:02:39.206144+00:00",
+    "last_success": "2026-11-01T05:00:58.849871+00:00",
     "last_item_count": 25
   },
   "Politico": {
     "last_error": "HTTPError: 403 Client Error: Forbidden for url: https://www.politico.com/rss/politicopicks.xml",
-    "last_error_at": "2026-11-01T04:02:39.206144+00:00"
+    "last_error_at": "2026-11-01T05:00:58.849871+00:00"
   },
   "SCOTUSblog": {
     "last_error": null,
     "last_error_at": "2026-10-31T19:47:00.298602+00:00",
-    "last_success": "2026-11-01T04:02:39.206144+00:00",
+    "last_success": "2026-11-01T05:00:58.849871+00:00",
     "last_item_count": 25
   },
   "The Conversation": {
     "last_error": null,
     "last_error_at": "2026-10-31T19:47:00.298602+00:00",
-    "last_success": "2026-11-01T04:02:39.206144+00:00",
+    "last_success": "2026-11-01T05:00:58.849871+00:00",
     "last_item_count": 25
   }
 }
