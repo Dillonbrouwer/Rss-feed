@@ -1,5 +1,53 @@
 [
   {
+    "id": "https://theguardian.com/australia-news/2026/nov/02/wa-police-facial-recognition-technology-trial",
+    "title": "Police use facial recognition to scan one million faces in WA trial leading to 122 arrests",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/02/wa-police-facial-recognition-technology-trial",
+    "outlet": "The Guardian",
+    "author": "Ima Caldwell and Penry Buckley",
+    "published": "2026-11-02T02:02:34+00:00",
+    "first_seen": "2026-11-02T03:02:03.852061+00:00",
+    "excerpt": "Deployments of surveillance vans over five months result in nine false alerts and led officers to engage with 146 registered sex offenders Get our breaking news email , free app or daily news podcast More than a million people have had their faces scanned in a trial of real-time facial recognition…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/2/ukraine-blames-russia-after-air-alert-app-sends-out-false-warnings?traffic_source=rss",
+    "title": "Ukraine blames Russia after air alert app sends out false warnings",
+    "link": "https://www.aljazeera.com/news/2026/11/2/ukraine-blames-russia-after-air-alert-app-sends-out-false-warnings?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-02T01:40:50+00:00",
+    "first_seen": "2026-11-02T03:02:03.852061+00:00",
+    "excerpt": "Russian Emergencies Ministry also says its mobile app suffered a 'massive cyberattack', leading to 'false information'.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/2/tens-of-thousands-build-108-buddhist-stupas-for-bhutan-mindfulness-city?traffic_source=rss",
+    "title": "Tens of thousands build 108 Buddhist stupas for Bhutan ‘mindfulness’ city",
+    "link": "https://www.aljazeera.com/news/2026/11/2/tens-of-thousands-build-108-buddhist-stupas-for-bhutan-mindfulness-city?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-02T01:31:21+00:00",
+    "first_seen": "2026-11-02T03:02:03.852061+00:00",
+    "excerpt": "Bhutan is building a 'mindfulness' city to drive economic growth and persuade more young people to stay.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/video/newsfeed/2026/11/2/trump-invites-michigan-democrat-stevens-to-join-the-republican-party?traffic_source=rss",
+    "title": "Trump invites Michigan Democrat Stevens to join the Republican Party",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/trump-invites-michigan-democrat-stevens-to-join-the-republican-party?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-02T01:25:00+00:00",
+    "first_seen": "2026-11-02T03:02:03.852061+00:00",
+    "excerpt": "US President Donald Trump praised Michigan Democrat Haley Stevens for endorsing Republican Mike Rogers.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
     "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
     "link": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
@@ -31,6 +79,18 @@
     "author": "Agence France-Presse",
     "published": "2026-11-02T01:06:13+00:00",
     "first_seen": "2026-11-02T01:22:48.281024+00:00",
+    "excerpt": "The train disaster, one of Europe’s deadliest rail incidents this century, killed 69 people, including 54 Spaniards Four US citizens and one each from Canada, Japan, Argentina, Mexico, Tunisia and the Czech Republic were among the 69 killed in last week’s high-speed train collision in Spain,…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/world/2026/nov/02/spain-train-crash-us-citizens-japan-canada-dead",
+    "title": "Spain train crash: US, Japan and Canada citizens among dead, authorities say",
+    "link": "https://www.theguardian.com/world/2026/nov/02/spain-train-crash-us-citizens-japan-canada-dead",
+    "outlet": "The Guardian",
+    "author": "Agence France-Presse",
+    "published": "2026-11-02T01:06:13+00:00",
+    "first_seen": "2026-11-02T03:02:03.852061+00:00",
     "excerpt": "The train disaster, one of Europe’s deadliest rail incidents this century, killed 69 people, including 54 Spaniards Four US citizens and one each from Canada, Japan, Argentina, Mexico, Tunisia and the Czech Republic were among the 69 killed in last week’s high-speed train collision in Spain,…",
     "tags": [],
     "also_reported_by": []
