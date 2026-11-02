@@ -1,5 +1,77 @@
 [
   {
+    "id": "https://theguardian.com/us-news/2026/nov/02/california-voter-fraud-charges",
+    "title": "Trump’s DoJ charges six more people in ‘voter fraud’ crackdown in California",
+    "link": "https://www.theguardian.com/us-news/2026/nov/02/california-voter-fraud-charges",
+    "outlet": "The Guardian",
+    "author": "Sam Levin",
+    "published": "2026-11-02T23:22:24+00:00",
+    "first_seen": "2026-11-02T23:48:23.300438+00:00",
+    "excerpt": "Latest arrests come after DoJ unsuccessfully fought to force state election officials to set aside about 20,000 ballots The US Department of Justice (DoJ) in California has charged six more people with alleged voter fraud crimes, an escalation of the Trump administration’s campaign against the…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/us-news/2026/nov/02/supreme-court-trump-california-ballots",
+    "title": "Supreme court rules against Trump over bid to force California to set aside ballots",
+    "link": "https://www.theguardian.com/us-news/2026/nov/02/supreme-court-trump-california-ballots",
+    "outlet": "The Guardian",
+    "author": "Nick Robins-Early",
+    "published": "2026-11-02T23:09:57+00:00",
+    "first_seen": "2026-11-02T23:48:23.300438+00:00",
+    "excerpt": "Justice department had ordered state to segregate and not count 20,000 ballots from people it claims are non-citizens The supreme court on Monday ruled against the Trump administration and its attempts to force California election officials to segregate and not count ballots from people that the…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/2/trump-approval-rating-near-record-low-on-eve-of-us-midterm-elections-poll?traffic_source=rss",
+    "title": "Trump approval rating near record low on eve of US midterm elections: Poll",
+    "link": "https://www.aljazeera.com/news/2026/11/2/trump-approval-rating-near-record-low-on-eve-of-us-midterm-elections-poll?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-02T23:05:30+00:00",
+    "first_seen": "2026-11-02T23:48:23.300438+00:00",
+    "excerpt": "Only 32 percent of voters approve of Trump's job performance in the latest Reuters/Ipsos poll.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://bbc.co.uk/news/articles/c3dxwzjn2gw8o?at_medium=RSS&at_campaign=rss",
+    "title": "Indonesia's toxic haze is giving its neighbours a political headache",
+    "link": "https://www.bbc.co.uk/news/articles/c3dxwzjn2gw8o?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-02T23:02:01+00:00",
+    "first_seen": "2026-11-02T23:48:23.300438+00:00",
+    "excerpt": "Governments in Singapore and Malaysia are split between anxious citizens and an irascible neighbour.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/video/newsfeed/2026/11/2/powerful-storm-tears-through-beach-resort-on-italys-southern-coast?traffic_source=rss",
+    "title": "Powerful storm tears through beach resort on Italy’s southern coast",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/powerful-storm-tears-through-beach-resort-on-italys-southern-coast?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-02T22:59:41+00:00",
+    "first_seen": "2026-11-02T23:48:23.300438+00:00",
+    "excerpt": "Surveillance footage captured the moment a tornado ripped through a beach resort restaurant in Castellaneta Marina",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/2/us-midterms-2026-what-polls-reveal-about-democratic-republican-voters?traffic_source=rss",
+    "title": "US midterms 2026: What polls reveal about Democratic, Republican voters",
+    "link": "https://www.aljazeera.com/news/2026/11/2/us-midterms-2026-what-polls-reveal-about-democratic-republican-voters?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-02T22:40:06+00:00",
+    "first_seen": "2026-11-02T23:48:23.300438+00:00",
+    "excerpt": "From the economy and cost of living to immigration, polls suggest where American voters agree and disagree.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://theguardian.com/world/2026/nov/02/andy-burnham-ask-countries-affected-uk-role-slavery-shape-formal-apology",
     "title": "PM to ask countries affected by UK’s role in slavery to help shape formal apology",
     "link": "https://www.theguardian.com/world/2026/nov/02/andy-burnham-ask-countries-affected-uk-role-slavery-shape-formal-apology",
