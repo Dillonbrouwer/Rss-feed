@@ -1,5 +1,89 @@
 [
   {
+    "id": "https://aljazeera.com/news/2026/11/2/hrw-calls-on-zambia-to-halt-post-election-crackdown?traffic_source=rss",
+    "title": "HRW calls on Zambia to halt post-election crackdown",
+    "link": "https://www.aljazeera.com/news/2026/11/2/hrw-calls-on-zambia-to-halt-post-election-crackdown?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-02T19:40:10+00:00",
+    "first_seen": "2026-11-02T20:00:47.675226+00:00",
+    "excerpt": "Opposition figures arrested and disappeared since President Hakainde Hichilema claimed August victory.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/video/newsfeed/2026/11/2/protesters-i-support-genocide-sign-appears-to-face-no-police-action?traffic_source=rss",
+    "title": "Protester’s ‘I support genocide’ sign appears to face no police action",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/protesters-i-support-genocide-sign-appears-to-face-no-police-action?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-02T19:39:24+00:00",
+    "first_seen": "2026-11-02T20:00:47.675226+00:00",
+    "excerpt": "Holding a sign expressing support for genocide is not, in itself, grounds for arrest under UK law.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/us-news/2026/nov/02/haley-stevens-israel-aipac",
+    "title": "How Israel is at the heart of Haley Stevens’s extraordinary reversal",
+    "link": "https://www.theguardian.com/us-news/2026/nov/02/haley-stevens-israel-aipac",
+    "outlet": "The Guardian",
+    "author": "Joseph Gedeon in Detroit, Michigan",
+    "published": "2026-11-02T19:15:23+00:00",
+    "first_seen": "2026-11-02T20:00:47.675226+00:00",
+    "excerpt": "The issue runs through almost every twist and turn and has come to define the congresswoman’s political persona For Haley Stevens, the road from Democratic Senate candidate to campaigning alongside a Republican she once called a rubber stamp for Donald Trump has been remarkably short – and the…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/2/lindsay-clancy-in-court-to-drop-child-murder-charges-after-mistrial?traffic_source=rss",
+    "title": "Lindsay Clancy in court to drop child murder charges after mistrial",
+    "link": "https://www.aljazeera.com/news/2026/11/2/lindsay-clancy-in-court-to-drop-child-murder-charges-after-mistrial?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-02T19:11:37+00:00",
+    "first_seen": "2026-11-02T20:00:47.675226+00:00",
+    "excerpt": "Defence argues juror misconduct and judge's questioning impacted Clancy's trial for strangling of her three children.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/technology/2026/nov/02/europe-supermarket-fridges-freezers-who-hacking-why",
+    "title": "Who is hacking Europe’s supermarket fridges and freezers, and why?",
+    "link": "https://www.theguardian.com/technology/2026/nov/02/europe-supermarket-fridges-freezers-who-hacking-why",
+    "outlet": "The Guardian",
+    "author": "Robert Booth and Miatta Mbriwa",
+    "published": "2026-11-02T19:07:40+00:00",
+    "first_seen": "2026-11-02T20:00:47.675226+00:00",
+    "excerpt": "After a second apparent cyber-attack in as many weeks, we examine possible culprits and their motives Shop fridges and freezers across Europe hit by fresh suspected cyber-attack Supermarket fridges and freezers in seven European countries have malfunctioned , their thermostats remotely cranked up…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/2/trump-asks-supreme-court-to-block-20000-california-ballots-before-midterms?traffic_source=rss",
+    "title": "Trump asks Supreme Court to block 20,000 California ballots before midterms",
+    "link": "https://www.aljazeera.com/news/2026/11/2/trump-asks-supreme-court-to-block-20000-california-ballots-before-midterms?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-02T19:06:52+00:00",
+    "first_seen": "2026-11-02T20:00:47.675226+00:00",
+    "excerpt": "California says any move to block ballots from suspected noncitizens could disenfranchise eligible voters.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/video/talk-to-al-jazeera/2026/11/2/senegal-hosts-africas-first-olympics?traffic_source=rss",
+    "title": "Senegal hosts Africa’s first Olympics",
+    "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/11/2/senegal-hosts-africas-first-olympics?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-02T18:56:17+00:00",
+    "first_seen": "2026-11-02T20:00:47.675226+00:00",
+    "excerpt": "The head of the International Olympic Committee discusses the significance of Africa hosting the Youth Olympic Games.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://npr.org/2026/11/02/g-s1-151242/judge-tosses-case-fbi-officials-hunter-biden",
     "title": "Judge accuses DOJ of 'weaponization,' tosses case against ex-FBI officials",
     "link": "https://www.npr.org/2026/11/02/g-s1-151242/judge-tosses-case-fbi-officials-hunter-biden",
@@ -12,6 +96,18 @@
     "also_reported_by": []
   },
   {
+    "id": "https://aljazeera.com/news/2026/11/2/iran-pushing-accelerated-plan-for-ceasefire-talks-with-us?traffic_source=rss",
+    "title": "Iran pushing accelerated plan for ceasefire talks with US",
+    "link": "https://www.aljazeera.com/news/2026/11/2/iran-pushing-accelerated-plan-for-ceasefire-talks-with-us?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-02T18:49:26+00:00",
+    "first_seen": "2026-11-02T20:00:47.675226+00:00",
+    "excerpt": "Tehran says plan has been condensed and can be implemented within two days as it continues talks with mediators.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
     "title": "Russian bombing kills 24 people at Ukraine aid centre, Kyiv says",
     "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
@@ -20,6 +116,18 @@
     "published": "2026-11-02T18:48:00+00:00",
     "first_seen": "2026-11-02T19:10:28.967743+00:00",
     "excerpt": "Local officials say 27 people had been missing after at least nine 3,000kg aerial bombs hit a village in southern Ukraine.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/2/german-unions-launch-wave-of-strikes-over-cost-of-living-pressures?traffic_source=rss",
+    "title": "German unions launch wave of strikes over cost-of-living pressures",
+    "link": "https://www.aljazeera.com/news/2026/11/2/german-unions-launch-wave-of-strikes-over-cost-of-living-pressures?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-02T18:47:24+00:00",
+    "first_seen": "2026-11-02T20:00:47.675226+00:00",
+    "excerpt": "The expanded industrial action comes amid a wave of strikes and protests that have sparked unrest across Europe.",
     "tags": [],
     "also_reported_by": []
   },
