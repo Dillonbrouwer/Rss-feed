@@ -1,5 +1,89 @@
 [
   {
+    "id": "https://npr.org/2026/11/02/g-s1-151211/south-florida-jet-crash",
+    "title": "9 dead as jet nosedives and erupts into fireball near busy roadway in South Florida",
+    "link": "https://www.npr.org/2026/11/02/g-s1-151211/south-florida-jet-crash",
+    "outlet": "NPR",
+    "author": "The Associated Press",
+    "published": "2026-11-02T06:13:28+00:00",
+    "first_seen": "2026-11-02T06:19:21.072959+00:00",
+    "excerpt": "U.S. Transportation Secretary Duffy says all nine people died aboard a business jet that crashed into a Florida neighborhood. The aircraft departed from Austin, Texas, and was headed to the Bahamas.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/australia-news/2026/nov/02/minns-warns-rba-rate-rise-job-losses-economy",
+    "title": "Minns warns expected RBA rate rise will see ‘shops close that don’t reopen’ as pressure mounts on PM",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/02/minns-warns-rba-rate-rise-job-losses-economy",
+    "outlet": "The Guardian",
+    "author": "Tom McIlroy Political editor",
+    "published": "2026-11-02T06:08:33+00:00",
+    "first_seen": "2026-11-02T06:19:21.072959+00:00",
+    "excerpt": "Frustration grows over the economy with one Labor MP saying voter anger is already high ahead of Reserve Bank of Australia decision Get our daily political email , free app or daily news podcast The NSW premier, Chris Minns, has warned an expected interest rate increase will force job losses and…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/society/2026/nov/02/nhs-early-warning-system-child-illness-england",
+    "title": "World’s largest early warning system for severe child illness to launch in NHS A&Es across England",
+    "link": "https://www.theguardian.com/society/2026/nov/02/nhs-early-warning-system-child-illness-england",
+    "outlet": "The Guardian",
+    "author": "Robyn Vinter and agency",
+    "published": "2026-11-02T06:00:35+00:00",
+    "first_seen": "2026-11-02T06:19:21.072959+00:00",
+    "excerpt": "Paediatric early warning system (Pews) uses a vital signs scoring system to assess whether a child is deteriorating The world’s largest “early warning system” to spot when sick children are dangerously deteriorating is being introduced in A&E departments across England, NHS leaders have said. The…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/money/2026/nov/02/mortgage-payments-rise-2027-interest-rates",
+    "title": "Millions in UK brace to remortgage on worse deals as rate rise looms",
+    "link": "https://www.theguardian.com/money/2026/nov/02/mortgage-payments-rise-2027-interest-rates",
+    "outlet": "The Guardian",
+    "author": "Kalyeena Makortoff and Heather Stewart",
+    "published": "2026-11-02T06:00:34+00:00",
+    "first_seen": "2026-11-02T06:19:21.072959+00:00",
+    "excerpt": "More than 2.3m households face jump in payments in 2027, after expected increase in Bank of England rate this week More than 2.3m UK households face a sharp rise in mortgage payments as they come off fixed-rate deals in 2027, with the Bank of England expected to begin raising interest rates this…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/world/2026/nov/02/uk-trade-ban-west-bank-settlements-israel-election-poll",
+    "title": "Most Israelis think settlements policy should change to avoid more sanctions, poll finds",
+    "link": "https://www.theguardian.com/world/2026/nov/02/uk-trade-ban-west-bank-settlements-israel-election-poll",
+    "outlet": "The Guardian",
+    "author": "Patrick Wintour Diplomatic editor",
+    "published": "2026-11-02T06:00:33+00:00",
+    "first_seen": "2026-11-02T06:19:21.072959+00:00",
+    "excerpt": "Survey finds UK government’s decision to impose trade ban was not a decisive factor in how Israelis voted in election The UK government’s decision to impose a ban on trade in goods from illegal settlements was not decisive in how Israelis voted in their general election , but a majority think the…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/world/2026/nov/02/israel-opposition-bloc-arab-coalition-knesset-yousef-jabareen",
+    "title": "Israel has ‘historic’ opportunity to change direction, says leader of Arab coalition",
+    "link": "https://www.theguardian.com/world/2026/nov/02/israel-opposition-bloc-arab-coalition-knesset-yousef-jabareen",
+    "outlet": "The Guardian",
+    "author": "Julian Borger in Umm al-Fahm",
+    "published": "2026-11-02T06:00:32+00:00",
+    "first_seen": "2026-11-02T06:19:21.072959+00:00",
+    "excerpt": "Yousef Jabareen says he is ready to join forces with opposition bloc to oust Benjamin Netanyahu after winning record number of seats in Knesset The leader of Israel’s main Palestinian coalition, which holds the balance of power after Tuesday’s elections, has said the country is facing a historic…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://foreignpolicy.com/2026/11/02/midterms-foreign-policy-results",
+    "title": "Don’t Read Too Much Into These Midterms",
+    "link": "https://foreignpolicy.com/2026/11/02/midterms-foreign-policy-results/",
+    "outlet": "Foreign Policy",
+    "author": "Emma Ashford",
+    "published": "2026-11-02T05:01:53+00:00",
+    "first_seen": "2026-11-02T06:19:21.072959+00:00",
+    "excerpt": "Voters are angry about the Iran war, but that doesn’t mean they want to go back to the pre-Trump status quo.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://theguardian.com/society/2026/nov/02/counsellors-psychotherapists-statutory-regulation-uk-professional-bodies",
     "title": "Counsellors and psychotherapists call for UK statutory regulation in ‘watershed moment’",
     "link": "https://www.theguardian.com/society/2026/nov/02/counsellors-psychotherapists-statutory-regulation-uk-professional-bodies",
@@ -8,6 +92,18 @@
     "published": "2026-11-02T05:01:31+00:00",
     "first_seen": "2026-11-02T05:14:38.719819+00:00",
     "excerpt": "Exclusive: Professional bodies call for regulation to boost confidence and protect public from abuse in ‘landmark’ report Ministers should introduce statutory regulation for counsellors and psychotherapists to protect the public from abuse, according to a report that has been hailed as a “watershed…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://foreignpolicy.com/2026/11/02/biggest-october-surprise-1962-cuba",
+    "title": "The Biggest October Surprise of All",
+    "link": "https://foreignpolicy.com/2026/11/02/biggest-october-surprise-1962-cuba/",
+    "outlet": "Foreign Policy",
+    "author": "Julian E. Zelizer",
+    "published": "2026-11-02T05:01:26+00:00",
+    "first_seen": "2026-11-02T06:19:21.072959+00:00",
+    "excerpt": "A crisis that brought the U.S. and the Soviets to the brink of nuclear war in 1962 reshaped U.S. politics.",
     "tags": [],
     "also_reported_by": []
   },
