@@ -1,5 +1,77 @@
 [
   {
+    "id": "https://bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
+    "title": "Spanish transport minister resigns days after deadly train crash",
+    "link": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-03T20:56:32+00:00",
+    "first_seen": "2026-11-03T20:58:58.308878+00:00",
+    "excerpt": "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://scotusblog.com/2026/11/court-seems-poised-to-side-with-catholic-preschools-in-religious-discrimination-dispute",
+    "title": "Court seems poised to side with Catholic preschools in religious discrimination dispute",
+    "link": "https://www.scotusblog.com/2026/11/court-seems-poised-to-side-with-catholic-preschools-in-religious-discrimination-dispute/",
+    "outlet": "SCOTUSblog",
+    "author": "Amy Howe",
+    "published": "2026-11-03T20:45:36+00:00",
+    "first_seen": "2026-11-03T20:58:58.308878+00:00",
+    "excerpt": "",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/technology/2026/nov/03/google-search-artificial-intelligence",
+    "title": "Google says there’s no way to use Search without using artificial intelligence",
+    "link": "https://www.theguardian.com/technology/2026/nov/03/google-search-artificial-intelligence",
+    "outlet": "The Guardian",
+    "author": "Johana Bhuiyan",
+    "published": "2026-11-03T20:30:06+00:00",
+    "first_seen": "2026-11-03T20:58:58.308878+00:00",
+    "excerpt": "In announcement geared to schools, tech giant showed how entwined AI is with the world’s most popular website Google just acknowledged that you can’t use Google Search without using artificial intelligence . The search giant announced a slate of new AI products for classrooms and schools on Tuesday…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/world/2026/nov/04/two-australians-dead-in-spain-high-speed-train-crash-ntwnfb",
+    "title": "Two Australians confirmed dead in Spain’s high-speed train crash",
+    "link": "https://www.theguardian.com/world/2026/nov/04/two-australians-dead-in-spain-high-speed-train-crash-ntwnfb",
+    "outlet": "The Guardian",
+    "author": "Agence France-Presse",
+    "published": "2026-11-03T20:21:14+00:00",
+    "first_seen": "2026-11-03T20:58:58.308878+00:00",
+    "excerpt": "Legal body handling identification says three latest victims include two Australians and a Japanese citizen Get our breaking news email , free app or daily news podcast Two Australians are among 69 people who died in last week’s high-speed train collision after Spanish authorities confirmed the…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/video/newsfeed/2026/11/3/michigan-voters-face-crucial-choice-as-trumps-grip-on-congress-is-tested?traffic_source=rss",
+    "title": "Michigan voters face crucial choice as Trump’s grip on Congress is tested",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/michigan-voters-face-crucial-choice-as-trumps-grip-on-congress-is-tested?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-03T20:00:30+00:00",
+    "first_seen": "2026-11-03T20:58:58.308878+00:00",
+    "excerpt": "Michigan’s closely contested Senate race and voter concerns over the economy are putting Trump’s control of Washington.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/politics/2026/nov/03/andy-burnham-to-unveil-eu-trade-deals-brexit",
+    "title": "Andy Burnham to unveil EU trade deals worth billions of pounds",
+    "link": "https://www.theguardian.com/politics/2026/nov/03/andy-burnham-to-unveil-eu-trade-deals-brexit",
+    "outlet": "The Guardian",
+    "author": "Kiran Stacey and Lisa O’Carroll",
+    "published": "2026-11-03T20:00:13+00:00",
+    "first_seen": "2026-11-03T20:58:58.308878+00:00",
+    "excerpt": "Agriculture, youth visas and emissions agreements nearly tied up under PM’s plan for a much closer relationship with Brussels The UK-EU food produce deal: what was agreed and will it affect shoppers? Andy Burnham is preparing to announce billions of pounds of trade deals with the EU covering…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://theguardian.com/science/2026/nov/03/nasa-telescope-neil-gehrels-swift-observatory",
     "title": "Nasa telescope launched in 2004 to plunge back to Earth after failed rescue mission",
     "link": "https://www.theguardian.com/science/2026/nov/03/nasa-telescope-neil-gehrels-swift-observatory",
@@ -764,6 +836,18 @@
     "published": "2026-11-03T14:00:46+00:00",
     "first_seen": "2026-11-03T15:02:29.864214+00:00",
     "excerpt": "Exclusive: Community and Public Sector Union denounces ‘privatisation by stealth’, joining growing number of unions turning on Carroll government Get our breaking news email , free app or daily news podcast Victoria’s public servants union says it will not support Labor at this month’s state…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/australia-news/2026/nov/04/choice-2026-shonky-awards-virgin-ticketmaster-hisense-sony",
+    "title": "Ticket sellers, Virgin flight credits and a 25-hour laundry cycle: meet Choice’s 2026 Shonky award winners",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/04/choice-2026-shonky-awards-virgin-ticketmaster-hisense-sony",
+    "outlet": "The Guardian",
+    "author": "Catie McLeod",
+    "published": "2026-11-03T14:00:46+00:00",
+    "first_seen": "2026-11-03T20:58:58.308878+00:00",
+    "excerpt": "Australia’s worst products and services for the year have been named by consumer advocacy group Choice Get our breaking news email , free app or daily news podcast Concert tickets that surge to $1,650, an airline pocketing $75m of unused flight credits and a washer/dryer cycle that takes 25 hours…",
     "tags": [],
     "also_reported_by": []
   },
