@@ -1,5 +1,77 @@
 [
   {
+    "id": "https://aljazeera.com/news/2026/11/3/where-have-there-been-technical-issues-so-far-during-us-midterm-elections?traffic_source=rss",
+    "title": "Where have there been technical issues so far during US midterm elections?",
+    "link": "https://www.aljazeera.com/news/2026/11/3/where-have-there-been-technical-issues-so-far-during-us-midterm-elections?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-03T23:42:36+00:00",
+    "first_seen": "2026-11-03T23:50:45.743992+00:00",
+    "excerpt": "Some polling stations have experienced vote-delaying issues that officials describe as being minor.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/us-news/ng-interactive/2026/nov/03/midterm-elections-full-results-senate-house-governor-races",
+    "title": "US midterm elections 2026: live results from Senate, House and governor races in all 50 states",
+    "link": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/03/midterm-elections-full-results-senate-house-governor-races",
+    "outlet": "The Guardian",
+    "author": "Antonio Voce, Seán Clarke, Ed Gargan, Anna Leach and Ashley Kirk",
+    "published": "2026-11-03T23:30:14+00:00",
+    "first_seen": "2026-11-03T23:50:45.743992+00:00",
+    "excerpt": "The US has been voting for senators, members of the House of Representatives and state governors in the midterm elections. Here are the results in full US midterm elections - live updates The US legislature, Congress, has two chambers: the House of Representatives and the Senate. Continue reading...",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://npr.org/2026/11/03/nx-s1-6026666/what-democrats-plan-to-prioritize-if-they-retake-the-house",
+    "title": "What Democrats plan to prioritize if they retake the House",
+    "link": "https://www.npr.org/2026/11/03/nx-s1-6026666/what-democrats-plan-to-prioritize-if-they-retake-the-house",
+    "outlet": "NPR",
+    "author": "Mia Venkat",
+    "published": "2026-11-03T23:11:49+00:00",
+    "first_seen": "2026-11-03T23:50:45.743992+00:00",
+    "excerpt": "This election will determine control of Congress. Rep. Pete Aguilar, who represents California's 33rd Congressional District, shares how Democratic Party leaders are feeling as results come in.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/3/first-polls-close-in-pivotal-us-midterm-elections?traffic_source=rss",
+    "title": "First polls close in pivotal US midterm elections",
+    "link": "https://www.aljazeera.com/news/2026/11/3/first-polls-close-in-pivotal-us-midterm-elections?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-03T23:03:42+00:00",
+    "first_seen": "2026-11-03T23:50:45.743992+00:00",
+    "excerpt": "With control of the US Congress on the line, results from Tuesday's races will have marked implications for the country.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://foreignpolicy.com/2026/11/03/us-iran-strikes-midterms-israel-aid-ukraine-russia-agoa-australia",
+    "title": "Iran Strikes and Israel Aid Cuts Shake Up Election Day",
+    "link": "https://foreignpolicy.com/2026/11/03/us-iran-strikes-midterms-israel-aid-ukraine-russia-agoa-australia/",
+    "outlet": "Foreign Policy",
+    "author": "Maxine Davey and Maya Krainc",
+    "published": "2026-11-03T23:02:31+00:00",
+    "first_seen": "2026-11-03T23:50:45.743992+00:00",
+    "excerpt": "Two last-minute foreign-policy developments could impact U.S. voters’ midterm decisions.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://npr.org/2026/11/03/nx-s1-6027957/results-voter-id-citizenship-ballot-measures",
+    "title": "Results: States decide on voter ID and redistricting ballot measures",
+    "link": "https://www.npr.org/2026/11/03/nx-s1-6027957/results-voter-id-citizenship-ballot-measures",
+    "outlet": "NPR",
+    "author": "NPR Washington Desk",
+    "published": "2026-11-03T22:53:23+00:00",
+    "first_seen": "2026-11-03T23:50:45.743992+00:00",
+    "excerpt": "Several states — including Alaska, Arizona, California and Nevada — are voting on changes to how their elections are run, including voter ID measures. Other states decide on redistricting proposals.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates",
     "title": "US midterm elections 2026 live updates: key House and Senate races to determine control of Congress for remainder of Trump’s term",
     "link": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates",
@@ -104,6 +176,18 @@
     "published": "2026-11-03T22:18:45+00:00",
     "first_seen": "2026-11-03T22:57:38.492022+00:00",
     "excerpt": "Midterms didn’t appear to have huge impact, though predicted wins for Democrats could mean more regulation US tech stocks made a recovery on Tuesday afternoon after a selloff spooked investors over AI spending. Tuesday’s midterm elections didn’t appear to have a huge impact on Wall Street, though…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://npr.org/2026/11/03/nx-s1-6026566/scotus-religious-freedom-case",
+    "title": "Supreme Court leans toward LGBTQ exclusion for publicly funded Catholic preschools",
+    "link": "https://www.npr.org/2026/11/03/nx-s1-6026566/scotus-religious-freedom-case",
+    "outlet": "NPR",
+    "author": "Nina Totenberg",
+    "published": "2026-11-03T22:14:29+00:00",
+    "first_seen": "2026-11-03T23:50:45.743992+00:00",
+    "excerpt": "The Supreme Court heard arguments Tuesday about Colorado's universal pre-K program and whether religious schools can bar certain families despite the state's anti-discrimination law.",
     "tags": [],
     "also_reported_by": []
   },
