@@ -1,5 +1,77 @@
 [
   {
+    "id": "https://npr.org/2026/11/04/nx-s1-6028833/midterms-ballot-measures-abortion-lgbtq-guns",
+    "title": "Where voters stand on state ballot measures, from abortion to LGBTQ rights to guns",
+    "link": "https://www.npr.org/2026/11/04/nx-s1-6028833/midterms-ballot-measures-abortion-lgbtq-guns",
+    "outlet": "NPR",
+    "author": "Rachel Treisman",
+    "published": "2026-11-04T21:49:17+00:00",
+    "first_seen": "2026-11-04T21:58:41.451735+00:00",
+    "excerpt": "Voters in dozens of states considered 146 statewide ballot measures this midterm cycle, on topics spanning LGBTQ rights, wealth taxes, abortion, redistricting, guns and more.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/video/newsfeed/2026/11/4/social-media-reacts-to-democrats-takeover-of-us-congress?traffic_source=rss",
+    "title": "Social media reacts to Democrats’ takeover of US Congress",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/social-media-reacts-to-democrats-takeover-of-us-congress?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-04T21:21:58+00:00",
+    "first_seen": "2026-11-04T21:58:41.451735+00:00",
+    "excerpt": "Social media is awash with reactions to Democrats’ sweeping midterm gains.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/4/israel-restricting-treatment-for-1100-child-amputees-in-gaza-ngo?traffic_source=rss",
+    "title": "Israel restricting treatment for 1,100 child amputees in Gaza: NGO",
+    "link": "https://www.aljazeera.com/news/2026/11/4/israel-restricting-treatment-for-1100-child-amputees-in-gaza-ngo?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-04T21:13:56+00:00",
+    "first_seen": "2026-11-04T21:58:41.451735+00:00",
+    "excerpt": "Israeli restrictions on travel and medical evacuations prevent children in Gaza from being treated abroad.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://npr.org/2026/11/04/nx-s1-6029650/elon-musk-midterms-democrats-texas-congress",
+    "title": "Elon Musk will face scrutiny from Democrats after midterms",
+    "link": "https://www.npr.org/2026/11/04/nx-s1-6029650/elon-musk-midterms-democrats-texas-congress",
+    "outlet": "NPR",
+    "author": "Katie McQue",
+    "published": "2026-11-04T21:11:23+00:00",
+    "first_seen": "2026-11-04T21:58:41.451735+00:00",
+    "excerpt": "Democrats are likely to launch investigations into Musk's influence, including his leadership of DOGE and government contracts",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/world/2026/nov/04/debt-relief-aid-no-replacement-slavery-reparations-uk-told-caribbean",
+    "title": "Debt relief and aid no replacement for slavery reparations, UK told",
+    "link": "https://www.theguardian.com/world/2026/nov/04/debt-relief-aid-no-replacement-slavery-reparations-uk-told-caribbean",
+    "outlet": "The Guardian",
+    "author": "Natricia Duncan",
+    "published": "2026-11-04T21:10:55+00:00",
+    "first_seen": "2026-11-04T21:58:41.451735+00:00",
+    "excerpt": "Leading figures in Caribbean reparatory justice movement speak out after UK PM announced infrastructure package Offers of debt relief and development assistance from the UK cannot be a replacement for reparations for centuries of slavery, leading figures in the Caribbean reparatory justice movement…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/business/2026/nov/05/telstra-customers-false-missed-call-notifications-apology",
+    "title": "Telstra apologises after customers mystified by phantom missed call notifications",
+    "link": "https://www.theguardian.com/business/2026/nov/05/telstra-customers-false-missed-call-notifications-apology",
+    "outlet": "The Guardian",
+    "author": "Nick Visser",
+    "published": "2026-11-04T21:10:20+00:00",
+    "first_seen": "2026-11-04T21:58:41.451735+00:00",
+    "excerpt": "Telco blames its MessageBank service and apologises for customer confusion Get our breaking news email , free app or daily news podcast Thousands of Telstra users have reported phantom calls on their mobile devices, with some receiving delayed missed call notifications or voicemails, sometimes days…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://aljazeera.com/news/liveblog/2026/11/4/us-midterm-election-results-live-trump-reacts-as-more-results-awaited?traffic_source=rss",
     "title": "US midterm election results live: Trump blames Iran war after losses",
     "link": "https://www.aljazeera.com/news/liveblog/2026/11/4/us-midterm-election-results-live-trump-reacts-as-more-results-awaited?traffic_source=rss",
@@ -8,6 +80,30 @@
     "published": "2026-11-04T21:00:00+00:00",
     "first_seen": "2026-11-04T21:03:51.041112+00:00",
     "excerpt": "A Democratic romp has rocked the US political landscape, but several closely contested races remain too close to call.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://foreignpolicy.com/2026/11/04/un-peacekeeping-mission-western-sahara-africa-morocco",
+    "title": "U.N. Peacekeepers Are Leaving Western Sahara. What Does That Mean?",
+    "link": "https://foreignpolicy.com/2026/11/04/un-peacekeeping-mission-western-sahara-africa-morocco/",
+    "outlet": "Foreign Policy",
+    "author": "Nosmot Gbadamosi",
+    "published": "2026-11-04T20:56:42+00:00",
+    "first_seen": "2026-11-04T21:58:41.451735+00:00",
+    "excerpt": "Where the disputed territory stands as the 35-year-old U.N. mission comes to an end.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://foreignpolicy.com/2026/11/04/us-midterm-election-democrats-congress-iran-war-economy-corruption-trump",
+    "title": "Democrats Won Big in the U.S. Midterms. What’s Next?",
+    "link": "https://foreignpolicy.com/2026/11/04/us-midterm-election-democrats-congress-iran-war-economy-corruption-trump/",
+    "outlet": "Foreign Policy",
+    "author": "Alexandra Sharp",
+    "published": "2026-11-04T20:51:17+00:00",
+    "first_seen": "2026-11-04T21:58:41.451735+00:00",
+    "excerpt": "Ending the Iran war, reducing grocery costs, and investigating alleged corruption are all on the left’s to-do list.",
     "tags": [],
     "also_reported_by": []
   },
