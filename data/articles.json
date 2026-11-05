@@ -1,5 +1,77 @@
 [
   {
+    "id": "https://bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
+    "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+    "link": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-05T03:56:16+00:00",
+    "first_seen": "2026-11-05T04:07:59.487392+00:00",
+    "excerpt": "Wong, 30, is among hundreds of Hongkongers detained under the controversial national security law.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
+    "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
+    "link": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-05T03:47:56+00:00",
+    "first_seen": "2026-11-05T04:07:59.487392+00:00",
+    "excerpt": "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/world/2026/nov/05/hong-kong-joshua-wong-sentenced-national-security-case",
+    "title": "Hong Kong pro-democracy activist Joshua Wong sentenced to 10 years in prison in national security case",
+    "link": "https://www.theguardian.com/world/2026/nov/05/hong-kong-joshua-wong-sentenced-national-security-case",
+    "outlet": "The Guardian",
+    "author": "Danny Vincent",
+    "published": "2026-11-05T03:28:52+00:00",
+    "first_seen": "2026-11-05T04:07:59.487392+00:00",
+    "excerpt": "Wong, 30, has been imprisoned since 2020 and is the only activist in Hong Kong prosecuted twice under national security law Hong Kong activist Joshua Wong was sentenced on Thursday to 10 years in prison after pleading guilty to “foreign collusion”, his second conviction under a national security…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/5/whats-delaying-us-midterm-election-calls-in-mississippi-and-alaska?traffic_source=rss",
+    "title": "What’s delaying the US Senate election results in Mississippi and Alaska?",
+    "link": "https://www.aljazeera.com/news/2026/11/5/whats-delaying-us-midterm-election-calls-in-mississippi-and-alaska?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-05T03:13:08+00:00",
+    "first_seen": "2026-11-05T04:07:59.487392+00:00",
+    "excerpt": "Ranked-choice voting may decide Alaska's Senate outcome, while Mississippi's race hangs on a knife's edge.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/news/audio/2026/nov/05/trump-has-been-humbled-now-what-podcast",
+    "title": "Trump has been humbled. Now what? - podcast",
+    "link": "https://www.theguardian.com/news/audio/2026/nov/05/trump-has-been-humbled-now-what-podcast",
+    "outlet": "The Guardian",
+    "author": "Presented by Annie Kelly with Molly Ball; produced by Guy Szafman, Alex Atack and Brian McNamara; executive producer Sami Kent",
+    "published": "2026-11-05T03:00:51+00:00",
+    "first_seen": "2026-11-05T04:07:59.487392+00:00",
+    "excerpt": "Journalist Molly Ball reports from Washington DC after the Republicans’ resounding midterms defeat. Will the party finally distance itself from Donald Trump? And what will the Democrats do with the power they’ve just gained? Send your comments and questions to tif.questions@theguardian.com How will…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/video/newsfeed/2026/11/5/former-israeli-generals-help-palestinian-olive-farmers?traffic_source=rss",
+    "title": "Former Israeli generals help Palestinian olive farmers",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/former-israeli-generals-help-palestinian-olive-farmers?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-05T02:52:30+00:00",
+    "first_seen": "2026-11-05T04:07:59.487392+00:00",
+    "excerpt": "A group of former Israeli military generals offered their help to Palestinian olive farmers in the occupied West Bank.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://aljazeera.com/video/newsfeed/2026/11/5/vote-counting-underway-in-critical-south-africa-elections?traffic_source=rss",
     "title": "Vote counting underway in critical South Africa elections",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/vote-counting-underway-in-critical-south-africa-elections?traffic_source=rss",
@@ -32,6 +104,18 @@
     "published": "2026-11-05T02:10:07+00:00",
     "first_seen": "2026-11-05T03:02:46.937314+00:00",
     "excerpt": "Haitian police have found a vehicle used by four missing Salvadoran technicians as Salvadoran troops deploy to Haiti.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://bbc.co.uk/news/articles/cm0e035n13ylo?at_medium=RSS&at_campaign=rss",
+    "title": "Pope Leo hosts Bob Dylan at official residence in Rome",
+    "link": "https://www.bbc.co.uk/news/articles/cm0e035n13ylo?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-05T02:09:23+00:00",
+    "first_seen": "2026-11-05T04:07:59.487392+00:00",
+    "excerpt": "Pope Leo had previously quoted Dylan's work in the preface of a book warning against nuclear rearmament.",
     "tags": [],
     "also_reported_by": []
   },
@@ -192,6 +276,18 @@
     "also_reported_by": []
   },
   {
+    "id": "https://bbc.co.uk/news/articles/cqvgry8k5d01o?at_medium=RSS&at_campaign=rss",
+    "title": "Mother and daughter die after suspected grizzly bear attack in Canada",
+    "link": "https://www.bbc.co.uk/news/articles/cqvgry8k5d01o?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-04T23:50:40+00:00",
+    "first_seen": "2026-11-05T04:07:59.487392+00:00",
+    "excerpt": "Authorities in British Columbia say evidence suggests an animal may have been involved in the women's deaths.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://aljazeera.com/video/newsfeed/2026/11/4/who-gets-to-vote-in-the-us?traffic_source=rss",
     "title": "Who gets to vote in the US?",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/who-gets-to-vote-in-the-us?traffic_source=rss",
@@ -248,6 +344,18 @@
     "published": "2026-11-04T23:23:56+00:00",
     "first_seen": "2026-11-05T01:22:53.592445+00:00",
     "excerpt": "Here’s what Congress can actually do in the next two years.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://bbc.co.uk/news/articles/cw33kgj7nkemo?at_medium=RSS&at_campaign=rss",
+    "title": "Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'",
+    "link": "https://www.bbc.co.uk/news/articles/cw33kgj7nkemo?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-04T23:12:47+00:00",
+    "first_seen": "2026-11-05T04:07:59.487392+00:00",
+    "excerpt": "Even for countries where typhoons are a way of life, the last few months have brought unusually wild weather.",
     "tags": [],
     "also_reported_by": []
   },
@@ -860,6 +968,18 @@
     "published": "2026-11-04T18:01:31+00:00",
     "first_seen": "2026-11-04T18:02:20.005061+00:00",
     "excerpt": "With Canada-US trade talks back on, Tuesday’s midterm Democratic wave puts pressure on the White House to come to a deal.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&at_campaign=rss",
+    "title": "What Democrats can and can't do with their new power after taking Congress",
+    "link": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-04T18:01:27+00:00",
+    "first_seen": "2026-11-05T04:07:59.487392+00:00",
+    "excerpt": "Democrats can vote legislation through. But Trump still has veto power.",
     "tags": [],
     "also_reported_by": []
   },
