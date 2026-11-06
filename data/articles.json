@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://theguardian.com/us-news/2026/nov/06/susie-wiles-white-house-resignation",
+    "title": "Susie Wiles exits White House as Trump ousts another woman from key role",
+    "link": "https://www.theguardian.com/us-news/2026/nov/06/susie-wiles-white-house-resignation",
+    "outlet": "The Guardian",
+    "author": "Maya Yang",
+    "published": "2026-11-06T22:35:09+00:00",
+    "first_seen": "2026-11-06T22:53:47.637165+00:00",
+    "excerpt": "Wiles thanks president for ‘honor of a lifetime’ as departure leaves behind overwhelmingly male leadership team US politics live – latest updates Donald Trump on Friday said Susie Wiles, the first woman to serve as White House chief of staff, will leave her post, a major shake-up of his inner…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://foreignpolicy.com/2026/11/06/ai-stock-market-us-midterms-democrats-data-centers-regulation",
+    "title": "Global AI Stocks React to U.S. Midterm Results",
+    "link": "https://foreignpolicy.com/2026/11/06/ai-stock-market-us-midterms-democrats-data-centers-regulation/",
+    "outlet": "Foreign Policy",
+    "author": "Alexandra Sharp",
+    "published": "2026-11-06T21:59:39+00:00",
+    "first_seen": "2026-11-06T22:53:47.637165+00:00",
+    "excerpt": "Incoming Democrats have pledged to rein in AI and data centers.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/video/newsfeed/2026/11/6/palestinian-couples-tie-the-knot-in-mass-wedding-in-gaza?traffic_source=rss",
+    "title": "Palestinian couples tie the knot in mass wedding in Gaza",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/palestinian-couples-tie-the-knot-in-mass-wedding-in-gaza?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-06T21:37:30+00:00",
+    "first_seen": "2026-11-06T22:53:47.637165+00:00",
+    "excerpt": "The event brought 250 couples together to celebrate love and new beginnings despite Israel’s genocidal war on Gaza.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://aljazeera.com/news/2026/11/6/who-is-stephen-miller-trumps-new-white-house-chief-of-staff?traffic_source=rss",
     "title": "Who is Stephen Miller, Trump’s new White House chief of staff?",
     "link": "https://www.aljazeera.com/news/2026/11/6/who-is-stephen-miller-trumps-new-white-house-chief-of-staff?traffic_source=rss",
@@ -596,6 +632,18 @@
     "published": "2026-11-06T17:50:13+00:00",
     "first_seen": "2026-11-06T19:07:07.688806+00:00",
     "excerpt": "A win at struggling Valencia would provisionally take Madrid level on points with league leaders Barcelona.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&at_campaign=rss",
+    "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",
+    "link": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-06T17:44:02+00:00",
+    "first_seen": "2026-11-06T22:53:47.637165+00:00",
+    "excerpt": "Prosecutors begin investigating EU funds meant for upgrading the Spanish railway line where a train crash killed 69 people.",
     "tags": [],
     "also_reported_by": []
   },
