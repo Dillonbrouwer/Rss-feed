@@ -1,5 +1,65 @@
 [
   {
+    "id": "https://aljazeera.com/news/2026/11/6/who-is-stephen-miller-trumps-new-white-house-chief-of-staff?traffic_source=rss",
+    "title": "Who is Stephen Miller, Trump’s new White House chief of staff?",
+    "link": "https://www.aljazeera.com/news/2026/11/6/who-is-stephen-miller-trumps-new-white-house-chief-of-staff?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-06T21:22:57+00:00",
+    "first_seen": "2026-11-06T21:52:58.142830+00:00",
+    "excerpt": "Miller has been a close confidant of Trump since 2016 and an architect of the president's hardline immigration policies.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/us-news/2026/nov/06/ai-ceo-impersonation-theft",
+    "title": "Three men charged in US with using AI to impersonate CEOs and steal millions",
+    "link": "https://www.theguardian.com/us-news/2026/nov/06/ai-ceo-impersonation-theft",
+    "outlet": "The Guardian",
+    "author": "Johana Bhuiyan",
+    "published": "2026-11-06T21:20:49+00:00",
+    "first_seen": "2026-11-06T21:52:58.142830+00:00",
+    "excerpt": "Men allegedly impersonated voices and images of executives to convince employees to send large payments Three foreign nationals were arrested and charged with using AI to allegedly impersonate corporate CEOs and attorneys to steal over $100m, according to an indictment that was newly unsealed by…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/us-news/2026/nov/06/democrats-renew-calls-for-datacenter-pauses",
+    "title": "Several Democrats renew calls for datacenter pauses after blue wave",
+    "link": "https://www.theguardian.com/us-news/2026/nov/06/democrats-renew-calls-for-datacenter-pauses",
+    "outlet": "The Guardian",
+    "author": "Nick Robins-Early",
+    "published": "2026-11-06T21:14:46+00:00",
+    "first_seen": "2026-11-06T21:52:58.142830+00:00",
+    "excerpt": "Tech industry fears delays to its multi-trillion dollar infrastructure buildout meant to power artificial intelligence Several newly elected Democrats and Senator Bernie Sanders have renewed calls for datacenter moratoriums in the days after the US midterm elections. The sweeping Democratic victory…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/us-news/2026/nov/06/cornell-faculty-declares-no-confidence-school-leaders",
+    "title": "Cornell faculty declares ‘no confidence’ in school leaders in fallout from alleged gang-rape",
+    "link": "https://www.theguardian.com/us-news/2026/nov/06/cornell-faculty-declares-no-confidence-school-leaders",
+    "outlet": "The Guardian",
+    "author": "Associated Press",
+    "published": "2026-11-06T21:11:37+00:00",
+    "first_seen": "2026-11-06T21:52:58.142830+00:00",
+    "excerpt": "Faculty senate passed resolution expressing deep discontent with school’s response to alleged fraternity rape Cornell University’s faculty senate approved a resolution on Friday declaring “no confidence” in the school’s top leaders, a symbolic gesture reflecting deep discontent on campus in the…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/6/protesters-break-into-microsoft-data-centre-site-in-amsterdam?traffic_source=rss",
+    "title": "Protesters break into Microsoft data centre site in Amsterdam",
+    "link": "https://www.aljazeera.com/news/2026/11/6/protesters-break-into-microsoft-data-centre-site-in-amsterdam?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-06T21:04:40+00:00",
+    "first_seen": "2026-11-06T21:52:58.142830+00:00",
+    "excerpt": "Data centres face protests across Europe due to the massive amounts of computing power and water they use.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://aljazeera.com/video/newsfeed/2026/11/6/trump-promotes-stephen-miller-to-chief-of-staff-to-run-things?traffic_source=rss",
     "title": "Trump promotes Stephen Miller to Chief of Staff ‘to run things well’",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/trump-promotes-stephen-miller-to-chief-of-staff-to-run-things?traffic_source=rss",
@@ -8,6 +68,18 @@
     "published": "2026-11-06T20:48:25+00:00",
     "first_seen": "2026-11-06T20:57:39.021335+00:00",
     "excerpt": "President Donald Trump has promoted long-time aide Stephen Miller to Chief of Staff, replacing Susie Wiles.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://foreignpolicy.com/2026/11/06/us-midterm-elections-senate-ages-average-decline-oecd",
+    "title": "The U.S. Senate Just Got a Lot Younger",
+    "link": "https://foreignpolicy.com/2026/11/06/us-midterm-elections-senate-ages-average-decline-oecd/",
+    "outlet": "Foreign Policy",
+    "author": "Alexandra Sharp",
+    "published": "2026-11-06T20:46:41+00:00",
+    "first_seen": "2026-11-06T21:52:58.142830+00:00",
+    "excerpt": "The midterms put a huge dent in America’s gerontocracy.",
     "tags": [],
     "also_reported_by": []
   },
