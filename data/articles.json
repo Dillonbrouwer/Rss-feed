@@ -1,5 +1,77 @@
 [
   {
+    "id": "https://npr.org/2026/11/06/nx-s1-6031990/trump-arch-injunction",
+    "title": "Trump's arch gets a late-night green light. Will a judge stop construction?",
+    "link": "https://www.npr.org/2026/11/06/nx-s1-6031990/trump-arch-injunction",
+    "outlet": "NPR",
+    "author": "Rachel Treisman",
+    "published": "2026-11-06T05:05:43+00:00",
+    "first_seen": "2026-11-06T05:11:34.522083+00:00",
+    "excerpt": "The Trump administration has said it could begin construction immediately after Thursday's vote. All eyes are now on the federal judge who has been asked to block it.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/6/trump-issues-proclamation-declaring-oval-office-national-monument?traffic_source=rss",
+    "title": "Trump issues proclamation declaring Oval Office national monument",
+    "link": "https://www.aljazeera.com/news/2026/11/6/trump-issues-proclamation-declaring-oval-office-national-monument?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-06T04:48:00+00:00",
+    "first_seen": "2026-11-06T05:11:34.522083+00:00",
+    "excerpt": "Following election losses, the signing marks Trump's third event of the week focused on signature renovation projects.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/australia-news/2026/nov/06/us-midterms-warning-for-australia-cost-of-living-fuel-prices",
+    "title": "Australia faces same issues that flipped control of US Congress in midterms, experts say",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/06/us-midterms-warning-for-australia-cost-of-living-fuel-prices",
+    "outlet": "The Guardian",
+    "author": "Tom McIlroy and Patrick Commins",
+    "published": "2026-11-06T04:45:24+00:00",
+    "first_seen": "2026-11-06T05:11:34.522083+00:00",
+    "excerpt": "Anthony Albanese’s government has taken a blow due to Iran war but voter anxiety around cost of living and datacentres may hit harder Get our daily political email , free app or daily news podcast The Democrats’ stunning midterm victory should broaden Australia’s alliance with the US, observers…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/6/israeli-settlers-seize-8-palestinian-homes-in-jericho-displacing-dozens?traffic_source=rss",
+    "title": "Israeli settlers seize 8 Palestinian homes in Jericho, displacing dozens",
+    "link": "https://www.aljazeera.com/news/2026/11/6/israeli-settlers-seize-8-palestinian-homes-in-jericho-displacing-dozens?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-06T04:30:26+00:00",
+    "first_seen": "2026-11-06T05:11:34.522083+00:00",
+    "excerpt": "UN says settlers reportedly used live ammunition and beat Palestinians, forcing families to flee for their safety.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/video/newsfeed/2026/11/6/democratic-socialist-nithya-raman-wins-la-mayoral-race?traffic_source=rss",
+    "title": "Democratic Socialist Nithya Raman wins LA mayoral race",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/democratic-socialist-nithya-raman-wins-la-mayoral-race?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-06T04:29:04+00:00",
+    "first_seen": "2026-11-06T05:11:34.522083+00:00",
+    "excerpt": "Nithya Raman's victory in LA marks the second major win for Democratic Socialists in a year.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/video/newsfeed/2026/11/6/building-wind-turbines-out-of-parts-found-in-gazas-rubble?traffic_source=rss",
+    "title": "Building wind turbines out of parts found in Gaza’s rubble",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/building-wind-turbines-out-of-parts-found-in-gazas-rubble?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-06T04:20:22+00:00",
+    "first_seen": "2026-11-06T05:11:34.522083+00:00",
+    "excerpt": "Palestinians in Gaza have made wind turbines to generate electricity, using scraps found in the rubble.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://aljazeera.com/video/newsfeed/2026/11/6/paraguays-president-impeached-amid-bank-collapse-crisis?traffic_source=rss",
     "title": "Paraguay’s president impeached amid bank collapse crisis",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/paraguays-president-impeached-amid-bank-collapse-crisis?traffic_source=rss",
