@@ -1,5 +1,89 @@
 [
   {
+    "id": "https://theguardian.com/us-news/2026/nov/06/trump-rightwing-supreme-court-justice",
+    "title": "Trump will be blocked from putting ‘rightwinger’ on supreme court, Schumer says",
+    "link": "https://www.theguardian.com/us-news/2026/nov/06/trump-rightwing-supreme-court-justice",
+    "outlet": "The Guardian",
+    "author": "Ariana Baio",
+    "published": "2026-11-06T17:40:23+00:00",
+    "first_seen": "2026-11-06T17:57:03.439559+00:00",
+    "excerpt": "After midterm wins, Democratics plan comeback for when new Congress is sworn in, including pushback against Trump and his policies Donald Trump will be blocked from putting a “rightwinger” on the US supreme court, according to Chuck Schumer, the soon-to-be Senate majority leader, in remarks that…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/video/newsfeed/2026/11/6/us-city-votes-to-divest-from-israel?traffic_source=rss",
+    "title": "US city votes to divest from Israel",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/us-city-votes-to-divest-from-israel?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-06T17:40:13+00:00",
+    "first_seen": "2026-11-06T17:57:03.439559+00:00",
+    "excerpt": "Voters in Providence, Rhode Island called for for the city to stop its investments that support genocide.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://npr.org/2026/11/06/nx-s1-6030777/remembering-star-trek-actor-patrick-stewart",
+    "title": "Remembering 'Star Trek' actor Patrick Stewart",
+    "link": "https://www.npr.org/2026/11/06/nx-s1-6030777/remembering-star-trek-actor-patrick-stewart",
+    "outlet": "NPR",
+    "author": "Terry Gross",
+    "published": "2026-11-06T17:36:39+00:00",
+    "first_seen": "2026-11-06T17:57:03.439559+00:00",
+    "excerpt": "Stewart, who died Oct. 28, performed with the Royal Shakespeare Company before becoming famous as Star Trek's Picard. Critic David Bianculli has a tribute, and we listen back to a 2020 interview.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://foreignpolicy.com/2026/11/06/susan-glasser-us-midterms-blue-wave-trump-rebuke-iran-war",
+    "title": "How America Was Swept by an Anti-Trump Wave",
+    "link": "https://foreignpolicy.com/2026/11/06/susan-glasser-us-midterms-blue-wave-trump-rebuke-iran-war/",
+    "outlet": "Foreign Policy",
+    "author": "Ravi Agrawal",
+    "published": "2026-11-06T17:14:38+00:00",
+    "first_seen": "2026-11-06T17:57:03.439559+00:00",
+    "excerpt": "Susan Glasser joins this week’s FP Live podcast.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theconversation.com/georgia-gov-elect-keisha-lance-bottoms-stands-on-the-shoulders-of-stacey-abrams-charlotta-bass-and-countless-other-black-women-who-dreamed-296027",
+    "title": "Georgia Gov.-elect Keisha Lance Bottoms stands on the shoulders of Stacey Abrams, Charlotta Bass and countless other Black women who dreamed",
+    "link": "https://theconversation.com/georgia-gov-elect-keisha-lance-bottoms-stands-on-the-shoulders-of-stacey-abrams-charlotta-bass-and-countless-other-black-women-who-dreamed-296027",
+    "outlet": "The Conversation",
+    "author": "Allissa V. Richardson, Associate Professor of Journalism, USC Annenberg School for Communication and Journalism",
+    "published": "2026-11-06T17:09:28+00:00",
+    "first_seen": "2026-11-06T17:57:03.439559+00:00",
+    "excerpt": "For generations, Black women have been asked to save a democracy that would not save them, carrying entire movements on their backs. Now a Black woman has been elected to govern Georgia.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/6/us-prosecutor-who-led-trump-backed-election-probe-exits-justice-department?traffic_source=rss",
+    "title": "US prosecutor who led Trump-backed election probe exits Justice Department",
+    "link": "https://www.aljazeera.com/news/2026/11/6/us-prosecutor-who-led-trump-backed-election-probe-exits-justice-department?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-06T17:02:19+00:00",
+    "first_seen": "2026-11-06T17:57:03.439559+00:00",
+    "excerpt": "Jason Reding Quinones' resignation comes as administration braces for Democrat-led investigations.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/6/paraguay-resumes-pena-impeachment-proceedings-as-financial-crisis-deepens?traffic_source=rss",
+    "title": "Paraguay resumes Pena impeachment proceedings as financial crisis deepens",
+    "link": "https://www.aljazeera.com/news/2026/11/6/paraguay-resumes-pena-impeachment-proceedings-as-financial-crisis-deepens?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-06T16:58:56+00:00",
+    "first_seen": "2026-11-06T17:57:03.439559+00:00",
+    "excerpt": "Political turmoil comes after a digital bank's failure has left half the population without access to their accounts.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://theguardian.com/culture/2026/nov/06/russell-brand-conviction-must-be-wake-up-call-says-culture-secretary-lisa-nandy",
     "title": "Russell Brand rape conviction must be ‘wake-up call’, says culture secretary",
     "link": "https://www.theguardian.com/culture/2026/nov/06/russell-brand-conviction-must-be-wake-up-call-says-culture-secretary-lisa-nandy",
@@ -12,6 +96,18 @@
     "also_reported_by": []
   },
   {
+    "id": "https://bbc.co.uk/news/articles/cx8dzzy8n713o?at_medium=RSS&at_campaign=rss",
+    "title": "Dozens of Democrats eyeing 2028 presidential run, says former Obama aide",
+    "link": "https://www.bbc.co.uk/news/articles/cx8dzzy8n713o?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-06T16:51:01+00:00",
+    "first_seen": "2026-11-06T17:57:03.439559+00:00",
+    "excerpt": "Jim Messina tells the BBC that after Democrats' midterm victories he's talked to \"over two dozen campaigns\", with some already hiring staff.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://theguardian.com/politics/2026/nov/06/andy-burnham-quite-radical-change-young-people-support-benefits-neets",
     "title": "Burnham aims for ‘quite radical change’ in support for young people",
     "link": "https://www.theguardian.com/politics/2026/nov/06/andy-burnham-quite-radical-change-young-people-support-benefits-neets",
@@ -20,6 +116,30 @@
     "published": "2026-11-06T16:50:13+00:00",
     "first_seen": "2026-11-06T17:04:26.171631+00:00",
     "excerpt": "Prime minister says ‘root and branch review of childhood’ is needed and he does not rule out some benefit cuts The government is aiming for “quite radical change” in the way young people are supported, Andy Burnham has said, indicating this could include tougher rules for benefits as well as…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/6/taiwan-to-close-representative-office-in-papua-new-guinea-blames-china?traffic_source=rss",
+    "title": "Taiwan to close representative office in Papua New Guinea, blames China",
+    "link": "https://www.aljazeera.com/news/2026/11/6/taiwan-to-close-representative-office-in-papua-new-guinea-blames-china?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-06T16:40:39+00:00",
+    "first_seen": "2026-11-06T17:57:03.439559+00:00",
+    "excerpt": "Amid the fallout, Taiwan says it will stop purchases of liquefied natural gas from Port Moresby.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://foreignpolicy.com/2026/11/06/dissidents-backderf-cartoonists-ice",
+    "title": "How a World War I Crackdown Predicted ICE",
+    "link": "https://foreignpolicy.com/2026/11/06/dissidents-backderf-cartoonists-ice/",
+    "outlet": "Foreign Policy",
+    "author": "Sam Thielman",
+    "published": "2026-11-06T16:30:26+00:00",
+    "first_seen": "2026-11-06T17:57:03.439559+00:00",
+    "excerpt": "A new graphic novel makes the case that we’ve been here before.",
     "tags": [],
     "also_reported_by": []
   },
@@ -48,6 +168,18 @@
     "also_reported_by": []
   },
   {
+    "id": "https://foreignpolicy.com/2026/11/06/china-xi-jinping-successor-party-congress",
+    "title": "Who Will Succeed Xi Jinping?",
+    "link": "https://foreignpolicy.com/2026/11/06/china-xi-jinping-successor-party-congress/",
+    "outlet": "Foreign Policy",
+    "author": "Deng Yuwen",
+    "published": "2026-11-06T16:18:57+00:00",
+    "first_seen": "2026-11-06T17:57:03.439559+00:00",
+    "excerpt": "Provincial reshuffles may offer some clues.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://theguardian.com/uk-news/2026/nov/06/thomas-markle-arrested",
     "title": "Meghan’s father arrested in Florida on charges related to child sexual abuse material",
     "link": "https://www.theguardian.com/uk-news/2026/nov/06/thomas-markle-arrested",
@@ -56,6 +188,18 @@
     "published": "2026-11-06T16:14:52+00:00",
     "first_seen": "2026-11-06T17:04:26.171631+00:00",
     "excerpt": "Father of the Duchess of Sussex was taken into custody near Tampa, US prosecutors said Thomas Markle, father of the Duchess of Sussex , has been arrested by US federal agents in Florida on charges related to child sexual abuse material. Markle, 82, was taken into custody near Tampa early on Friday,…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
+    "title": "Four midterms takeaways for 2028 White House race",
+    "link": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-06T16:12:22+00:00",
+    "first_seen": "2026-11-06T17:57:03.439559+00:00",
+    "excerpt": "The buzz about the presidential election is already under way - here's what we learned this week.",
     "tags": [],
     "also_reported_by": []
   },
@@ -152,6 +296,18 @@
     "published": "2026-11-06T15:35:57+00:00",
     "first_seen": "2026-11-06T17:04:26.171631+00:00",
     "excerpt": "Released in 2023, the truck has become a symbol to some of opposition to Musk amid foray into US politics.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://bbc.co.uk/news/articles/cq99zd93ryvko?at_medium=RSS&at_campaign=rss",
+    "title": "Judge blocks construction of Trump's massive arch after federal agency approval",
+    "link": "https://www.bbc.co.uk/news/articles/cq99zd93ryvko?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-06T15:30:42+00:00",
+    "first_seen": "2026-11-06T17:57:03.439559+00:00",
+    "excerpt": "The Trump administration had hoped the construction of the 250-foot arch could begin as early as this week.",
     "tags": [],
     "also_reported_by": []
   },
@@ -488,6 +644,18 @@
     "published": "2026-11-06T13:23:52+00:00",
     "first_seen": "2026-11-06T14:59:17.370231+00:00",
     "excerpt": "Portuguese FA promises to celebrate Ronaldo, although it is unclear whether he ⁠would agree to a farewell appearance.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://bbc.co.uk/news/articles/cx30ee8018lvo?at_medium=RSS&at_campaign=rss",
+    "title": "US midterm results spark fears in Israel over future of two countries' ties",
+    "link": "https://www.bbc.co.uk/news/articles/cx30ee8018lvo?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-06T13:23:44+00:00",
+    "first_seen": "2026-11-06T17:57:03.439559+00:00",
+    "excerpt": "Staunch US support of Israel has been raised as one of the reasons why Republicans performed so badly.",
     "tags": [],
     "also_reported_by": []
   },
