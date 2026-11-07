@@ -1,5 +1,53 @@
 [
   {
+    "id": "https://aljazeera.com/video/newsfeed/2026/11/7/israel-builds-90km-network-of-military-roads-across-southern-lebanon?traffic_source=rss",
+    "title": "Israel builds 90km network of military roads across southern Lebanon",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/israel-builds-90km-network-of-military-roads-across-southern-lebanon?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-07T16:30:33+00:00",
+    "first_seen": "2026-11-07T16:52:42.124338+00:00",
+    "excerpt": "Israel is building roads and military outposts across southern Lebanon.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/7/guatemalan-lawmaker-and-three-police-officers-killed-in-armed-attack?traffic_source=rss",
+    "title": "Guatemalan lawmaker and three police officers killed in armed attack",
+    "link": "https://www.aljazeera.com/news/2026/11/7/guatemalan-lawmaker-and-three-police-officers-killed-in-armed-attack?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-07T16:15:18+00:00",
+    "first_seen": "2026-11-07T16:52:42.124338+00:00",
+    "excerpt": "It happened in a region of the country known to have drug trafficking activity.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/video/newsfeed/2026/11/7/hundreds-march-in-pau-france-against-high-living-costs?traffic_source=rss",
+    "title": "Hundreds march in Pau, France against high living costs",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/hundreds-march-in-pau-france-against-high-living-costs?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-07T16:09:11+00:00",
+    "first_seen": "2026-11-07T16:52:42.124338+00:00",
+    "excerpt": "Hundreds march in Pau, France against high living costs",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/video/newsfeed/2026/11/7/7-11-clip-poland-krakow-shooting?traffic_source=rss",
+    "title": "Five killed and at least 10 injured in Krakow shooting",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-clip-poland-krakow-shooting?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-07T16:06:58+00:00",
+    "first_seen": "2026-11-07T16:52:42.124338+00:00",
+    "excerpt": "Five people have been killed and at least 10 injured in a shooting near the main market square in Krakow, Poland.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates",
     "title": "Kraków shooting latest updates: five killed and more than a dozen injured, police say",
     "link": "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates",
