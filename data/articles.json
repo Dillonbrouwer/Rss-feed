@@ -1,5 +1,53 @@
 [
   {
+    "id": "https://aljazeera.com/video/newsfeed/2026/11/7/police-clash-with-protesters-as-anti-government-rallies-sweep-france?traffic_source=rss",
+    "title": "Police clash with protesters as anti-government rallies sweep France",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/police-clash-with-protesters-as-anti-government-rallies-sweep-france?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-07T21:24:10+00:00",
+    "first_seen": "2026-11-07T21:49:24.481262+00:00",
+    "excerpt": "Police have clashed with protesters in Paris as Yellow Vests defied a ban on their rally, leading to arrests.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/video/newsfeed/2026/11/7/melenchon-promises-action-against-israeli-annexation-if-elected-president?traffic_source=rss",
+    "title": "Mélenchon promises action against Israeli annexation if elected President",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/melenchon-promises-action-against-israeli-annexation-if-elected-president?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-07T20:53:47+00:00",
+    "first_seen": "2026-11-07T21:49:24.481262+00:00",
+    "excerpt": "Mélenchon promises action against Israeli annexation if elected President",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/video/inside-story/2026/11/7/who-is-behind-europes-suspected-hybrid-attacks?traffic_source=rss",
+    "title": "Who is behind Europe’s suspected hybrid attacks?",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/11/7/who-is-behind-europes-suspected-hybrid-attacks?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-07T20:48:58+00:00",
+    "first_seen": "2026-11-07T21:49:24.481262+00:00",
+    "excerpt": "Bomb hoaxes and supermarket cyberattacks are heightening security fears.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/video/newsfeed/2026/11/7/abdul-el-sayed-slams-trumps-tariff-war-with-canada?traffic_source=rss",
+    "title": "Abdul El-Sayed slams Trump’s tariff war with Canada",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/abdul-el-sayed-slams-trumps-tariff-war-with-canada?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-07T20:44:34+00:00",
+    "first_seen": "2026-11-07T21:49:24.481262+00:00",
+    "excerpt": "Michigan Senator-elect Abdul El-Sayed has criticised Trump’s trade war with Canada.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government?traffic_source=rss",
     "title": "Israel’s president picks Eisenkot over Netanyahu to form next government",
     "link": "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government?traffic_source=rss",
@@ -20,6 +68,18 @@
     "published": "2026-11-07T20:18:18+00:00",
     "first_seen": "2026-11-07T20:51:04.444382+00:00",
     "excerpt": "Gadi Eisenkot ran as the main challenger to Prime Minister Benjamin Netanyahu — neither won a clear majority. Israel's main parties have recommended Eisenkot put together a new government.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://npr.org/2026/11/07/g-s1-152536/netanyahu-israel-government-eisenkot-herzog",
+    "title": "Israel's president taps opposition candidate, not Netanyahu, to form a government",
+    "link": "https://www.npr.org/2026/11/07/g-s1-152536/netanyahu-israel-government-eisenkot-herzog",
+    "outlet": "NPR",
+    "author": "Tara Neill",
+    "published": "2026-11-07T20:18:18+00:00",
+    "first_seen": "2026-11-07T21:49:24.481262+00:00",
+    "excerpt": "Gadi Eisenkot ran as the main rival to Prime Minister Benjamin Netanyahu, but neither won enough support to command a majority. Israel's main parties have recommended Eisenkot form a new government.",
     "tags": [],
     "also_reported_by": []
   },
