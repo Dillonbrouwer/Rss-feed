@@ -1,5 +1,89 @@
 [
   {
+    "id": "https://theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman",
+    "title": "Six dead after gunman opens fire ‘at random’ in Kraków market square",
+    "link": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman",
+    "outlet": "The Guardian",
+    "author": "Donna Ferguson",
+    "published": "2026-11-07T17:17:23+00:00",
+    "first_seen": "2026-11-07T17:47:12.375094+00:00",
+    "excerpt": "Reports say man fired shots from from his car in Poland’s second city before being wounded by police while trying to flee Kraków shooting – latest updates Six people have been killed and 15 injured after a shooting in a market square in Kraków, Poland. A man who had driven into the square at about…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/video/newsfeed/2026/11/7/lebanese-footballer-refuses-to-give-up-after-injuries-from-israeli-strike?traffic_source=rss",
+    "title": "Lebanese footballer refuses to give up after injuries from Israeli strike",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/lebanese-footballer-refuses-to-give-up-after-injuries-from-israeli-strike?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-07T17:16:50+00:00",
+    "first_seen": "2026-11-07T17:47:12.375094+00:00",
+    "excerpt": "After surviving an Israeli airstrike that left her in a coma, Celine Haidar is back on the pitch, coaching footballers.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://npr.org/2026/11/07/nx-s1-6033373/paraguay-president-ousted-bank-collapse",
+    "title": "Ousted Paraguayan president appears before prosecutors",
+    "link": "https://www.npr.org/2026/11/07/nx-s1-6033373/paraguay-president-ousted-bank-collapse",
+    "outlet": "NPR",
+    "author": "Ava Berger",
+    "published": "2026-11-07T17:14:36+00:00",
+    "first_seen": "2026-11-07T17:47:12.375094+00:00",
+    "excerpt": "Paraguayan President Santiago Peña was removed from office and placed under house arrest Friday. The Senate voted on his impeachment after the collapse of a state-affiliated bank.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/video/newsfeed/2026/11/7/jerusalem-daily-heavy-rains-flood-gaza?traffic_source=rss",
+    "title": "Jerusalem Daily: Heavy rains flood Gaza",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/jerusalem-daily-heavy-rains-flood-gaza?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-07T17:11:29+00:00",
+    "first_seen": "2026-11-07T17:47:12.375094+00:00",
+    "excerpt": "Jerusalem Daily: Heavy rains flood Gaza",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/society/2026/nov/07/nhs-birth-centre-maternity-unit-closures-england-womens-rights",
+    "title": "Rise in NHS birth centre closures ‘shocking’ denial of women’s rights, experts say",
+    "link": "https://www.theguardian.com/society/2026/nov/07/nhs-birth-centre-maternity-unit-closures-england-womens-rights",
+    "outlet": "The Guardian",
+    "author": "Denis Campbell Health policy editor",
+    "published": "2026-11-07T17:00:16+00:00",
+    "first_seen": "2026-11-07T17:47:12.375094+00:00",
+    "excerpt": "Twelve midwife-led maternity units have closed in England since 2019 with six closing since Labour came to power in 2024 NHS officials are shutting growing numbers of birth centres in a “shocking” denial of a woman’s right to have a midwife rather than a doctor oversee their baby’s birth, say…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/sports/liveblog/2026/11/7/valencia-vs-real-madrid-live-la-liga?traffic_source=rss",
+    "title": "Valencia vs Real Madrid LIVE: La Liga",
+    "link": "https://www.aljazeera.com/sports/liveblog/2026/11/7/valencia-vs-real-madrid-live-la-liga?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-07T17:00:12+00:00",
+    "first_seen": "2026-11-07T17:47:12.375094+00:00",
+    "excerpt": "Follow updates from the La Liga clash, including the build-up, analysis and live text commentary of the match.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
+    "title": "Italian foreign minister says hackers leaked his personal data",
+    "link": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-07T16:50:06+00:00",
+    "first_seen": "2026-11-07T17:47:12.375094+00:00",
+    "excerpt": "Prime Minister Giorgia Meloni has blamed pro-Russian hackers for publishing the details online.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://aljazeera.com/video/newsfeed/2026/11/7/israel-builds-90km-network-of-military-roads-across-southern-lebanon?traffic_source=rss",
     "title": "Israel builds 90km network of military roads across southern Lebanon",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/israel-builds-90km-network-of-military-roads-across-southern-lebanon?traffic_source=rss",
@@ -92,6 +176,18 @@
     "published": "2026-11-07T15:22:55+00:00",
     "first_seen": "2026-11-07T15:50:39.724204+00:00",
     "excerpt": "Polish Prime Minister Donald Tusk says police are investigating after 'tragic shooting' in second-largest city.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
+    "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
+    "link": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-07T15:19:35+00:00",
+    "first_seen": "2026-11-07T17:47:12.375094+00:00",
+    "excerpt": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
     "tags": [],
     "also_reported_by": []
   },
