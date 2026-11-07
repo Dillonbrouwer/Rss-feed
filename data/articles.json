@@ -1,5 +1,29 @@
 [
   {
+    "id": "https://aljazeera.com/news/2026/11/7/cdc-reports-more-than-5000-measles-cases-highest-number-in-35-years?traffic_source=rss",
+    "title": "CDC reports more than 5,000 measles cases, highest number in 35 years",
+    "link": "https://www.aljazeera.com/news/2026/11/7/cdc-reports-more-than-5000-measles-cases-highest-number-in-35-years?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-07T01:55:03+00:00",
+    "first_seen": "2026-11-07T02:10:51.455034+00:00",
+    "excerpt": "Children and teenagers make up almost 60 percent of confirmed cases.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/7/eu-prosecutor-office-investigates-fatal-train-crash-in-spain?traffic_source=rss",
+    "title": "EU prosecutor office investigates fatal train crash in Spain",
+    "link": "https://www.aljazeera.com/news/2026/11/7/eu-prosecutor-office-investigates-fatal-train-crash-in-spain?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-07T01:33:39+00:00",
+    "first_seen": "2026-11-07T02:10:51.455034+00:00",
+    "excerpt": "The EU office carries out probes at Spanish rail network administrator, safety agency and state auditors.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://theguardian.com/us-news/2026/nov/06/donald-trump-stephen-miller-immigration",
     "title": "How Stephen Miller appointment shows Trump hasn’t learned his lesson on immigration",
     "link": "https://www.theguardian.com/us-news/2026/nov/06/donald-trump-stephen-miller-immigration",
@@ -20,6 +44,18 @@
     "published": "2026-11-07T00:58:11+00:00",
     "first_seen": "2026-11-07T01:15:23.584927+00:00",
     "excerpt": "Zero Limits supplements is co-owned by right-wing podcaster and fitness coach Chris Katelaris, also known as ‘Big Chocky’ Ben Roberts-Smith has collaborated with a gym supplements company run by a right-wing influencer which recently sold a pre-workout product called “war crimes”. Roberts-Smith,…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/video/newsfeed/2026/11/7/pope-leo-xiv-arrives-for-south-american-tour-after-cancer-surgery?traffic_source=rss",
+    "title": "Pope Leo XIV arrives for South American tour after cancer surgery",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/pope-leo-xiv-arrives-for-south-american-tour-after-cancer-surgery?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-07T00:55:51+00:00",
+    "first_seen": "2026-11-07T02:10:51.455034+00:00",
+    "excerpt": "Pope Leo XIV arrives in Uruguay kicking off a 12-day tour of South America after undergoing lung surgery last month.",
     "tags": [],
     "also_reported_by": []
   },
