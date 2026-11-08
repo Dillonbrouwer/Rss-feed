@@ -1,5 +1,65 @@
 [
   {
+    "id": "https://aljazeera.com/video/newsfeed/2026/11/8/deadly-sand-cliff-collapses-on-displaced-families-in-gaza?traffic_source=rss",
+    "title": "Deadly sand cliff collapses on displaced families in Gaza",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/deadly-sand-cliff-collapses-on-displaced-families-in-gaza?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-08T21:05:07+00:00",
+    "first_seen": "2026-11-08T21:49:21.327328+00:00",
+    "excerpt": "Deadly sand cliff collapses on displaced families in Gaza",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/us-news/2026/nov/08/native-american-women-midterm-elections",
+    "title": "‘Seismic shift’: Native American women made significant gains in US midterms",
+    "link": "https://www.theguardian.com/us-news/2026/nov/08/native-american-women-midterm-elections",
+    "outlet": "The Guardian",
+    "author": "Cecilia Nowell",
+    "published": "2026-11-08T21:04:49+00:00",
+    "first_seen": "2026-11-08T21:49:21.327328+00:00",
+    "excerpt": "Nationwide, voters elected at least 75 Native women or non-binary candidates in Tuesday’s elections, report says The US midterm elections saw voters elect a slew of historic representatives – from the country’s first Muslim senator to the first Black female governor – but among the most significant…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/video/newsfeed/2026/11/8/why-abdul-el-sayeds-jd-habibi-is-going-viral-online?traffic_source=rss",
+    "title": "Why Abdul El-Sayed’s ‘JD, habibi’ is going viral online",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/why-abdul-el-sayeds-jd-habibi-is-going-viral-online?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-08T21:01:33+00:00",
+    "first_seen": "2026-11-08T21:49:21.327328+00:00",
+    "excerpt": "‘JD, habibi’ is going viral after Michigan Senator-elect Abdul El-Sayed used the phrase to mock JD Vance in a speech.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation",
+    "title": "Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence",
+    "link": "https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation",
+    "outlet": "The Guardian",
+    "author": "Guardian staff and agencies",
+    "published": "2026-11-08T21:00:58+00:00",
+    "first_seen": "2026-11-08T21:49:21.327328+00:00",
+    "excerpt": "CEO reportedly ‌had close relationship ‌with a Chinese businesswoman who passed information to ‌Beijing Nvidia said ⁠on Sunday it “is initiating an independent investigation in light of recent reporting that founder and CEO Jensen Huang has been the target of a foreign intelligence effort”. Top…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/video/newsfeed/2026/11/8/iran-waiting-to-resume-talks-after-us-midterms-shockiranian-foreign-minis?traffic_source=rss",
+    "title": "Iran waiting to resume talks after US midterms ‘shock’Iranian Foreign Minis",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/iran-waiting-to-resume-talks-after-us-midterms-shockiranian-foreign-minis?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-08T20:51:22+00:00",
+    "first_seen": "2026-11-08T21:49:21.327328+00:00",
+    "excerpt": "Iranian Foreign Minister Abbas Araghchi says there has been no progress in talks with the US.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://aljazeera.com/video/newsfeed/2026/11/8/pope-leo-xiv-delivers-homily-to-thousands-in-uruguay?traffic_source=rss",
     "title": "Pope Leo XIV delivers homily to thousands in Uruguay",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/pope-leo-xiv-delivers-homily-to-thousands-in-uruguay?traffic_source=rss",
@@ -620,6 +680,18 @@
     "published": "2026-11-08T13:37:50+00:00",
     "first_seen": "2026-11-08T17:48:01.808737+00:00",
     "excerpt": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://npr.org/2026/11/08/nx-s1-6030918/ss-united-states-a-historic-ship-will-be-sunk-to-create-an-artificial-reef",
+    "title": "SS United States, a historic ship will be sunk to create an artificial reef",
+    "link": "https://www.npr.org/2026/11/08/nx-s1-6030918/ss-united-states-a-historic-ship-will-be-sunk-to-create-an-artificial-reef",
+    "outlet": "NPR",
+    "author": "Ayesha Rascoe",
+    "published": "2026-11-08T13:34:34+00:00",
+    "first_seen": "2026-11-08T21:49:21.327328+00:00",
+    "excerpt": "NPR's Ayesha Rascoe talks to Alex Fogg, Natural Resources Chief of Okaloosa County, Florida, about efforts to deliberately sink the SS United States and create an artificial reef in its wreckage.",
     "tags": [],
     "also_reported_by": []
   },
