@@ -1,5 +1,53 @@
 [
   {
+    "id": "https://aljazeera.com/video/newsfeed/2026/11/8/pope-leo-xiv-delivers-homily-to-thousands-in-uruguay?traffic_source=rss",
+    "title": "Pope Leo XIV delivers homily to thousands in Uruguay",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/pope-leo-xiv-delivers-homily-to-thousands-in-uruguay?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-08T20:29:47+00:00",
+    "first_seen": "2026-11-08T20:51:13.001672+00:00",
+    "excerpt": "Pope Leo XIV delivers homily to thousands in Uruguay",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/video/newsfeed/2026/11/8/_8-11-sv-rangoli-diwali-india-081126?traffic_source=rss",
+    "title": "Rangoli makers adapt to rising costs to preserve colourful Diwali tradition",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/_8-11-sv-rangoli-diwali-india-081126?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-08T20:26:01+00:00",
+    "first_seen": "2026-11-08T20:51:13.001672+00:00",
+    "excerpt": "Rangoli makers in India are adapting to rising material costs by turning to organic alternatives.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/8/iran-threatens-to-rain-down-hell-if-us-escalates-war?traffic_source=rss",
+    "title": "Iran threatens to ‘rain down hell’ if US escalates war",
+    "link": "https://www.aljazeera.com/news/2026/11/8/iran-threatens-to-rain-down-hell-if-us-escalates-war?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-08T20:13:39+00:00",
+    "first_seen": "2026-11-08T20:51:13.001672+00:00",
+    "excerpt": "President Trump warns that US forces are 'locked and loaded' and ready to strike, if necessary.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/us-news/2026/nov/08/royal-caribbean-cruise-ship-pianist-rescue",
+    "title": "Cruise ship pianist rescued after nine hours treading water miles from shore",
+    "link": "https://www.theguardian.com/us-news/2026/nov/08/royal-caribbean-cruise-ship-pianist-rescue",
+    "outlet": "The Guardian",
+    "author": "Marina Dunbar",
+    "published": "2026-11-08T20:13:09+00:00",
+    "first_seen": "2026-11-08T20:51:13.001672+00:00",
+    "excerpt": "Man taken to hospital after falling off Royal Caribbean ship in Pacific Ocean, with Coast Guard investigating incident A pianist for a Royal Caribbean cruise ship is expected to survive after two Newport Beach, California , fishermen discovered him treading water in the Pacific Ocean nearly 20…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://theguardian.com/us-news/2026/nov/08/florida-plane-crash-truck-highway",
     "title": "Small plane crashes into pickup truck on busy Florida highway",
     "link": "https://www.theguardian.com/us-news/2026/nov/08/florida-plane-crash-truck-highway",
