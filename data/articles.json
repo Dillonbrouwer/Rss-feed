@@ -1,5 +1,101 @@
 [
   {
+    "id": "https://bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+    "title": "Trump says Nvidia boss told him he had no idea woman he had affair with was Chinese spy",
+    "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-09T22:50:07+00:00",
+    "first_seen": "2026-11-09T22:57:30.044491+00:00",
+    "excerpt": "The US president said the FBI is now investigating the affair. He said he spoke with Jensen Huang and asked him about the affair.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://bbc.co.uk/news/videos/cwm2328pyy1jo?at_medium=RSS&at_campaign=rss",
+    "title": "Dana White declines Trump’s offer to be White House press secretary",
+    "link": "https://www.bbc.co.uk/news/videos/cwm2328pyy1jo?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-09T22:46:27+00:00",
+    "first_seen": "2026-11-09T22:57:30.044491+00:00",
+    "excerpt": "In a social media post over the weekend, the president asked the UFC boss to take over the role, but later said he was \"having a little fun\".",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://npr.org/2026/11/09/g-s1-152724/france-iran-cyber-sabotage-fridge-attacks",
+    "title": "France accuses Iran of cyber 'sabotage' in fridge attacks",
+    "link": "https://www.npr.org/2026/11/09/g-s1-152724/france-iran-cyber-sabotage-fridge-attacks",
+    "outlet": "NPR",
+    "author": "Jenna McLaughlin",
+    "published": "2026-11-09T22:30:49+00:00",
+    "first_seen": "2026-11-09T22:57:30.044491+00:00",
+    "excerpt": "France says Iranian military hackers took over refrigeration controllers at around 700 different retail sites last month, turning up temperatures in the middle of the night and spoiling millions of dollars' worth of food.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/australia-news/2026/nov/10/todd-russell-dies-beaconsfield-mine-collapse-survivor-death-illness-aged-54",
+    "title": "Todd Russell, Beaconsfield mine collapse survivor, dies aged 54 due to illness",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/10/todd-russell-dies-beaconsfield-mine-collapse-survivor-death-illness-aged-54",
+    "outlet": "The Guardian",
+    "author": "Australian Associated Press",
+    "published": "2026-11-09T22:26:31+00:00",
+    "first_seen": "2026-11-09T22:57:30.044491+00:00",
+    "excerpt": "Tasmanian premier leads tributes for Russell, who earlier this month returned home to ‘see out his days’ Get our breaking news email , free app or daily news podcast Beaconsfield mine collapse survivor Todd Russell has died aged 54 after recently announcing deteriorating health. The Tasmanian…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/9/pope-meets-with-clergy-abuse-survivors-in-argentina?traffic_source=rss",
+    "title": "Pope meets with clergy abuse survivors in Argentina",
+    "link": "https://www.aljazeera.com/news/2026/11/9/pope-meets-with-clergy-abuse-survivors-in-argentina?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-09T22:14:37+00:00",
+    "first_seen": "2026-11-09T22:57:30.044491+00:00",
+    "excerpt": "During private meetings with survivors, Pope Leo XIV pledged to reinforce safeguards and listen to victims.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/9/hungarian-police-reportedly-detain-brother-of-ex-pm-viktor-orban?traffic_source=rss",
+    "title": "Hungarian police reportedly detain brother of ex-PM Viktor Orban",
+    "link": "https://www.aljazeera.com/news/2026/11/9/hungarian-police-reportedly-detain-brother-of-ex-pm-viktor-orban?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-09T22:13:29+00:00",
+    "first_seen": "2026-11-09T22:57:30.044491+00:00",
+    "excerpt": "Aron Orban reportedly detained as Hungarian authorities raid properties linked to his business associates.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/9/saudi-arabia-reports-new-attack-on-key-east-west-pipeline?traffic_source=rss",
+    "title": "Saudi Arabia reports new attack on key East-West pipeline",
+    "link": "https://www.aljazeera.com/news/2026/11/9/saudi-arabia-reports-new-attack-on-key-east-west-pipeline?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-09T22:10:52+00:00",
+    "first_seen": "2026-11-09T22:57:30.044491+00:00",
+    "excerpt": "The oil pipeline runs through the desert to the coast and is essential for bypassing the Strait of Hormuz.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://foreignpolicy.com/2026/11/09/jensen-huang-spy-scandal-alice-nvidia-trump-china",
+    "title": "What to Know About Nvidia CEO Jensen Huang’s Chinese Spy Scandal",
+    "link": "https://foreignpolicy.com/2026/11/09/jensen-huang-spy-scandal-alice-nvidia-trump-china/",
+    "outlet": "Foreign Policy",
+    "author": "Rishi Iyengar",
+    "published": "2026-11-09T21:57:16+00:00",
+    "first_seen": "2026-11-09T22:57:30.044491+00:00",
+    "excerpt": "Huang’s affair with an alleged Chinese intelligence asset has big implications for U.S. national security.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss",
     "title": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
     "link": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss",
@@ -12,6 +108,18 @@
     "also_reported_by": []
   },
   {
+    "id": "https://bbc.co.uk/news/articles/cq0mem8d2p3xo?at_medium=RSS&at_campaign=rss",
+    "title": "Trial date of alleged Charlie Kirk killer set for June 2028",
+    "link": "https://www.bbc.co.uk/news/articles/cq0mem8d2p3xo?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-09T21:48:38+00:00",
+    "first_seen": "2026-11-09T22:57:30.044491+00:00",
+    "excerpt": "Tyler Robinson has pleaded not guilty to aggravated murder and six other charges in connection with the 2025 killing of the conservative activist.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://npr.org/2026/11/09/nx-s1-6019424/border-wall-big-bend-texas-trump",
     "title": "Supreme Court says border wall construction can continue in west Texas",
     "link": "https://www.npr.org/2026/11/09/nx-s1-6019424/border-wall-big-bend-texas-trump",
@@ -20,6 +128,30 @@
     "published": "2026-11-09T21:47:39+00:00",
     "first_seen": "2026-11-09T21:58:14.977114+00:00",
     "excerpt": "The Trump administration filed an emergency relief request with the high court earlier in October asking for the construction to continue while a lawsuit over the plan moves forward.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://foreignpolicy.com/2026/11/09/trump-qatar-thani-iran-war-nvidia-huang-affair-chinese-spy",
+    "title": "Trump Hosts Key Qatari Mediator to Discuss End to Iran War",
+    "link": "https://foreignpolicy.com/2026/11/09/trump-qatar-thani-iran-war-nvidia-huang-affair-chinese-spy/",
+    "outlet": "Foreign Policy",
+    "author": "Alexandra Sharp",
+    "published": "2026-11-09T21:34:48+00:00",
+    "first_seen": "2026-11-09T22:57:30.044491+00:00",
+    "excerpt": "But senior officials doubt that a breakthrough is in sight.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://foreignpolicy.com/2026/11/09/hegseth-impeachment-charges-massie-defense-pentagon-damage",
+    "title": "Hegseth’s Leadership Has Damaged the Pentagon",
+    "link": "https://foreignpolicy.com/2026/11/09/hegseth-impeachment-charges-massie-defense-pentagon-damage/",
+    "outlet": "Foreign Policy",
+    "author": "Kori Schake",
+    "published": "2026-11-09T21:32:11+00:00",
+    "first_seen": "2026-11-09T22:57:30.044491+00:00",
+    "excerpt": "The defense secretary’s impeachment charges come after he cost his department years of experience and poisoned relationships with Congress.",
     "tags": [],
     "also_reported_by": []
   },
