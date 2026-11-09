@@ -1,5 +1,101 @@
 [
   {
+    "id": "https://theguardian.com/world/2026/nov/09/french-police-officers-face-trial-over-beating-of-black-man-not-wearing-mask-during-covid",
+    "title": "French police officers face trial over beating of black man not wearing mask during Covid",
+    "link": "https://www.theguardian.com/world/2026/nov/09/french-police-officers-face-trial-over-beating-of-black-man-not-wearing-mask-during-covid",
+    "outlet": "The Guardian",
+    "author": "Agence France-Presse",
+    "published": "2026-11-09T09:09:01+00:00",
+    "first_seen": "2026-11-09T09:25:35.403735+00:00",
+    "excerpt": "Assault on Michel Zecler in 2020 is rare case of police brutality reaching court, at time of heightened tensions Three French police officers are to go on trial over the beating of a black music producer who they say was not wearing a face mask during the Covid pandemic, in a rare case of police…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://bbc.co.uk/news/articles/ck0j0j87959eo?at_medium=RSS&at_campaign=rss",
+    "title": "Trump says he was 'kidding' about Dana White press secretary offer",
+    "link": "https://www.bbc.co.uk/news/articles/ck0j0j87959eo?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-09T08:49:17+00:00",
+    "first_seen": "2026-11-09T09:25:35.403735+00:00",
+    "excerpt": "The president told the Ultimate Fighting Championship boss to \"please take the job\" in a Truth Social post on Saturday.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/9/trump-says-his-immigration-policy-too-tough-for-voters?traffic_source=rss",
+    "title": "Trump says his immigration policy ‘too tough’ for voters",
+    "link": "https://www.aljazeera.com/news/2026/11/9/trump-says-his-immigration-policy-too-tough-for-voters?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-09T08:35:05+00:00",
+    "first_seen": "2026-11-09T09:25:35.403735+00:00",
+    "excerpt": "Trump concedes some voters were unhappy with his administration's controversial deportation drive.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/video/newsfeed/2026/11/9/us-top-democrat-backs-impeachment-of-pete-hegseth?traffic_source=rss",
+    "title": "US top Democrat backs impeachment of Pete Hegseth",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/us-top-democrat-backs-impeachment-of-pete-hegseth?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-09T08:26:50+00:00",
+    "first_seen": "2026-11-09T09:25:35.403735+00:00",
+    "excerpt": "‘Hegseth has got to go’.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/video/newsfeed/2026/11/9/trump-only-kidding-about-dana-white-press-secretary-role?traffic_source=rss",
+    "title": "Trump ‘only kidding’ about Dana White press secretary role",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/trump-only-kidding-about-dana-white-press-secretary-role?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-09T08:18:00+00:00",
+    "first_seen": "2026-11-09T09:25:35.403735+00:00",
+    "excerpt": "Donald Trump says he was ‘only kidding’ about appointing UFC CEO Dana White as the White House press secretary.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&at_campaign=rss",
+    "title": "At least 34 dead after Europe-bound migrant boat sinks off Senegal",
+    "link": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-09T08:16:57+00:00",
+    "first_seen": "2026-11-09T09:25:35.403735+00:00",
+    "excerpt": "The Atlantic crossing to Spain's Canary Islands remains dangerous for migrants seeking a better life",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://foreignpolicy.com/2026/11/09/trump-iran-cia-intelligence",
+    "title": "The Experts Are Taking Their Revenge Again",
+    "link": "https://foreignpolicy.com/2026/11/09/trump-iran-cia-intelligence/",
+    "outlet": "Foreign Policy",
+    "author": "David Milne",
+    "published": "2026-11-09T08:08:55+00:00",
+    "first_seen": "2026-11-09T09:25:35.403735+00:00",
+    "excerpt": "The Iran war is the latest example of Washington disregarding intelligence—and suffering the consequences.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/sports/2026/11/9/motogp-bezzecchi-denies-marquez-world-title-as-motorsport-returns-to-qatar?traffic_source=rss",
+    "title": "MotoGP: Bezzecchi denies Marquez world title as motorsport returns to Qatar",
+    "link": "https://www.aljazeera.com/sports/2026/11/9/motogp-bezzecchi-denies-marquez-world-title-as-motorsport-returns-to-qatar?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-09T07:56:16+00:00",
+    "first_seen": "2026-11-09T09:25:35.403735+00:00",
+    "excerpt": "Aprilia's Marco Bezzecchi wins Qatar Grand Prix as Ducati's Marc Marquez finishes second.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss",
     "title": "Krakow shooting suspect has died in hospital, police say",
     "link": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss",
@@ -32,6 +128,18 @@
     "published": "2026-11-09T07:12:09+00:00",
     "first_seen": "2026-11-09T07:41:39.906341+00:00",
     "excerpt": "Hasina, who has been living in India for two years, has promised that she would return to Bangladesh in December.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss",
+    "title": "What do we know about Nvidia CEO’s affair with a suspected Chinese spy?",
+    "link": "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-09T07:10:11+00:00",
+    "first_seen": "2026-11-09T09:25:35.403735+00:00",
+    "excerpt": "Adoration for the US tech giant’s CEO Jensen Huang has been labelled “Jensanity”, but can his reputation survive the news of his affair?",
     "tags": [],
     "also_reported_by": []
   },
@@ -320,6 +428,18 @@
     "published": "2026-11-09T04:35:34+00:00",
     "first_seen": "2026-11-09T05:20:24.369398+00:00",
     "excerpt": "New Delhi woke up to thick smog after Diwali celebrations saw fireworks light up the city overnight.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/australia-news/2026/nov/09/big-build-royal-commission-hears-cfmeu-enjoy-a-significant-level-of-influence-over-victorian-government-ntwnfb",
+    "title": "CFMEU ‘enjoy a significant level of influence’ over Victorian government, Big Build royal commission hears",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/09/big-build-royal-commission-hears-cfmeu-enjoy-a-significant-level-of-influence-over-victorian-government-ntwnfb",
+    "outlet": "The Guardian",
+    "author": "Nino Bucci and Jack Larkin",
+    "published": "2026-11-09T04:34:08+00:00",
+    "first_seen": "2026-11-09T09:25:35.403735+00:00",
+    "excerpt": "Inquiry into allegations of corruption begins block of hearings focused on 2022 level crossing removal project Get our breaking news email , free app or daily news podcast The royal commission into allegations of corruption on Victorian Big Build projects has heard a major construction company…",
     "tags": [],
     "also_reported_by": []
   },
@@ -1004,6 +1124,18 @@
     "published": "2026-11-08T17:51:19+00:00",
     "first_seen": "2026-11-08T18:57:58.444791+00:00",
     "excerpt": "Exclusive: Louise Haigh likely to weaken mandate for sales that forms key part of emission reduction plan Analysis: Climate always comes second – are green issues slipping down Burnham’s agenda? Ministers are expected to make steep cuts to the government’s electric vehicle (EV) targets this week,…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://bbc.co.uk/news/articles/cwrkygrxp11mo?at_medium=RSS&at_campaign=rss",
+    "title": "'Devastating message' as ANC records worst-ever result in South Africa election",
+    "link": "https://www.bbc.co.uk/news/articles/cwrkygrxp11mo?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-08T17:51:03+00:00",
+    "first_seen": "2026-11-09T09:25:35.403735+00:00",
+    "excerpt": "President Cyril Ramaphosa says the verdict must be respected, while the party's secretary-general calls the outcome \"catastrophic\".",
     "tags": [],
     "also_reported_by": []
   },
