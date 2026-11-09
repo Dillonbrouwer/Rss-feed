@@ -1,5 +1,77 @@
 [
   {
+    "id": "https://npr.org/2026/11/09/nx-s1-6034483/thomas-massie-impeachment-pete-hegseth",
+    "title": "Thomas Massie files articles of impeachment against Defense Secretary Pete Hegseth",
+    "link": "https://www.npr.org/2026/11/09/nx-s1-6034483/thomas-massie-impeachment-pete-hegseth",
+    "outlet": "NPR",
+    "author": "Barbara Sprunt",
+    "published": "2026-11-09T20:52:24+00:00",
+    "first_seen": "2026-11-09T21:03:49.736062+00:00",
+    "excerpt": "The articles accuse Hegseth of \"high crimes and misdemeanors,\" including for waging war against Iran in violation of the War Powers Resolution.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/us-news/2026/nov/09/lindsay-clancy-judge-retrial",
+    "title": "Judge clears way for Lindsay Clancy to be retried on murder charges",
+    "link": "https://www.theguardian.com/us-news/2026/nov/09/lindsay-clancy-judge-retrial",
+    "outlet": "The Guardian",
+    "author": "Reuters",
+    "published": "2026-11-09T20:42:22+00:00",
+    "first_seen": "2026-11-09T21:03:49.736062+00:00",
+    "excerpt": "Massachusetts judge rejects bid by Clancy’s attorneys to have the case against her dismissed A Massachusetts judge cleared the way on Monday for Lindsay Clancy to be tried again on ⁠murder charges for killing her three young children at her home in 2023, saying a retrial would not…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://scotusblog.com/2026/11/supreme-court-allows-trump-administration-to-continue-border-wall-construction",
+    "title": "Supreme Court allows Trump administration to continue border wall construction",
+    "link": "https://www.scotusblog.com/2026/11/supreme-court-allows-trump-administration-to-continue-border-wall-construction/",
+    "outlet": "SCOTUSblog",
+    "author": "Amy Howe",
+    "published": "2026-11-09T20:37:12+00:00",
+    "first_seen": "2026-11-09T21:03:49.736062+00:00",
+    "excerpt": "",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/video/newsfeed/2026/11/9/deadly-explosion-at-iron-and-steel-plant-in-turkiye?traffic_source=rss",
+    "title": "Deadly explosion at Iron and steel plant in Turkiye",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/deadly-explosion-at-iron-and-steel-plant-in-turkiye?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-09T20:19:18+00:00",
+    "first_seen": "2026-11-09T21:03:49.736062+00:00",
+    "excerpt": "Deadly explosion at Iron and steel plant in Turkiye",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/video/newsfeed/2026/11/9/russell-brand-sentenced-to-10-5-years-over-sexual-assault-charges?traffic_source=rss",
+    "title": "Russell Brand sentenced to 10.5 years over sexual assault charges",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/russell-brand-sentenced-to-10-5-years-over-sexual-assault-charges?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-09T20:08:18+00:00",
+    "first_seen": "2026-11-09T21:03:49.736062+00:00",
+    "excerpt": "Russell Brand has been sentenced to 10 years and six months in prison after being convicted of raping one woman",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/technology/2026/nov/09/nvidia-affair-huang-trump-national-security",
+    "title": "The AI poster boy, the ‘Chinese spy’ and Trump: how an affair may have harmed US security",
+    "link": "https://www.theguardian.com/technology/2026/nov/09/nvidia-affair-huang-trump-national-security",
+    "outlet": "The Guardian",
+    "author": "Aisha Down and Dan Milmo",
+    "published": "2026-11-09T20:01:05+00:00",
+    "first_seen": "2026-11-09T21:03:49.736062+00:00",
+    "excerpt": "Jensen Huang’s close relationship with president means Nvidia CEO’s affair with woman alleged to be working for Beijing is a big deal A hand on the back, a kiss on the cheek; the footage of Alice Huang’s interaction with Jensen Huang in a Taipei venue last year does not seem particularly remarkable…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://theguardian.com/uk-news/2026/nov/09/tommy-walsh-co-presenter-of-bbcs-ground-force-dies-aged-69",
     "title": "Tommy Walsh, co-presenter of BBC’s Ground Force, dies aged 69",
     "link": "https://www.theguardian.com/uk-news/2026/nov/09/tommy-walsh-co-presenter-of-bbcs-ground-force-dies-aged-69",
@@ -12,6 +84,18 @@
     "also_reported_by": []
   },
   {
+    "id": "https://aljazeera.com/news/2026/11/9/explosion-at-turkish-steel-plant-kills-at-least-16-people?traffic_source=rss",
+    "title": "Explosion at Turkish steel plant kills at least 16 people",
+    "link": "https://www.aljazeera.com/news/2026/11/9/explosion-at-turkish-steel-plant-kills-at-least-16-people?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-09T19:58:40+00:00",
+    "first_seen": "2026-11-09T21:03:49.736062+00:00",
+    "excerpt": "President Erdogan announces an investigation after a crane collapsed into a furnace, triggering the blast near Izmir.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://theguardian.com/us-news/2026/nov/09/progressives-us-house-flipped-seats",
     "title": "Progressives head to US House in record numbers after winning red districts",
     "link": "https://www.theguardian.com/us-news/2026/nov/09/progressives-us-house-flipped-seats",
@@ -20,6 +104,30 @@
     "published": "2026-11-09T19:57:32+00:00",
     "first_seen": "2026-11-09T20:05:06.030468+00:00",
     "excerpt": "Caucus had 100 members in the last Congress, and six of the nine candidates it endorsed won, flipping seats House progressives, long dismissed as the Democratic party’s leftwing outliers, are heading into the next Congress in larger numbers than ever and vowing to push the new Democratic majority…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/9/south-africa-detains-foreigners-suspected-of-heading-to-join-russian-forces?traffic_source=rss",
+    "title": "South Africa detains foreigners suspected of heading to join Russian forces",
+    "link": "https://www.aljazeera.com/news/2026/11/9/south-africa-detains-foreigners-suspected-of-heading-to-join-russian-forces?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-09T19:56:45+00:00",
+    "first_seen": "2026-11-09T21:03:49.736062+00:00",
+    "excerpt": "Africans and others continue to be recruited to fight for Russia in its war on Ukraine.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theconversation.com/what-happens-after-a-midterm-tsunami-lessons-from-1974-and-1994-296034",
+    "title": "What happens after a midterm tsunami? Lessons from 1974 and 1994",
+    "link": "https://theconversation.com/what-happens-after-a-midterm-tsunami-lessons-from-1974-and-1994-296034",
+    "outlet": "The Conversation",
+    "author": "Robert A. Strong, Senior Fellow, Miller Center, University of Virginia",
+    "published": "2026-11-09T19:56:16+00:00",
+    "first_seen": "2026-11-09T21:03:49.736062+00:00",
+    "excerpt": "Surprising midterm elections that create new majorities on Capitol Hill look to be revolutions in the days after they occur. Years later, they often appear to be more complex – and less significant.",
     "tags": [],
     "also_reported_by": []
   },
@@ -80,6 +188,18 @@
     "published": "2026-11-09T19:13:59+00:00",
     "first_seen": "2026-11-09T20:05:06.030468+00:00",
     "excerpt": "Particles from fireworks and bonfires likely to have contributed to levels well above WHO’s daily guideline Air pollution soared to “very high” levels across urban parts of England on Monday as still, foggy weather kept emissions trapped after a weekend of fireworks and bonfires. Government…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://bbc.co.uk/news/videos/cvp8g82pled5o?at_medium=RSS&at_campaign=rss",
+    "title": "Millions fill Buenos Aires streets to welcome Pope Leo XIV",
+    "link": "https://www.bbc.co.uk/news/videos/cvp8g82pled5o?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-09T19:09:27+00:00",
+    "first_seen": "2026-11-09T21:03:49.736062+00:00",
+    "excerpt": "The Pope celebrated an outdoor Mass in Argentina's capital, the second stop on a 12-day tour of Latin America, just three weeks after having had surgery for lung cancer.",
     "tags": [],
     "also_reported_by": []
   },
