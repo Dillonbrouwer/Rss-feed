@@ -1,5 +1,53 @@
 [
   {
+    "id": "https://aljazeera.com/video/newsfeed/2026/11/9/drone-attack-on-iraqi-kurdistan-gas-field-triggers-mass-blackout?traffic_source=rss",
+    "title": "Drone attack on Iraqi Kurdistan gas field triggers mass blackout",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/drone-attack-on-iraqi-kurdistan-gas-field-triggers-mass-blackout?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-09T02:23:11+00:00",
+    "first_seen": "2026-11-09T02:59:55.630106+00:00",
+    "excerpt": "A drone attack has halted production at the Khor Mor gas field in northern Iraq, causing widespread power outages.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/world/2026/nov/09/pope-leo-argentina-visit-speech-javier-milei-austerity",
+    "title": "Pope Leo delivers stinging rebuke of Milei’s austerity measures during Argentina visit",
+    "link": "https://www.theguardian.com/world/2026/nov/09/pope-leo-argentina-visit-speech-javier-milei-austerity",
+    "outlet": "The Guardian",
+    "author": "Agence France-Presse",
+    "published": "2026-11-09T02:11:25+00:00",
+    "first_seen": "2026-11-09T02:59:55.630106+00:00",
+    "excerpt": "Pontiff tells Argentina’s president the economy must benefit all on second stop of 12-day Latin America tour Pope Leo XIV has delivered a stinging critique of Argentine president Javier Milei’s harsh austerity measures, insisting growth must benefit all in a speech met with rapturous applause in…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/australia-news/2026/nov/09/danielle-madgwick-dv-murder-family-of-accused-charged-ntwnfb",
+    "title": "Wagga Wagga family members of alleged DV murderer charged with being accessories after the fact",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/09/danielle-madgwick-dv-murder-family-of-accused-charged-ntwnfb",
+    "outlet": "The Guardian",
+    "author": "Caitlin Cassidy",
+    "published": "2026-11-09T01:30:36+00:00",
+    "first_seen": "2026-11-09T02:59:55.630106+00:00",
+    "excerpt": "Danielle Madgwick died in regional NSW in September after suffering multiple stab wounds to her upper body Get our breaking news email , free app or daily news podcast Family members of a man accused of the domestic violence murder of a 23-year-old woman in south-western New South Wales have been…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/9/drone-attack-suspends-production-at-iraqs-khor-mor-gasfield?traffic_source=rss",
+    "title": "Drone attack suspends production at Iraq’s Khor Mor gasfield",
+    "link": "https://www.aljazeera.com/news/2026/11/9/drone-attack-suspends-production-at-iraqs-khor-mor-gasfield?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-09T01:19:09+00:00",
+    "first_seen": "2026-11-09T02:59:55.630106+00:00",
+    "excerpt": "The strike leaves more than 70 percent of northern Iraq's Kurdish region without power.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://theguardian.com/us-news/2026/nov/08/trump-dana-white-press-secretary",
     "title": "Trump says he was ‘only kidding’ about making UFC’s Dana White next press secretary",
     "link": "https://www.theguardian.com/us-news/2026/nov/08/trump-dana-white-press-secretary",
