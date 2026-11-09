@@ -1,5 +1,29 @@
 [
   {
+    "id": "https://theguardian.com/us-news/2026/nov/09/first-thing-nvidia-stocks-tumble-as-ceo-investigated-over-spy-claims",
+    "title": "Nvidia stocks tumble as CEO investigated over spy claims | First Thing",
+    "link": "https://www.theguardian.com/us-news/2026/nov/09/first-thing-nvidia-stocks-tumble-as-ceo-investigated-over-spy-claims",
+    "outlet": "The Guardian",
+    "author": "Martin Belam",
+    "published": "2026-11-09T11:54:21+00:00",
+    "first_seen": "2026-11-09T12:08:50.172899+00:00",
+    "excerpt": "Jensen Huang reportedly had close relationship ‌with Chinese businesswoman who passed information to ‌Beijing. Plus, tennis legend Billie Jean King tells all Good morning. Nvidia’s chief executive, Jensen Huang, has been placed under “independent investigation” by the tech company after reports…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/video/newsfeed/2026/11/9/paraguay-former-presidents-mansion-raided-in-ongoing-investigation?traffic_source=rss",
+    "title": "Paraguay former president’s mansion raided in ongoing investigation",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/paraguay-former-presidents-mansion-raided-in-ongoing-investigation?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-09T11:19:45+00:00",
+    "first_seen": "2026-11-09T12:08:50.172899+00:00",
+    "excerpt": "A hidden vault was found in Paraguay's former president's mansion amid ongoing banking scandal investigation.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://theguardian.com/environment/2026/nov/09/deadly-floods-iraq-thunderstorms-iran-portugal-japan-snow",
     "title": "Deadly floods hit Iraq as thunderstorms sweep across region",
     "link": "https://www.theguardian.com/environment/2026/nov/09/deadly-floods-iraq-thunderstorms-iran-portugal-japan-snow",
@@ -48,6 +72,18 @@
     "also_reported_by": []
   },
   {
+    "id": "https://aljazeera.com/news/2026/11/9/gaza-authorities-slam-global-inaction-after-mudslide-kills-five-people?traffic_source=rss",
+    "title": "Gaza authorities slam global ‘inaction’ after mudslide kills five people",
+    "link": "https://www.aljazeera.com/news/2026/11/9/gaza-authorities-slam-global-inaction-after-mudslide-kills-five-people?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-09T10:50:49+00:00",
+    "first_seen": "2026-11-09T12:08:50.172899+00:00",
+    "excerpt": "Four children and a woman were killed after heavy rain caused a sandbank to collapse on their tent.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://theguardian.com/world/2026/nov/09/eu-lawsuit-ibm-atos-leonardo-entry-exit-border-system",
     "title": "EU sues IBM and two European firms over troubled entry/exit border system",
     "link": "https://www.theguardian.com/world/2026/nov/09/eu-lawsuit-ibm-atos-leonardo-entry-exit-border-system",
@@ -56,6 +92,18 @@
     "published": "2026-11-09T10:49:23+00:00",
     "first_seen": "2026-11-09T11:10:34.654304+00:00",
     "excerpt": "Lawsuit filed last year against IBM, Atos and Leonardo after delays to passengers blamed on the system, first reported in the FT The EU has filed a lawsuit against IBM and two other companies involved in its troubled border-management system, an internal document has revealed. The bloc’s IT agency,…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/9/why-is-nvidias-jensen-huang-at-the-centre-of-a-us-china-spy-scandal?traffic_source=rss",
+    "title": "Why is Nvidia’s Jensen Huang at the centre of a US-China spy scandal?",
+    "link": "https://www.aljazeera.com/news/2026/11/9/why-is-nvidias-jensen-huang-at-the-centre-of-a-us-china-spy-scandal?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-09T10:49:02+00:00",
+    "first_seen": "2026-11-09T12:08:50.172899+00:00",
+    "excerpt": "Allegations linking CEO to Chinese intelligence shake markets with chipmaker's shares falling more than 4 percent.",
     "tags": [],
     "also_reported_by": []
   },
@@ -80,6 +128,18 @@
     "published": "2026-11-09T10:47:00+00:00",
     "first_seen": "2026-11-09T11:10:34.654304+00:00",
     "excerpt": "Through civic participation and liberal education, South Korean educators hope to \"quietly stitch the fabric of our democracy…before it unravels beyond repair.\"",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/sports/2026/11/9/usman-khawajas-sandpapergate-claims-are-accurate-says-david-warner?traffic_source=rss",
+    "title": "Usman Khawaja’s ‘Sandpapergate’ claims are ‘accurate’, says David Warner",
+    "link": "https://www.aljazeera.com/sports/2026/11/9/usman-khawajas-sandpapergate-claims-are-accurate-says-david-warner?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-09T10:38:10+00:00",
+    "first_seen": "2026-11-09T12:08:50.172899+00:00",
+    "excerpt": "'We're not here to point fingers and we're not opening old wounds,' Australia's Warner said of himself and Khawaja.",
     "tags": [],
     "also_reported_by": []
   },
