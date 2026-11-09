@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://aljazeera.com/news/2026/11/9/us-supreme-court-allows-border-wall-in-big-bend-national-park-to-proceed?traffic_source=rss",
+    "title": "US Supreme Court allows border wall in Big Bend National Park to proceed",
+    "link": "https://www.aljazeera.com/news/2026/11/9/us-supreme-court-allows-border-wall-in-big-bend-national-park-to-proceed?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-09T23:15:19+00:00",
+    "first_seen": "2026-11-09T23:51:23.982643+00:00",
+    "excerpt": "Lawsuit had sought to block border wall construction in national park by targeting waivers that sidestep protections.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/video/newsfeed/2026/11/9/trump-defends-nvidias-huang-after-calling-about-spy-scandal?traffic_source=rss",
+    "title": "Trump defends Nvidia’s Huang after calling about spy scandal",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/trump-defends-nvidias-huang-after-calling-about-spy-scandal?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-09T23:13:44+00:00",
+    "first_seen": "2026-11-09T23:51:23.982643+00:00",
+    "excerpt": "Trump told reporters he believes Nvidia’s CEO Jensen Huang had no idea his alleged mistress was a suspected Chinese spy.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/us-news/2026/nov/09/trump-iran-war",
+    "title": "Trump says US war in Iran ‘effectively over’ as he plays down escalation concerns",
+    "link": "https://www.theguardian.com/us-news/2026/nov/09/trump-iran-war",
+    "outlet": "The Guardian",
+    "author": "Andrew Roth in Washington",
+    "published": "2026-11-09T22:58:31+00:00",
+    "first_seen": "2026-11-09T23:51:23.982643+00:00",
+    "excerpt": "President, after talks with Qatari PM, suggests end to war coming ‘fairly soon’ and military escalation not needed Donald Trump has said that the war in Iran is “effectively over” as he played down concerns that the US would escalate its military campaign against Tehran after the midterm elections.…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
     "title": "Trump says Nvidia boss told him he had no idea woman he had affair with was Chinese spy",
     "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
@@ -24,6 +60,18 @@
     "also_reported_by": []
   },
   {
+    "id": "https://aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm?traffic_source=rss",
+    "title": "Trump says war on Iran ‘effectively over’ after talks with Qatar’s PM",
+    "link": "https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-09T22:31:19+00:00",
+    "first_seen": "2026-11-09T23:51:23.982643+00:00",
+    "excerpt": "Iranian officials dismissed Trump's latest remarks as 'fake news' after the US president suggested an end to the war.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://npr.org/2026/11/09/g-s1-152724/france-iran-cyber-sabotage-fridge-attacks",
     "title": "France accuses Iran of cyber 'sabotage' in fridge attacks",
     "link": "https://www.npr.org/2026/11/09/g-s1-152724/france-iran-cyber-sabotage-fridge-attacks",
@@ -44,6 +92,18 @@
     "published": "2026-11-09T22:26:31+00:00",
     "first_seen": "2026-11-09T22:57:30.044491+00:00",
     "excerpt": "Tasmanian premier leads tributes for Russell, who earlier this month returned home to ‘see out his days’ Get our breaking news email , free app or daily news podcast Beaconsfield mine collapse survivor Todd Russell has died aged 54 after recently announcing deteriorating health. The Tasmanian…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://foreignpolicy.com/2026/11/09/pete-hegseth-midterms-trump-iran-war-impeachment-congress",
+    "title": "The Walls Close In on Hegseth",
+    "link": "https://foreignpolicy.com/2026/11/09/pete-hegseth-midterms-trump-iran-war-impeachment-congress/",
+    "outlet": "Foreign Policy",
+    "author": "John Haltiwanger",
+    "published": "2026-11-09T22:26:03+00:00",
+    "first_seen": "2026-11-09T23:51:23.982643+00:00",
+    "excerpt": "The Pentagon chief could get pushed out soon, one way or another.",
     "tags": [],
     "also_reported_by": []
   },
