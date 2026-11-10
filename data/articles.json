@@ -1,5 +1,77 @@
 [
   {
+    "id": "https://npr.org/2026/11/10/nx-s1-6036813/house-votes-to-effectively-end-the-impeachment-effort-against-pete-hegseth",
+    "title": "House votes to effectively end the impeachment effort against Pete Hegseth",
+    "link": "https://www.npr.org/2026/11/10/nx-s1-6036813/house-votes-to-effectively-end-the-impeachment-effort-against-pete-hegseth",
+    "outlet": "NPR",
+    "author": "Eric McDaniel",
+    "published": "2026-11-10T23:43:11+00:00",
+    "first_seen": "2026-11-10T23:47:20.961211+00:00",
+    "excerpt": "House Republicans managed to short circuit a floor vote on the impeachment effort brought against the Defense Secretary by Kentucky Republican Thomas Massie.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/10/fire-contained-on-platform-in-irans-south-pars-gas-field?traffic_source=rss",
+    "title": "Fire contained on platform in Iran’s South Pars gas field",
+    "link": "https://www.aljazeera.com/news/2026/11/10/fire-contained-on-platform-in-irans-south-pars-gas-field?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-10T23:38:02+00:00",
+    "first_seen": "2026-11-10T23:47:20.961211+00:00",
+    "excerpt": "Officials are considering a gas leak or an operational mishap as possible causes of the fire, Fars news agency said.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/video/newsfeed/2026/11/10/massive-fire-as-israeli-settlers-burn-down-business-near-nablus?traffic_source=rss",
+    "title": "Massive fire as Israeli settlers burn down business near Nablus",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/massive-fire-as-israeli-settlers-burn-down-business-near-nablus?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-10T23:33:43+00:00",
+    "first_seen": "2026-11-10T23:47:20.961211+00:00",
+    "excerpt": "Israeli settlers have set fire to Palestinian property in the village of Luban ash-Sharqiya, near Nablus.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/10/french-far-right-author-zemmour-launches-second-presidential-bid?traffic_source=rss",
+    "title": "French far-right author Zemmour launches second presidential bid",
+    "link": "https://www.aljazeera.com/news/2026/11/10/french-far-right-author-zemmour-launches-second-presidential-bid?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-10T23:23:12+00:00",
+    "first_seen": "2026-11-10T23:47:20.961211+00:00",
+    "excerpt": "Zemmour seeks to expel 'foreign unemployed people' after last month's violent protests.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/us-news/2026/nov/10/pete-hegseth-impeachment-effort",
+    "title": "House Republicans block effort to impeach Pentagon chief Pete Hegseth",
+    "link": "https://www.theguardian.com/us-news/2026/nov/10/pete-hegseth-impeachment-effort",
+    "outlet": "The Guardian",
+    "author": "Chris Stein in Washington",
+    "published": "2026-11-10T23:08:57+00:00",
+    "first_seen": "2026-11-10T23:47:20.961211+00:00",
+    "excerpt": "Trump ally, accused of an array of illegal acts, had earlier condemned impeachment push as ‘a farce and a stunt’ House Republicans on Tuesday blocked an effort to impeach Pete Hegseth, rejecting allegations that the defense secretary had repeatedly violated the constitution through his handling of…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://foreignpolicy.com/2026/11/10/jensen-huang-nvidia-affair-china-spy-unanswered-questions",
+    "title": "Did China Play Jensen Huang?",
+    "link": "https://foreignpolicy.com/2026/11/10/jensen-huang-nvidia-affair-china-spy-unanswered-questions/",
+    "outlet": "Foreign Policy",
+    "author": "James Palmer",
+    "published": "2026-11-10T22:55:16+00:00",
+    "first_seen": "2026-11-10T23:47:20.961211+00:00",
+    "excerpt": "Unanswered questions loom over the Nvidia chief’s affair.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://aljazeera.com/news/2026/11/10/russia-expels-moldovan-diplomat-in-tit-for-tat-move?traffic_source=rss",
     "title": "Russia expels Moldovan diplomat in tit-for-tat move",
     "link": "https://www.aljazeera.com/news/2026/11/10/russia-expels-moldovan-diplomat-in-tit-for-tat-move?traffic_source=rss",
@@ -72,6 +144,18 @@
     "also_reported_by": []
   },
   {
+    "id": "https://theguardian.com/us-news/2026/nov/10/prosecutors-charge-iranian-operative-uk-air-force-attack",
+    "title": "US prosecutors charge Iranian operative allegedly responsible for UK air force base attack",
+    "link": "https://www.theguardian.com/us-news/2026/nov/10/prosecutors-charge-iranian-operative-uk-air-force-attack",
+    "outlet": "The Guardian",
+    "author": "Andrew Roth in Washington",
+    "published": "2026-11-10T21:57:57+00:00",
+    "first_seen": "2026-11-10T23:47:20.961211+00:00",
+    "excerpt": "New indictment claims Mohammad Dawood al-Saadi, a dual Iranian and Iraqi national, plotted while in US custody US federal prosecutors have said that an Iranian operative jailed in New York was responsible for the foiled attack on a UK air force base where American B-1 bombers were stationed. A new…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://aljazeera.com/news/2026/11/10/ibms-biggest-division-ends-most-us-foreign-worker-sponsorships?traffic_source=rss",
     "title": "IBM’s biggest division ends most US foreign worker sponsorships",
     "link": "https://www.aljazeera.com/news/2026/11/10/ibms-biggest-division-ends-most-us-foreign-worker-sponsorships?traffic_source=rss",
@@ -80,6 +164,18 @@
     "published": "2026-11-10T21:55:49+00:00",
     "first_seen": "2026-11-10T22:54:57.465964+00:00",
     "excerpt": "Announcement follows Trump administration crackdown on visa programmes for skilled foreign workers.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://npr.org/2026/11/10/nx-s1-6018588/should-you-trust-new-ai-agents-with-your-money-and-data",
+    "title": "Should you trust new AI agents with your money and data?",
+    "link": "https://www.npr.org/2026/11/10/nx-s1-6018588/should-you-trust-new-ai-agents-with-your-money-and-data",
+    "outlet": "NPR",
+    "author": "Stephan Bisaha",
+    "published": "2026-11-10T21:44:32+00:00",
+    "first_seen": "2026-11-10T23:47:20.961211+00:00",
+    "excerpt": "Tech companies want agentic AI to be the new way you shop. But should you trust AI when your money's involved?",
     "tags": [],
     "also_reported_by": []
   },
