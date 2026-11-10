@@ -1,5 +1,89 @@
 [
   {
+    "id": "https://theguardian.com/us-news/2026/nov/10/washington-trans-sports-ban-lawsuit",
+    "title": "Parents sue to stop Washington state trans sports ban that could require ‘invasive’ genital exams",
+    "link": "https://www.theguardian.com/us-news/2026/nov/10/washington-trans-sports-ban-lawsuit",
+    "outlet": "The Guardian",
+    "author": "Sam Levin",
+    "published": "2026-11-10T19:49:49+00:00",
+    "first_seen": "2026-11-10T20:03:55.754124+00:00",
+    "excerpt": "Voters adopted extreme policy requiring medical sex verification for all girls who want to play team sports Parents of student athletes in Washington state have sued to block a ballot initiative banning transgender girls from women’s sports teams, calling the measure discriminatory and warning it…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/us-news/2026/nov/10/jim-jordan-house-republican-leader",
+    "title": "Republicans elect Jim Jordan as House minority leader after midterm defeats",
+    "link": "https://www.theguardian.com/us-news/2026/nov/10/jim-jordan-house-republican-leader",
+    "outlet": "The Guardian",
+    "author": "Guardian staff",
+    "published": "2026-11-10T19:40:10+00:00",
+    "first_seen": "2026-11-10T20:03:55.754124+00:00",
+    "excerpt": "As Democrats prepare to take control of Congress, Republicans pick Jordan for last two years of Trump’s presidency Republican lawmakers have elected Jim Jordan, veteran congressman and Trump loyalist, as their leader in the House of Representatives following resounding losses in last week’s US…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/video/newsfeed/2026/11/10/rubio-says-no-need-for-major-combat-operations-against-iran?traffic_source=rss",
+    "title": "Rubio says no need for major combat operations against Iran",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/rubio-says-no-need-for-major-combat-operations-against-iran?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-10T19:34:13+00:00",
+    "first_seen": "2026-11-10T20:03:55.754124+00:00",
+    "excerpt": "US Secretary of State Marco Rubio says there is “no need” for further major combat operations against Iran",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/uk-news/2026/nov/10/uk-counter-terrorism-police-arrest-member-of-us-army-in-gloucestershire",
+    "title": "UK counter-terrorism police arrest member of US army with alleged links to Russia",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/10/uk-counter-terrorism-police-arrest-member-of-us-army-in-gloucestershire",
+    "outlet": "The Guardian",
+    "author": "Guardian staff",
+    "published": "2026-11-10T19:25:37+00:00",
+    "first_seen": "2026-11-10T20:03:55.754124+00:00",
+    "excerpt": "Man, 41, arrested as part of an investigation by British police working with US authorities, US military and FBI A member of the US army with alleged links to Russia has been arrested by British counter-terrorism police. The man, 41, was arrested as part of an investigation by Counter Terrorism…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://foreignpolicy.com/2026/11/10/middle-east-new-washington-arab-spring-iran-war",
+    "title": "There’s Never a New Middle East",
+    "link": "https://foreignpolicy.com/2026/11/10/middle-east-new-washington-arab-spring-iran-war/",
+    "outlet": "Foreign Policy",
+    "author": "Steven Simon",
+    "published": "2026-11-10T19:21:20+00:00",
+    "first_seen": "2026-11-10T20:03:55.754124+00:00",
+    "excerpt": "Washington’s fantasies of transformation keep failing to pan out.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/us-news/2026/nov/10/trump-fcc-nominee-danielle-thumann",
+    "title": "Trump’s FCC nominee avoids questions from Democrats on Carr’s ‘censorship agenda’",
+    "link": "https://www.theguardian.com/us-news/2026/nov/10/trump-fcc-nominee-danielle-thumann",
+    "outlet": "The Guardian",
+    "author": "Jeremy Barr in Washington",
+    "published": "2026-11-10T19:19:46+00:00",
+    "first_seen": "2026-11-10T20:03:55.754124+00:00",
+    "excerpt": "Senators pressured Danielle Thumann, senior counsel to FCC chair Brendan Carr, to speak about agency’s actions toward ABC and Jimmy Kimmel During a contentious Tuesday hearing on her nomination by Donald Trump to serve as a Federal Communications Commission (FCC) commissioner, Senate Democrats…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/10/us-senate-advances-major-bill-boosting-energy-infrastructure?traffic_source=rss",
+    "title": "US Senate advances major bill boosting energy infrastructure",
+    "link": "https://www.aljazeera.com/news/2026/11/10/us-senate-advances-major-bill-boosting-energy-infrastructure?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-10T19:09:12+00:00",
+    "first_seen": "2026-11-10T20:03:55.754124+00:00",
+    "excerpt": "Rare bipartisan bill requires data centres to pay for infrastructure, but environmental groups say it falls short.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://npr.org/2026/11/10/nx-s1-6030962/testing-the-new-generation-of-ai-enabled-fire-extinguishing-drones",
     "title": "Testing the new generation of AI-enabled fire-extinguishing drones",
     "link": "https://www.npr.org/2026/11/10/nx-s1-6030962/testing-the-new-generation-of-ai-enabled-fire-extinguishing-drones",
@@ -44,6 +128,18 @@
     "published": "2026-11-10T18:53:00+00:00",
     "first_seen": "2026-11-10T19:10:38.957227+00:00",
     "excerpt": "",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theconversation.com/after-midterm-rout-republicans-can-still-confirm-a-supreme-court-justice-but-at-what-cost-296347",
+    "title": "After midterm rout, Republicans can still confirm a Supreme Court justice, but at what cost?",
+    "link": "https://theconversation.com/after-midterm-rout-republicans-can-still-confirm-a-supreme-court-justice-but-at-what-cost-296347",
+    "outlet": "The Conversation",
+    "author": "Paul M. Collins Jr., Professor of Legal Studies and Political Science, UMass Amherst",
+    "published": "2026-11-10T18:45:09+00:00",
+    "first_seen": "2026-11-10T20:03:55.754124+00:00",
+    "excerpt": "If Republicans attempt to confirm a nominee, they will trigger a historic fight and hand Democrats the justification needed to reshape the high court.",
     "tags": [],
     "also_reported_by": []
   },
