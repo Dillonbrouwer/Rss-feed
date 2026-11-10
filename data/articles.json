@@ -1,5 +1,53 @@
 [
   {
+    "id": "https://bbc.co.uk/news/articles/cm1j3jdp7w54o?at_medium=RSS&at_campaign=rss",
+    "title": "Why does Australia want Brits to swap Sydney for the outback?",
+    "link": "https://www.bbc.co.uk/news/articles/cm1j3jdp7w54o?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-10T21:17:00+00:00",
+    "first_seen": "2026-11-10T21:53:35.213021+00:00",
+    "excerpt": "Australia wants changes to UK deal that would push backpackers out of Bondi and into remote regions.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://foreignpolicy.com/2026/11/10/progressives-democrats-israel-aid-weapons-sales-congress-midterms",
+    "title": "What Progressives Could Do on Israel",
+    "link": "https://foreignpolicy.com/2026/11/10/progressives-democrats-israel-aid-weapons-sales-congress-midterms/",
+    "outlet": "Foreign Policy",
+    "author": "Rachel Oswald",
+    "published": "2026-11-10T21:02:51+00:00",
+    "first_seen": "2026-11-10T21:53:35.213021+00:00",
+    "excerpt": "Democrats feel they have a mandate to put conditions on U.S. support for Israel.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/video/lets-focus/2026/11/10/2026-midterms-blue-wave-or-anti-establishment-backlash?traffic_source=rss",
+    "title": "2026 Midterms: Blue wave or anti-establishment backlash?",
+    "link": "https://www.aljazeera.com/video/lets-focus/2026/11/10/2026-midterms-blue-wave-or-anti-establishment-backlash?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-10T21:00:55+00:00",
+    "first_seen": "2026-11-10T21:53:35.213021+00:00",
+    "excerpt": "Emma Vigeland and Olivia Troye join Josh Rushing to discuss the fallout of the 2026 midterm elections.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/10/white-house-announces-funds-for-law-enforcement-programme-in-several-cities?traffic_source=rss",
+    "title": "White House announces funds for law enforcement programme in several cities",
+    "link": "https://www.aljazeera.com/news/2026/11/10/white-house-announces-funds-for-law-enforcement-programme-in-several-cities?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-10T21:00:01+00:00",
+    "first_seen": "2026-11-10T21:53:35.213021+00:00",
+    "excerpt": "Trump administration awarded more than $60m each to St Louis, Missouri, and Jackson, Mississippi, in crime push.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
     "title": "Meghan's father Thomas Markle detained for allegedly cutting off ankle monitor, officials say",
     "link": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
@@ -8,6 +56,18 @@
     "published": "2026-11-10T20:53:33+00:00",
     "first_seen": "2026-11-10T20:57:54.227542+00:00",
     "excerpt": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://bbc.co.uk/news/articles/ckjwew54yd4wo?at_medium=RSS&at_campaign=rss",
+    "title": "Spain's king and queen attend memorial service for rail crash victims",
+    "link": "https://www.bbc.co.uk/news/articles/ckjwew54yd4wo?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-10T20:46:40+00:00",
+    "first_seen": "2026-11-10T21:53:35.213021+00:00",
+    "excerpt": "Sixty-nine people died in the collision near Toledo two weeks ago and 28 are still in hospital.",
     "tags": [],
     "also_reported_by": []
   },
@@ -56,6 +116,18 @@
     "published": "2026-11-10T20:34:28+00:00",
     "first_seen": "2026-11-10T20:57:54.227542+00:00",
     "excerpt": "Old sticking points continue to bog down negotiations.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://bbc.co.uk/news/videos/cr0qkqqkn3j7o?at_medium=RSS&at_campaign=rss",
+    "title": "Watch: E-bike battery explodes into massive fireball inside Oregon home",
+    "link": "https://www.bbc.co.uk/news/videos/cr0qkqqkn3j7o?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-10T20:31:17+00:00",
+    "first_seen": "2026-11-10T21:53:35.213021+00:00",
+    "excerpt": "Surveillance footage from inside the home shows a mother and son noticing smoke coming from the battery before it suddenly bursts into flames.",
     "tags": [],
     "also_reported_by": []
   },
@@ -164,6 +236,18 @@
     "published": "2026-11-10T20:00:18+00:00",
     "first_seen": "2026-11-10T20:57:54.227542+00:00",
     "excerpt": "Trump’s proposal builds on earlier cuts to federal food aid programme used by more than 36 million low-income Americans.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/world/2026/nov/10/israeli-opposition-hurries-to-seize-control-as-new-knesset-is-sworn-in",
+    "title": "Israeli opposition hurries to seize control as new Knesset is sworn in",
+    "link": "https://www.theguardian.com/world/2026/nov/10/israeli-opposition-hurries-to-seize-control-as-new-knesset-is-sworn-in",
+    "outlet": "The Guardian",
+    "author": "Emma Graham-Harrison in Jerusalem",
+    "published": "2026-11-10T19:59:33+00:00",
+    "first_seen": "2026-11-10T21:53:35.213021+00:00",
+    "excerpt": "Former military chief Gadi Eisenkot has mandate to try to form a government – with Netanyahu waiting if he fails Opposition lawmakers have wasted no time after Israel’s new Knesset was sworn in, deploying their majority to seize control of the legislature from Benjamin Netanyhau and his allies.…",
     "tags": [],
     "also_reported_by": []
   },
