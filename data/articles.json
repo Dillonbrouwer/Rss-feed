@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
+    "title": "Qantas to outsource 850 local jobs with most roles moving to India",
+    "link": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-10T01:55:22+00:00",
+    "first_seen": "2026-11-10T02:19:15.602633+00:00",
+    "excerpt": "The Australian airline said the move was aimed at modernising its IT systems and noted the impact of AI.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/business/2026/nov/10/qantas-850-job-cuts-outsource-work-to-india-ai-overhaul",
+    "title": "Qantas to cut 850 Australian jobs and outsource work to India under AI-driven overhaul",
+    "link": "https://www.theguardian.com/business/2026/nov/10/qantas-850-job-cuts-outsource-work-to-india-ai-overhaul",
+    "outlet": "The Guardian",
+    "author": "Jonathan Barrett Business editor",
+    "published": "2026-11-10T01:34:47+00:00",
+    "first_seen": "2026-11-10T02:19:15.602633+00:00",
+    "excerpt": "Australian carrier announces agreement with Accenture amid ‘unprecedented’ technological disruption, CEO Vanessa Hudson says Get our breaking news email , free app or daily news podcast Qantas is preparing to cut 850 local jobs and outsource work offshore under an AI-driven overhaul, marking a…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/australia-news/2026/nov/10/teen-planned-sydney-terror-attack-using-chatgpt-radicalised-tiktok-ntwnfb",
+    "title": "Teenager who planned terror attack in Sydney tells court he was radicalised online and used AI to strategise",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/10/teen-planned-sydney-terror-attack-using-chatgpt-radicalised-tiktok-ntwnfb",
+    "outlet": "The Guardian",
+    "author": "Josh Taylor Technology reporter",
+    "published": "2026-11-10T01:09:19+00:00",
+    "first_seen": "2026-11-10T02:19:15.602633+00:00",
+    "excerpt": "Boy says he was first exposed to extremist material on TikTok, turned to Telegram and YouTube for bomb-making instructions, and used ChatGPT to devise his plans Get our breaking news email , free app or daily news podcast A teenager who admitted to planning a terrorist attack in Sydney in 2024 has…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://theguardian.com/us-news/2026/nov/09/senate-advances-bill-energy-projects",
     "title": "Senate advances bill to speed up permit reviews for infrastructure projects",
     "link": "https://www.theguardian.com/us-news/2026/nov/09/senate-advances-bill-energy-projects",
