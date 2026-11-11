@@ -1,5 +1,101 @@
 [
   {
+    "id": "https://theguardian.com/business/2026/nov/11/democrats-election-medicaid-costs",
+    "title": "Democrats’ US election sweep brings the price of their promised social contract into focus",
+    "link": "https://www.theguardian.com/business/2026/nov/11/democrats-election-medicaid-costs",
+    "outlet": "The Guardian",
+    "author": "Eduardo Porter",
+    "published": "2026-11-11T11:00:46+00:00",
+    "first_seen": "2026-11-11T11:12:41.781164+00:00",
+    "excerpt": "‘The post-election wish list is about to run into harsh fiscal reality: there is no money’ Is this an opportunity for a new America? As the Reagan revolution four decades ago launched US society down the path to low taxes and meager solidarity, perhaps the Republican bloodbath last week could turn…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/11/did-democrats-save-pete-hegseth-from-impeachment?traffic_source=rss",
+    "title": "Did Democrats save Pete Hegseth from impeachment?",
+    "link": "https://www.aljazeera.com/news/2026/11/11/did-democrats-save-pete-hegseth-from-impeachment?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-11T10:32:03+00:00",
+    "first_seen": "2026-11-11T11:12:41.781164+00:00",
+    "excerpt": "Eleven Democrats are absent from procedural vote that narrowly shelves House impeachment vote against defence secretary.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/video/counting-the-cost/2026/11/11/ai-boom-or-bubble?traffic_source=rss",
+    "title": "AI boom or bubble?",
+    "link": "https://www.aljazeera.com/video/counting-the-cost/2026/11/11/ai-boom-or-bubble?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-11T10:31:24+00:00",
+    "first_seen": "2026-11-11T11:12:41.781164+00:00",
+    "excerpt": "A tech sell-off has raised questions about AI spending and the risks to jobs and growth across the global economy.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/11/whats-the-falklands-oil-project-at-the-heart-of-latest-uk-argentina-spat?traffic_source=rss",
+    "title": "What’s the Falklands oil project at the heart of latest UK-Argentina spat?",
+    "link": "https://www.aljazeera.com/news/2026/11/11/whats-the-falklands-oil-project-at-the-heart-of-latest-uk-argentina-spat?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-11T10:28:12+00:00",
+    "first_seen": "2026-11-11T11:12:41.781164+00:00",
+    "excerpt": "UK says it will defend its interests at Tribunal hearing, as Argentina seeks measures to block the offshore project.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/11/spains-first-general-strike-in-14-years-begins?traffic_source=rss",
+    "title": "Spain’s first general strike in 14 years begins",
+    "link": "https://www.aljazeera.com/news/2026/11/11/spains-first-general-strike-in-14-years-begins?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-11T10:18:28+00:00",
+    "first_seen": "2026-11-11T11:12:41.781164+00:00",
+    "excerpt": "Strike disrupts public transport and industries amid demands for housing reform ahead of November 29 elections.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/11/us-treasury-chief-bessent-moved-to-military-base-after-iranian-threats?traffic_source=rss",
+    "title": "US Treasury chief Bessent moved to military base after ‘Iranian threats’",
+    "link": "https://www.aljazeera.com/news/2026/11/11/us-treasury-chief-bessent-moved-to-military-base-after-iranian-threats?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-11T10:16:38+00:00",
+    "first_seen": "2026-11-11T11:12:41.781164+00:00",
+    "excerpt": "Iran is said to have geo-located Bessent's $12.5m mansion in Washington, DC after a photo of it was published.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/11/gaza-infrastructure-collapse-leaves-residents-defenceless-against-floods?traffic_source=rss",
+    "title": "Gaza’s infrastructure collapse leaves residents defenceless against floods",
+    "link": "https://www.aljazeera.com/news/2026/11/11/gaza-infrastructure-collapse-leaves-residents-defenceless-against-floods?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-11T10:12:37+00:00",
+    "first_seen": "2026-11-11T11:12:41.781164+00:00",
+    "excerpt": "Winter weather has continued to wreak havoc in Gaza, with flooding and strong winds.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://npr.org/2026/11/10/nx-s1-6036786/uk-iran-airbase-russia-spy",
+    "title": "Iran-backed trio accused of plotting attacks on U.K. base hosting U.S. jets",
+    "link": "https://www.npr.org/2026/11/10/nx-s1-6036786/uk-iran-airbase-russia-spy",
+    "outlet": "NPR",
+    "author": "Willem Marx",
+    "published": "2026-11-11T10:02:54+00:00",
+    "first_seen": "2026-11-11T11:12:41.781164+00:00",
+    "excerpt": "Iran-backed operatives have been charged over nearly 20 attacks, including a plot on a U.K. base housing U.S. troops. Separately, a U.S. soldier is held in the U.K. on Russia spying claims.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://npr.org/2026/11/11/nx-s1-6035568/morning-news-brief-hegseth-impeachment-new-house-gop-leader-uk-probes-base-plot",
     "title": "Morning News Brief: Hegseth impeachment, new House GOP leader, UK probes base plot",
     "link": "https://www.npr.org/2026/11/11/nx-s1-6035568/morning-news-brief-hegseth-impeachment-new-house-gop-leader-uk-probes-base-plot",
@@ -84,6 +180,18 @@
     "also_reported_by": []
   },
   {
+    "id": "https://aljazeera.com/sports/2026/11/11/fatima-sana-pakistan-cricket-equal-treatment-wbbl-perth-scorchers?traffic_source=rss",
+    "title": "Pakistan women’s captain Fatima Sana calls for gender equality in cricket",
+    "link": "https://www.aljazeera.com/sports/2026/11/11/fatima-sana-pakistan-cricket-equal-treatment-wbbl-perth-scorchers?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-11T09:57:37+00:00",
+    "first_seen": "2026-11-11T11:12:41.781164+00:00",
+    "excerpt": "Fatima Sana 'dreams of a time' when the men's and women's cricket teams are treated as equals.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://npr.org/2026/11/11/nx-s1-6037314/spain-general-strike",
     "title": "Spain's first general strike in 14 years demands solutions to housing crisis",
     "link": "https://www.npr.org/2026/11/11/nx-s1-6037314/spain-general-strike",
@@ -104,6 +212,18 @@
     "published": "2026-11-11T09:47:46+00:00",
     "first_seen": "2026-11-11T10:12:38.284927+00:00",
     "excerpt": "The film, which details Israel’s surveillance of Palestinian civilians, has been seen by more than 1.5m people in less than two months NAZA, the award-winning documentary that details Israel’s mass killing of civilians in Gaza, has been seen by more than 1.5 million people since being released in…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/11/pakistans-pti-demands-access-to-jailed-khan-after-overnight-hospital-visit?traffic_source=rss",
+    "title": "Pakistan’s PTI demands access to jailed Khan after overnight hospital visit",
+    "link": "https://www.aljazeera.com/news/2026/11/11/pakistans-pti-demands-access-to-jailed-khan-after-overnight-hospital-visit?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-11T09:47:25+00:00",
+    "first_seen": "2026-11-11T11:12:41.781164+00:00",
+    "excerpt": "Former Prime Minister Imran Khan ⁠is taken ⁠to a government hospital in Islamabad for treatment and returned to prison.",
     "tags": [],
     "also_reported_by": []
   },
