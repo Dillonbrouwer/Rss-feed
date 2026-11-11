@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://aljazeera.com/news/2026/11/11/ebola-cases-in-dr-congo-pass-11000-with-5387-deaths?traffic_source=rss",
+    "title": "Ebola cases in DR Congo pass 11,000, with 5,387 deaths",
+    "link": "https://www.aljazeera.com/news/2026/11/11/ebola-cases-in-dr-congo-pass-11000-with-5387-deaths?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-11T04:44:18+00:00",
+    "first_seen": "2026-11-11T05:14:06.307848+00:00",
+    "excerpt": "Authorities struggling to contain DRC's largest Ebola outbreak due to delayed detection and conflict.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/11/russia-claims-interception-of-146-drones-in-leningrad-region?traffic_source=rss",
+    "title": "Russia claims interception of 146 drones in Leningrad region",
+    "link": "https://www.aljazeera.com/news/2026/11/11/russia-claims-interception-of-146-drones-in-leningrad-region?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-11T04:34:47+00:00",
+    "first_seen": "2026-11-11T05:14:06.307848+00:00",
+    "excerpt": "Attacks also reported in the Russian-occupied Donbas region of Ukraine as US-mediated talks continue in Abu Dhabi.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/video/newsfeed/2026/11/11/netanyahu-heckled-by-bennett-at-knesset-opening-session?traffic_source=rss",
+    "title": "Netanyahu heckled by Bennett at Knesset opening session",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/netanyahu-heckled-by-bennett-at-knesset-opening-session?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-11T04:04:56+00:00",
+    "first_seen": "2026-11-11T05:14:06.307848+00:00",
+    "excerpt": "Former Israeli Prime Minister Naftali Bennett repeatedly heckled caretaker PM Benjamin Netanyahu.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://theguardian.com/business/2026/nov/11/david-jones-store-closures-administration-restructure",
     "title": "David Jones to close half its stores triggering mass job losses under ‘urgent restructure’",
     "link": "https://www.theguardian.com/business/2026/nov/11/david-jones-store-closures-administration-restructure",
