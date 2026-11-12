@@ -1,5 +1,53 @@
 [
   {
+    "id": "https://npr.org/2026/11/12/g-s1-151239/kansas-governor-midterms-holscher-masterson",
+    "title": "Cindy Holscher wins in Kansas, holding governor's office for Democrats",
+    "link": "https://www.npr.org/2026/11/12/g-s1-151239/kansas-governor-midterms-holscher-masterson",
+    "outlet": "NPR",
+    "author": "Larry Kaplow",
+    "published": "2026-11-12T23:36:19+00:00",
+    "first_seen": "2026-11-12T23:55:22.532769+00:00",
+    "excerpt": "Holscher, a state senator, overcame a more well-known Republican who had Trump's endorsement in the state that has gone to the GOP in most other statewide races.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+    "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+    "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-12T23:34:05+00:00",
+    "first_seen": "2026-11-12T23:55:22.532769+00:00",
+    "excerpt": "US lawmakers now want to question Huang over whether one of his alleged relationships was with a Chinese spy.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/12/russian-court-jails-rights-lawyer-for-12-years-on-treason-charge?traffic_source=rss",
+    "title": "Russian court jails rights lawyer for 12 years on treason charge",
+    "link": "https://www.aljazeera.com/news/2026/11/12/russian-court-jails-rights-lawyer-for-12-years-on-treason-charge?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-12T23:18:50+00:00",
+    "first_seen": "2026-11-12T23:55:22.532769+00:00",
+    "excerpt": "Prosecutors say the woman shared security details with Ukraine, while her lawyers argue the information was not secret.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://foreignpolicy.com/2026/11/12/hegseth-impeachment-congress-democrats-trump",
+    "title": "Hegseth’s Troubles Are Far From Over",
+    "link": "https://foreignpolicy.com/2026/11/12/hegseth-impeachment-congress-democrats-trump/",
+    "outlet": "Foreign Policy",
+    "author": "Rishi Iyengar and John Haltiwanger",
+    "published": "2026-11-12T22:46:38+00:00",
+    "first_seen": "2026-11-12T23:55:22.532769+00:00",
+    "excerpt": "The Pentagon chief dodged impeachment, but his future remains uncertain.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://npr.org/2026/11/12/nx-s1-6039266/jensen-huang-china-honey-trap-nvidia-spies-sex-alice-huang",
     "title": "What's a Honey Trap? The spy tactic that helped topple Jensen Huang",
     "link": "https://www.npr.org/2026/11/12/nx-s1-6039266/jensen-huang-china-honey-trap-nvidia-spies-sex-alice-huang",
