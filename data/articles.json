@@ -1,5 +1,89 @@
 [
   {
+    "id": "https://npr.org/2026/11/12/nx-s1-6038860/dc-logan-circle-shooting",
+    "title": "DC shooting leaves 1 person killed, 4 injured. Gunman dead",
+    "link": "https://www.npr.org/2026/11/12/nx-s1-6038860/dc-logan-circle-shooting",
+    "outlet": "NPR",
+    "author": "Jaclyn Diaz",
+    "published": "2026-11-12T16:12:53+00:00",
+    "first_seen": "2026-11-12T16:17:28.531984+00:00",
+    "excerpt": "A gunman opened fire at a gym in Washington, D.C.'s Logan Circle Thursday morning. One person has been confirmed killed and four others injured. The gunman is dead, according to police.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/us-news/2026/nov/12/florida-st-patricks-day-parade-cancelled-dei",
+    "title": "Florida St Patrick’s Day parade cancelled over Republican anti-DEI law, causing outrage",
+    "link": "https://www.theguardian.com/us-news/2026/nov/12/florida-st-patricks-day-parade-cancelled-dei",
+    "outlet": "The Guardian",
+    "author": "Richard Luscombe in Miami",
+    "published": "2026-11-12T15:51:29+00:00",
+    "first_seen": "2026-11-12T16:17:28.531984+00:00",
+    "excerpt": "Ron DeSantis signed law prompting the city of Delray Beach to announce it was scrapping its popular Irish celebration A Florida mayor is working to salvage his city’s St Patrick’s Day parade after it was canceled to comply with a new Republican law banning municipalities from hosting events deemed…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/video/newsfeed/2026/11/12/four-people-shot-in-washington-dc?traffic_source=rss",
+    "title": "Four people shot in Washington DC",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/four-people-shot-in-washington-dc?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-12T15:42:07+00:00",
+    "first_seen": "2026-11-12T16:17:28.531984+00:00",
+    "excerpt": "A major police operation is underway in Washington DC where four people have reportedly been shot",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://scotusblog.com/2026/11/what-is-a-discriminatory-effect-the-montgomery-county-case-and-unpacking-when-schools-may-try-fo",
+    "title": "What is a discriminatory effect? The Montgomery County case and unpacking when schools may try for racial diversity without using race",
+    "link": "https://www.scotusblog.com/2026/11/what-is-a-discriminatory-effect-the-montgomery-county-case-and-unpacking-when-schools-may-try-fo/",
+    "outlet": "SCOTUSblog",
+    "author": "Deborah Hellman , Lily Hu",
+    "published": "2026-11-12T15:30:00+00:00",
+    "first_seen": "2026-11-12T16:17:28.531984+00:00",
+    "excerpt": "",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://npr.org/2026/11/12/nx-s1-6038809/us-envoys-meet-putin-russia-ukraine-war-talks",
+    "title": "U.S. envoys meet with Putin in the Kremlin after Ukraine talks in Abu Dhabi",
+    "link": "https://www.npr.org/2026/11/12/nx-s1-6038809/us-envoys-meet-putin-russia-ukraine-war-talks",
+    "outlet": "NPR",
+    "author": "The Associated Press",
+    "published": "2026-11-12T15:26:34+00:00",
+    "first_seen": "2026-11-12T16:17:28.531984+00:00",
+    "excerpt": "Jared Kushner and Steve Witkoff went to the Kremlin to brief Russian President Vladimir Putin and are scheduled to fly later to Ireland for talks with Ukrainian President Volodymyr Zelenskyy.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/video/newsfeed/2026/11/12/manchester-united-sacked-manager-michael-carrick?traffic_source=rss",
+    "title": "Manchester United sacked manager Michael Carrick",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/manchester-united-sacked-manager-michael-carrick?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-12T15:21:43+00:00",
+    "first_seen": "2026-11-12T16:17:28.531984+00:00",
+    "excerpt": "Michael Carrick has become the third recent Manchester United manager to be sacked midway through the season.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/12/uk-court-finds-two-iranian-men-guilty-of-spying-for-iran?traffic_source=rss",
+    "title": "UK court finds two Iranian men guilty of spying for Iran",
+    "link": "https://www.aljazeera.com/news/2026/11/12/uk-court-finds-two-iranian-men-guilty-of-spying-for-iran?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-12T15:15:48+00:00",
+    "first_seen": "2026-11-12T16:17:28.531984+00:00",
+    "excerpt": "The pair were promised rewards to send intelligence back to Iran, while one was prepared to commit a 'violent attack'.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://aljazeera.com/news/2026/11/12/spain-approves-housing-reforms-after-nationwide-strike-over-costs?traffic_source=rss",
     "title": "Spain approves housing reforms after nationwide strike over costs",
     "link": "https://www.aljazeera.com/news/2026/11/12/spain-approves-housing-reforms-after-nationwide-strike-over-costs?traffic_source=rss",
@@ -212,6 +296,18 @@
     "published": "2026-11-12T14:16:18+00:00",
     "first_seen": "2026-11-12T15:08:49.947747+00:00",
     "excerpt": "Just 28.2% of 18- and 19-year-olds have received their first dose in one-off campaign, UKHSA says The clock is ticking for young people in the UK to receive vaccinations to protect against meningitis B, experts have said, as figures reveal fewer than one in three eligible in one-off campaign have…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://bbc.co.uk/news/articles/cmde1y19g19do?at_medium=RSS&at_campaign=rss",
+    "title": "Before Scott Colom, these two men were the last black US senators in Mississippi",
+    "link": "https://www.bbc.co.uk/news/articles/cmde1y19g19do?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-12T14:12:55+00:00",
+    "first_seen": "2026-11-12T16:17:28.531984+00:00",
+    "excerpt": "The Democratic candidate won in a southern state that had not seated a black senator since 1874.",
     "tags": [],
     "also_reported_by": []
   },
@@ -488,6 +584,18 @@
     "published": "2026-11-12T12:42:44+00:00",
     "first_seen": "2026-11-12T15:08:49.947747+00:00",
     "excerpt": "The BBC's China correspondent Laura Bicker explains the timeline of events and what's next for Nvidia as its board considers whether to oust the CEO.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
+    "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
+    "link": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-12T12:39:39+00:00",
+    "first_seen": "2026-11-12T16:17:28.531984+00:00",
+    "excerpt": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations.",
     "tags": [],
     "also_reported_by": []
   },
