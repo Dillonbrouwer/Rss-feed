@@ -1,5 +1,53 @@
 [
   {
+    "id": "https://theguardian.com/australia-news/2026/nov/12/teenager-in-critical-condition-after-likely-train-surfing-on-sydney-harbour-bridge-police-say",
+    "title": "Teenager in critical condition after likely ‘train surfing’ on Sydney Harbour Bridge, police say",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/12/teenager-in-critical-condition-after-likely-train-surfing-on-sydney-harbour-bridge-police-say",
+    "outlet": "The Guardian",
+    "author": "Caitlin Cassidy and Luca Ittimani",
+    "published": "2026-11-12T06:09:21+00:00",
+    "first_seen": "2026-11-12T06:19:15.269777+00:00",
+    "excerpt": "‘You just don’t mess or play with a 400-tonne train’, Sydney trains says as 17-year-old suffers multiple injuries to head, chest and pelvis A 17-year-old boy is in a critical condition after falling from the outside of a train on the Sydney Harbour Bridge while he was likely train surfing, NSW…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss",
+    "title": "Ukraine's power supply close to critical as Russian strikes bring darkness and cold",
+    "link": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-12T05:59:18+00:00",
+    "first_seen": "2026-11-12T06:19:15.269777+00:00",
+    "excerpt": "For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power each day is taking its toll.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&at_campaign=rss",
+    "title": "New York building collapse kills at least two, officials say",
+    "link": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-12T05:12:56+00:00",
+    "first_seen": "2026-11-12T06:19:15.269777+00:00",
+    "excerpt": "A dangerous search for survivors continues after a three-storey building collapsed in Brooklyn on Wednesday afternoon.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/video/newsfeed/2026/11/12/aje-onl-nf_guard-collapses-during-macrons-welcome-slovak-pres-111126?traffic_source=rss",
+    "title": "French guard collapses as Macron rushes to help",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/aje-onl-nf_guard-collapses-during-macrons-welcome-slovak-pres-111126?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-12T05:11:15+00:00",
+    "first_seen": "2026-11-12T06:19:15.269777+00:00",
+    "excerpt": "A member of the French honour guard collapsed during Slovak President Peter Pellegrini’s arrival at the Elysee Palace.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
     "title": "Israeli strike on hospital kills at least five Palestinians, Gaza civil defence agency says",
     "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
@@ -2220,6 +2268,18 @@
     "also_reported_by": []
   },
   {
+    "id": "https://bbc.co.uk/news/articles/c54gne3plvrxo?at_medium=RSS&at_campaign=rss",
+    "title": "New Indian mega library rocked by scandal over 'AI-generated books'",
+    "link": "https://www.bbc.co.uk/news/articles/c54gne3plvrxo?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-11T11:33:24+00:00",
+    "first_seen": "2026-11-12T06:19:15.269777+00:00",
+    "excerpt": "The Tamil Nadu government has ordered an internal audit of library collections across the state.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://theguardian.com/us-news/live/2026/nov/11/donald-trump-pete-hegseth-impeachment-democrats-republicans-arlington-latest-news-updates",
     "title": "GOP branded ‘sinking ship’ as Republicans block efforts to impeach Hegseth – US politics live",
     "link": "https://www.theguardian.com/us-news/live/2026/nov/11/donald-trump-pete-hegseth-impeachment-democrats-republicans-arlington-latest-news-updates",
@@ -2324,6 +2384,18 @@
     "published": "2026-11-11T10:28:12+00:00",
     "first_seen": "2026-11-11T11:12:41.781164+00:00",
     "excerpt": "UK says it will defend its interests at Tribunal hearing, as Argentina seeks measures to block the offshore project.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://bbc.co.uk/news/articles/cwx282zrlyrgo?at_medium=RSS&at_campaign=rss",
+    "title": "'My darling girl, you are everything to me' - auctioned letters reveal WWI love story",
+    "link": "https://www.bbc.co.uk/news/articles/cwx282zrlyrgo?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-11T10:27:37+00:00",
+    "first_seen": "2026-11-12T06:19:15.269777+00:00",
+    "excerpt": "How two strangers and love letters from Gunner Willie Webber to wife Gladys led to a unique act of remembrance.",
     "tags": [],
     "also_reported_by": []
   },
