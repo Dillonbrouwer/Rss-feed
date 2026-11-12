@@ -1,5 +1,89 @@
 [
   {
+    "id": "https://theguardian.com/us-news/2026/nov/12/nyc-building-collapse-reaction",
+    "title": "‘Who will be held accountable?’: fatal Brooklyn building collapse devastates community",
+    "link": "https://www.theguardian.com/us-news/2026/nov/12/nyc-building-collapse-reaction",
+    "outlet": "The Guardian",
+    "author": "Auzzy Byrdsell in New York",
+    "published": "2026-11-12T19:49:24+00:00",
+    "first_seen": "2026-11-12T20:05:57.220929+00:00",
+    "excerpt": "New York City officials have confirmed at least eight casualties – six adults and two children – in the collapse Flatbush Ave in Flatbush, New York, stood still and in shock after a three-story apartment building collapsed on Wednesday afternoon near a construction site. “The last time I saw…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/12/why-did-nvidia-ceo-jensen-huang-resign-and-who-is-colette-kress?traffic_source=rss",
+    "title": "Why did Nvidia CEO Jensen Huang resign, and who is Colette Kress?",
+    "link": "https://www.aljazeera.com/news/2026/11/12/why-did-nvidia-ceo-jensen-huang-resign-and-who-is-colette-kress?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-12T19:45:40+00:00",
+    "first_seen": "2026-11-12T20:05:57.220929+00:00",
+    "excerpt": "Huang has stepped down amid revelations about extramarital affairs and allegations of Chinese espionage.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/video/newsfeed/2026/11/12/iranian-men-guilty-of-spying-on-british-journalists?traffic_source=rss",
+    "title": "Iranian men guilty of spying on British journalists",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/iranian-men-guilty-of-spying-on-british-journalists?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-12T19:38:33+00:00",
+    "first_seen": "2026-11-12T20:05:57.220929+00:00",
+    "excerpt": "Two Iranian men were convicted under Britain's National Security Act for spying on dissident journalists.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://bbc.co.uk/news/videos/cmdx1r99kp9wo?at_medium=RSS&at_campaign=rss",
+    "title": "Jensen Huang has resigned, what's next for Nvidia?",
+    "link": "https://www.bbc.co.uk/news/videos/cmdx1r99kp9wo?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-12T19:33:37+00:00",
+    "first_seen": "2026-11-12T20:05:57.220929+00:00",
+    "excerpt": "The BBC's Samira Hussain reports from Wall Street on what the fall of the tech superstar means for the company and AI.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/sports/2026/11/12/senegals-wrestlers-turn-tradition-into-gold-at-dakar-youth-olympics?traffic_source=rss",
+    "title": "Senegal’s wrestlers turn tradition into gold at Dakar Youth Olympics",
+    "link": "https://www.aljazeera.com/sports/2026/11/12/senegals-wrestlers-turn-tradition-into-gold-at-dakar-youth-olympics?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-12T19:32:25+00:00",
+    "first_seen": "2026-11-12T20:05:57.220929+00:00",
+    "excerpt": "Senegal’s young wrestlers thrive as they adapt skills from their traditional sport to beach wrestling at Youth Olympics.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/us-news/2026/nov/12/trump-jd-vance-iran-war",
+    "title": "Trump says no deal needed on Iran war and orders Vance to focus on domestic issues",
+    "link": "https://www.theguardian.com/us-news/2026/nov/12/trump-jd-vance-iran-war",
+    "outlet": "The Guardian",
+    "author": "Andrew Roth in Washington",
+    "published": "2026-11-12T19:01:16+00:00",
+    "first_seen": "2026-11-12T20:05:57.220929+00:00",
+    "excerpt": "President says vice-president will focus on supposed ‘Massive Corruption and Crime taking place in Democrat run Cities and States’ US politics live – latest updates Donald Trump has said that the US is no longer seeking a deal to end the war with Iran and ordered JD Vance, who had spearheaded…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/12/uk-mosque-rebukes-comissions-warning-following-palestine-comments?traffic_source=rss",
+    "title": "UK mosque rebukes comission’s ‘warning’ following Palestine comments",
+    "link": "https://www.aljazeera.com/news/2026/11/12/uk-mosque-rebukes-comissions-warning-following-palestine-comments?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-12T18:58:49+00:00",
+    "first_seen": "2026-11-12T20:05:57.220929+00:00",
+    "excerpt": "The Lewisham Islamic Centre accused the charity watchdog of imposing disproportionate expectations on Muslim charities.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://theguardian.com/us-news/2026/nov/12/byron-donalds-florida-executions",
     "title": "Former death row prisoners call Byron Donalds to halt future Florida executions",
     "link": "https://www.theguardian.com/us-news/2026/nov/12/byron-donalds-florida-executions",
@@ -8,6 +92,18 @@
     "published": "2026-11-12T18:58:44+00:00",
     "first_seen": "2026-11-12T19:11:53.575528+00:00",
     "excerpt": "Donalds is governor-elect in state that leads the US in the number of executions, with its 20th this year taking place next week Three exonerated former death row prisoners in Florida have called on incoming governor Byron Donalds to halt the state’s record run of executions and review the cases of…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://foreignpolicy.com/2026/11/12/europe-bomb-threats-russia-hybrid-war-nato-deterrence-ukraine-military",
+    "title": "Russia’s Cheapest Weapon in Its Hybrid War Is Fear",
+    "link": "https://foreignpolicy.com/2026/11/12/europe-bomb-threats-russia-hybrid-war-nato-deterrence-ukraine-military/",
+    "outlet": "Foreign Policy",
+    "author": "Beniamino Irdi",
+    "published": "2026-11-12T18:51:15+00:00",
+    "first_seen": "2026-11-12T20:05:57.220929+00:00",
+    "excerpt": "As Moscow escalates, Europeans must learn to deter attacks that they cannot always attribute.",
     "tags": [],
     "also_reported_by": []
   },
