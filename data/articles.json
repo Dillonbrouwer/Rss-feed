@@ -1,5 +1,53 @@
 [
   {
+    "id": "https://aljazeera.com/news/2026/11/12/building-collapse-in-brooklyn-kills-two-injures-more-than-a-dozen?traffic_source=rss",
+    "title": "Building collapse in Brooklyn kills two, injures more than a dozen",
+    "link": "https://www.aljazeera.com/news/2026/11/12/building-collapse-in-brooklyn-kills-two-injures-more-than-a-dozen?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-12T03:31:08+00:00",
+    "first_seen": "2026-11-12T04:08:48.562204+00:00",
+    "excerpt": "Rescue crews search for victims as Mayor Mamdani says first responders arrived one minute after emergency call.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/video/newsfeed/2026/11/12/aje-onl-nf_mother-reunites-with-sons-taken-under-pinochet-111126?traffic_source=rss",
+    "title": "Mother reunites with sons taken under Pinochet regime 40 years ago",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/aje-onl-nf_mother-reunites-with-sons-taken-under-pinochet-111126?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-12T03:13:32+00:00",
+    "first_seen": "2026-11-12T04:08:48.562204+00:00",
+    "excerpt": "A Chilean mother has finally embraced her sons for the first time in 40 years since they were taken under Pinochet.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://npr.org/2026/11/11/nx-s1-6030853/ss-united-states-artificial-reef-sinking",
+    "title": "World's fastest ocean liner is sunk to break another record: largest artificial reef",
+    "link": "https://www.npr.org/2026/11/11/nx-s1-6030853/ss-united-states-artificial-reef-sinking",
+    "outlet": "NPR",
+    "author": "Henry Larson",
+    "published": "2026-11-12T03:10:32+00:00",
+    "first_seen": "2026-11-12T04:08:48.562204+00:00",
+    "excerpt": "The SS United States broke trans-Atlantic speed records. On Wednesday, it was sunk off the Florida coast and will become a diving destination and home for marine life.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/us-news/2026/nov/11/ss-united-states-sinks-florida-reef",
+    "title": "Historic US ocean liner sinks near Florida to become world’s largest artificial reef",
+    "link": "https://www.theguardian.com/us-news/2026/nov/11/ss-united-states-sinks-florida-reef",
+    "outlet": "The Guardian",
+    "author": "Maya Yang",
+    "published": "2026-11-12T03:07:16+00:00",
+    "first_seen": "2026-11-12T04:08:48.562204+00:00",
+    "excerpt": "SS United States, which set transatlantic speed record during maiden voyage in 1952, is sunk off coast of Destin The historic SS United States has reached the end of its journey at sea, sinking Wednesday off the coast of Destin, Florida, where it will begin a new life underwater as an artificial…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://theguardian.com/world/2026/nov/12/oil-slicks-seen-from-space-the-devastating-impact-of-boat-strikes-on-fragile-gulf-ecosystems",
     "title": "Oil slicks seen from space: the devastating impact of boat strikes on fragile Gulf ecosystems",
     "link": "https://www.theguardian.com/world/2026/nov/12/oil-slicks-seen-from-space-the-devastating-impact-of-boat-strikes-on-fragile-gulf-ecosystems",
@@ -20,6 +68,18 @@
     "published": "2026-11-12T02:58:16+00:00",
     "first_seen": "2026-11-12T03:02:46.529160+00:00",
     "excerpt": "Huang’s potential departure would leave a leadership vacuum at the roughly $4tn chipmaker he co-founded, with Nvidia’s shares sliding about 8% in ​after-hours trading Donald Trump said on Monday he was “amazed” after the revelations concerning Jensen Huang – one of his ⁠closest allies in Silicon…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://bbc.co.uk/news/articles/ckvg25zmppglo?at_medium=RSS&at_campaign=rss",
+    "title": "Australian teen missing in bush for six days rescued alive",
+    "link": "https://www.bbc.co.uk/news/articles/ckvg25zmppglo?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-12T02:40:18+00:00",
+    "first_seen": "2026-11-12T04:08:48.562204+00:00",
+    "excerpt": "The 17-year-old's mum has joked that he is \"grounded for life\" and \"never leaving the house again\".",
     "tags": [],
     "also_reported_by": []
   },
