@@ -1,5 +1,65 @@
 [
   {
+    "id": "https://theguardian.com/science/2026/nov/13/spacex-starship-megarocket-blasts-off-earth-orbit",
+    "title": "SpaceX Starship megarocket blasts off before expected return for reuse",
+    "link": "https://www.theguardian.com/science/2026/nov/13/spacex-starship-megarocket-blasts-off-earth-orbit",
+    "outlet": "The Guardian",
+    "author": "Uwa Ede-Osifo",
+    "published": "2026-11-13T23:38:09+00:00",
+    "first_seen": "2026-11-13T23:51:17.672076+00:00",
+    "excerpt": "Flight 15 expected to orbit Earth about 14 times over 22 hours, before company catches it at Starbase, Texas SpaceX’s Starship megarocket blasted off from Texas on Friday afternoon, as the aerospace company sought to make history with a double catch of its reusable rocket. Starship Flight 15 is…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
+    "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+    "link": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-13T23:00:31+00:00",
+    "first_seen": "2026-11-13T23:51:17.672076+00:00",
+    "excerpt": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/13/rescue-efforts-under-way-after-tanker-strikes-river-cruise-boat-in-us?traffic_source=rss",
+    "title": "Rescue efforts under way after tanker strikes river cruise boat in US",
+    "link": "https://www.aljazeera.com/news/2026/11/13/rescue-efforts-under-way-after-tanker-strikes-river-cruise-boat-in-us?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-13T22:47:16+00:00",
+    "first_seen": "2026-11-13T23:51:17.672076+00:00",
+    "excerpt": "American Heritage paddleboat with 129 passengers on board is partially submerged on Mississippi River in New Orleans.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://npr.org/2026/11/13/nx-s1-6040418/dhs-head-markwayne-mullin-says-there-is-not-a-threat-to-the-u-s-amid-faa-ground-stop",
+    "title": "DHS head Markwayne Mullin says there is not a threat to the U.S. amid FAA ground stop",
+    "link": "https://www.npr.org/2026/11/13/nx-s1-6040418/dhs-head-markwayne-mullin-says-there-is-not-a-threat-to-the-u-s-amid-faa-ground-stop",
+    "outlet": "NPR",
+    "author": "Deepa Shivaram",
+    "published": "2026-11-13T22:36:46+00:00",
+    "first_seen": "2026-11-13T23:51:17.672076+00:00",
+    "excerpt": "Department of Homeland Security Secretary Markwayne Mullin spoke to at the White House on Friday afternoon after the FAA issues a total ground stop. NPR was there for the briefing.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://npr.org/2026/11/13/nx-s1-6040397/stuck-on-the-tarmac-without-information-travelers-share-their-ground-stop-experiences",
+    "title": "Stuck on the tarmac without information: Travelers share their ground stop experiences",
+    "link": "https://www.npr.org/2026/11/13/nx-s1-6040397/stuck-on-the-tarmac-without-information-travelers-share-their-ground-stop-experiences",
+    "outlet": "NPR",
+    "author": "Erika Ryan",
+    "published": "2026-11-13T22:36:45+00:00",
+    "first_seen": "2026-11-13T23:51:17.672076+00:00",
+    "excerpt": "Passengers stuck on airplanes on tarmacs across the country during the FAA ground stop on Friday share their stories.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://theguardian.com/world/2026/nov/13/eisenkot-accuses-netanyahu-of-racist-campaign-against-israels-arab-minority",
     "title": "Eisenkot accuses Netanyahu of ‘racist’ campaign against Israel’s Arab minority",
     "link": "https://www.theguardian.com/world/2026/nov/13/eisenkot-accuses-netanyahu-of-racist-campaign-against-israels-arab-minority",
@@ -84,6 +144,18 @@
     "also_reported_by": []
   },
   {
+    "id": "https://bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
+    "title": "Watch: Cruise ship seen sinking after collision with cargo ship in New Orleans",
+    "link": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-13T21:15:24+00:00",
+    "first_seen": "2026-11-13T23:51:17.672076+00:00",
+    "excerpt": "A cargo ship has collided with a docked cruise ship in New Orleans, with reports suggesting more than 120 people were on board the cruise ship.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://npr.org/2026/11/13/nx-s1-6040044/dem-senate-leader-fight",
     "title": "With his challenge to Schumer, Van Hollen forces a debate over Democrats' mandate",
     "link": "https://www.npr.org/2026/11/13/nx-s1-6040044/dem-senate-leader-fight",
@@ -92,6 +164,18 @@
     "published": "2026-11-13T21:06:09+00:00",
     "first_seen": "2026-11-13T22:56:00.612809+00:00",
     "excerpt": "Democrats say they have a mandate to deliver change, but as the party gets ready to retake the majority in both the House and Senate, there are divides over who should lead it.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://npr.org/2026/11/13/nx-s1-6039273/east-po-hearing-nov-13",
+    "title": "The government says it will close a beloved D.C. park Sunday. Will a judge step in?",
+    "link": "https://www.npr.org/2026/11/13/nx-s1-6039273/east-po-hearing-nov-13",
+    "outlet": "NPR",
+    "author": "Rachel Treisman",
+    "published": "2026-11-13T21:06:05+00:00",
+    "first_seen": "2026-11-13T23:51:17.672076+00:00",
+    "excerpt": "Federal judge Ana Reyes grilled the government on Friday about its plans for East Potomac Park, and indicated she could order it to remain open despite President Trump's renovation wishes.",
     "tags": [],
     "also_reported_by": []
   },
@@ -260,6 +344,18 @@
     "published": "2026-11-13T20:12:34+00:00",
     "first_seen": "2026-11-13T21:03:57.274076+00:00",
     "excerpt": "None of the 62 contacts identified after the first case developed the disease, although 13 contacts reported fever.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+    "title": "SpaceX to attempt double catch of huge Starship rocket",
+    "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-13T20:12:02+00:00",
+    "first_seen": "2026-11-13T23:51:17.672076+00:00",
+    "excerpt": "Elon Musk’s company will try to grab both parts of the rocket for the first time.",
     "tags": [],
     "also_reported_by": []
   },
