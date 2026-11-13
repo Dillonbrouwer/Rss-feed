@@ -1,5 +1,101 @@
 [
   {
+    "id": "https://theguardian.com/us-news/2026/nov/13/mississippi-river-crash-new-orleans",
+    "title": "Tanker collides with cruise ship on Mississippi River in New Orleans",
+    "link": "https://www.theguardian.com/us-news/2026/nov/13/mississippi-river-crash-new-orleans",
+    "outlet": "The Guardian",
+    "author": "Ramon Antonio Vargas in New Orleans",
+    "published": "2026-11-13T20:04:03+00:00",
+    "first_seen": "2026-11-13T20:05:44.009732+00:00",
+    "excerpt": "A large emergency response is underway to rescue people from the water, with overnight cruise ship on its side A tanker collided with an overnight cruise ship on the Mississippi River in New Orleans on Friday afternoon, prompting a large emergency response, according to officials. The boat that was…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/us-news/2026/nov/13/brooklyn-building-collapse-victims",
+    "title": "Officials name victims of fatal Brooklyn building collapse as investigation widens",
+    "link": "https://www.theguardian.com/us-news/2026/nov/13/brooklyn-building-collapse-victims",
+    "outlet": "The Guardian",
+    "author": "Auzzy Byrdsell in New York",
+    "published": "2026-11-13T20:02:56+00:00",
+    "first_seen": "2026-11-13T20:05:44.009732+00:00",
+    "excerpt": "Authorities conclude search for victims in wreckage of the building and release the names of the eight victims The New York City police department (NYPD) and New York City fire department (FDNY) have concluded the search for victims in the wreckage of the collapsed building in Brooklyn and released…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/us-news/2026/nov/13/supreme-court-us-mexico-border-asylum",
+    "title": "US supreme court agrees to consider Trump’s ban on asylum at US-Mexico border",
+    "link": "https://www.theguardian.com/us-news/2026/nov/13/supreme-court-us-mexico-border-asylum",
+    "outlet": "The Guardian",
+    "author": "Associated Press",
+    "published": "2026-11-13T19:38:35+00:00",
+    "first_seen": "2026-11-13T20:05:44.009732+00:00",
+    "excerpt": "Trump officials seek to overturn lower court rulings that found executive order banning asylum applications illegal The US supreme court agreed on Friday to consider Donald Trump’s ban on asylum at the US-Mexico border , a pillar of the Republican president’s far-reaching crackdown on immigration.…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/video/newsfeed/2026/11/13/migrants-risk-deadly-route-to-spains-canary-islands?traffic_source=rss",
+    "title": "Migrants risk deadly route to Spain’s Canary Islands",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/migrants-risk-deadly-route-to-spains-canary-islands?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-13T19:23:40+00:00",
+    "first_seen": "2026-11-13T20:05:44.009732+00:00",
+    "excerpt": "More than 7,400 migrants arrived in Spain’s Canary Islands during the first 10 days of November.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/law/2026/nov/13/staggered-age-of-consent-16-17-law",
+    "title": "Walliams allegations prompt calls for staggered age of consent at 16 and 17",
+    "link": "https://www.theguardian.com/law/2026/nov/13/staggered-age-of-consent-16-17-law",
+    "outlet": "The Guardian",
+    "author": "Caroline Davies",
+    "published": "2026-11-13T19:23:07+00:00",
+    "first_seen": "2026-11-13T20:05:44.009732+00:00",
+    "excerpt": "Barrister say law does not adequately recognise power imbalance between young people and much older adults Allegations against Russell Brand and, separately, David Walliams, which he denies, have led to calls for greater legal protection for 16- and 17-year-olds from sexual exploitation by older…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/video/newsfeed/2026/11/13/irgc-says-tanker-caught-fire-after-hitting-mines-in-strait-of-hormuz?traffic_source=rss",
+    "title": "IRGC says tanker caught fire after hitting mines in Strait of Hormuz",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/irgc-says-tanker-caught-fire-after-hitting-mines-in-strait-of-hormuz?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-13T19:23:05+00:00",
+    "first_seen": "2026-11-13T20:05:44.009732+00:00",
+    "excerpt": "A liquefied gas carrier caught fire in the Strait of Hormuz after hitting naval mines, according to the IRGC.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/society/2026/nov/13/rip-out-clutter-to-retail-revive-high-streets-thinktank",
+    "title": "Rip out ugly clutter to help revive UK high streets, says thinktank",
+    "link": "https://www.theguardian.com/society/2026/nov/13/rip-out-clutter-to-retail-revive-high-streets-thinktank",
+    "outlet": "The Guardian",
+    "author": "Peter Walker Senior political correspondent",
+    "published": "2026-11-13T19:17:51+00:00",
+    "first_seen": "2026-11-13T20:05:44.009732+00:00",
+    "excerpt": "Exclusive: Report says restricting cars and freeing up pavement space could be a cheap way to entice shoppers The long decline of the high street is a problem that has gripped British governments for years. But what if there was a solution no one had considered before – doing it all on the cheap?…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/us-news/2026/nov/13/trump-nvidia-stock-jensen-huang-us-china",
+    "title": "Trump bought Nvidia stock as he helped chipmaker with change to export rule",
+    "link": "https://www.theguardian.com/us-news/2026/nov/13/trump-nvidia-stock-jensen-huang-us-china",
+    "outlet": "The Guardian",
+    "author": "Aisha Down Global technology reporter",
+    "published": "2026-11-13T19:09:05+00:00",
+    "first_seen": "2026-11-13T20:05:44.009732+00:00",
+    "excerpt": "President purchased up to $5m of stock before revoking Biden-era rule that limited Nvidia’s ability to sell to China Donald Trump bought Nvidia stock worth millions of dollars as he made decisions on America’s China policy that would benefit the chipmaker, an analysis has found . In May 2025,…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://npr.org/2026/11/13/g-s1-153578/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are",
     "title": "What's Trump's strategy now with Iran? To keep things as they are",
     "link": "https://www.npr.org/2026/11/13/g-s1-153578/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are",
@@ -12,6 +108,18 @@
     "also_reported_by": []
   },
   {
+    "id": "https://aljazeera.com/video/inside-story/2026/11/13/how-will-the-us-deal-with-nvidia-scandal?traffic_source=rss",
+    "title": "How will the US deal with Nvidia scandal?",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/11/13/how-will-the-us-deal-with-nvidia-scandal?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-13T18:57:43+00:00",
+    "first_seen": "2026-11-13T20:05:44.009732+00:00",
+    "excerpt": "Tech giant CEO resigned and will testify before Congress.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://theguardian.com/uk-news/2026/nov/13/families-clear-homes-of-david-walliams-books-after-sexual-offence-allegations",
     "title": "Families clear homes of David Walliams books after sexual offence allegations",
     "link": "https://www.theguardian.com/uk-news/2026/nov/13/families-clear-homes-of-david-walliams-books-after-sexual-offence-allegations",
@@ -20,6 +128,18 @@
     "published": "2026-11-13T18:55:08+00:00",
     "first_seen": "2026-11-13T19:10:28.538086+00:00",
     "excerpt": "Parents take action while independent bookshops say they had already stopped stocking his titles In Sarah’s house, David Walliams has been a bedtime staple for years. Her children, aged eight, six and four, have dressed up as his characters for World Book Day – they love the over-the-top, unusual…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/13/at-least-10-killed-in-guinea-in-crackdown-on-gold-mining?traffic_source=rss",
+    "title": "At least 10 killed in Guinea clashes over gold mining ban",
+    "link": "https://www.aljazeera.com/news/2026/11/13/at-least-10-killed-in-guinea-in-crackdown-on-gold-mining?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-13T18:44:45+00:00",
+    "first_seen": "2026-11-13T20:05:44.009732+00:00",
+    "excerpt": "Guinea banned artisanal gold mining in Siguiri on November 2 due to environmental degradation, causing mass exodus.",
     "tags": [],
     "also_reported_by": []
   },
@@ -752,6 +872,18 @@
     "published": "2026-11-13T13:11:24+00:00",
     "first_seen": "2026-11-13T15:02:05.476746+00:00",
     "excerpt": "Five people reportedly survive as emergency crews search for anyone still trapped in the rubble.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://bbc.co.uk/news/articles/c5gm3gnwl42eo?at_medium=RSS&at_campaign=rss",
+    "title": "Aide to fugitive Ukrainian ex-PM wounded in latest Moscow car bombing",
+    "link": "https://www.bbc.co.uk/news/articles/c5gm3gnwl42eo?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-13T13:11:23+00:00",
+    "first_seen": "2026-11-13T20:05:44.009732+00:00",
+    "excerpt": "Sergei Zavorotny, now a journalist and commentator, was previously an adviser to Ukrainian ex-prime minister Mykola Azarov.",
     "tags": [],
     "also_reported_by": []
   },
