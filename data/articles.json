@@ -1,5 +1,53 @@
 [
   {
+    "id": "https://theguardian.com/world/2026/nov/13/eisenkot-accuses-netanyahu-of-racist-campaign-against-israels-arab-minority",
+    "title": "Eisenkot accuses Netanyahu of ‘racist’ campaign against Israel’s Arab minority",
+    "link": "https://www.theguardian.com/world/2026/nov/13/eisenkot-accuses-netanyahu-of-racist-campaign-against-israels-arab-minority",
+    "outlet": "The Guardian",
+    "author": "AFP",
+    "published": "2026-11-13T22:36:38+00:00",
+    "first_seen": "2026-11-13T22:56:00.612809+00:00",
+    "excerpt": "Statement a rare instance of a prominent Jewish political leader taking a strong stand in defence of Arab Israelis Israeli prime ministerial hopeful Gadi Eisenkot accused caretaker premier Benjamin Netanyahu on Friday of fuelling a “racist” campaign against the country’s Arab minority, after he…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://npr.org/2026/11/13/nx-s1-6040409/trump-mail-in-voting",
+    "title": "GOP state officials push to revive Trump's mail voting restrictions for 2028 election",
+    "link": "https://www.npr.org/2026/11/13/nx-s1-6040409/trump-mail-in-voting",
+    "outlet": "NPR",
+    "author": "Hansi Lo Wang",
+    "published": "2026-11-13T22:18:55+00:00",
+    "first_seen": "2026-11-13T22:56:00.612809+00:00",
+    "excerpt": "Some Republican state officials are reviving a bid for mail-in voting restrictions for the 2028 election by appealing a court order blocking the Postal Service from carrying out a revised ballot rule.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/world/2026/nov/13/hungary-seizes-195m-in-cash-found-buried-in-forests-amid-graft-inquiry",
+    "title": "Hungary seizes $19.5m in cash found buried in forests amid graft inquiry",
+    "link": "https://www.theguardian.com/world/2026/nov/13/hungary-seizes-195m-in-cash-found-buried-in-forests-amid-graft-inquiry",
+    "outlet": "The Guardian",
+    "author": "AFP",
+    "published": "2026-11-13T22:12:54+00:00",
+    "first_seen": "2026-11-13T22:56:00.612809+00:00",
+    "excerpt": "Anti-corruption agency carried out searches as part of investigation into Orbán-era minister accused of taking bribes Hungary’s anti-corruption agency said on Friday it had seized cash worth $19.5m (£14.8m) buried in forests and hidden elsewhere while investigating an ex-minister of nationalist…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/liveblog/2026/11/13/groundling-live?traffic_source=rss",
+    "title": "LIVE: FAA issues nationwide ground stop after communications outage in US",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/11/13/groundling-live?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-13T22:02:07+00:00",
+    "first_seen": "2026-11-13T22:56:00.612809+00:00",
+    "excerpt": "US air regulators have issued a nationwide ground stop for departing flights, citing a communications problem.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://npr.org/2026/11/13/nx-s1-6040403/faa-nationwide-groundstop-airports",
     "title": "FAA issues nationwide ground stop for all U.S. airports",
     "link": "https://www.npr.org/2026/11/13/nx-s1-6040403/faa-nationwide-groundstop-airports",
@@ -20,6 +68,30 @@
     "published": "2026-11-13T21:44:48+00:00",
     "first_seen": "2026-11-13T21:57:49.939477+00:00",
     "excerpt": "Transportation secretary Sean Duffy said stoppage is due to ‘communication issue’ and that FAA is looking into issue The Federal Aviation Administration (FAA) has issued a nationwide ground stop for all flights that are due to take off in the US on Friday, delaying or canceling nearly 7,000 US…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/13/us-grounds-all-flights-after-communication-issue?traffic_source=rss",
+    "title": "FAA grounds US flights nationwide after ‘communication issue’",
+    "link": "https://www.aljazeera.com/news/2026/11/13/us-grounds-all-flights-after-communication-issue?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-13T21:32:08+00:00",
+    "first_seen": "2026-11-13T22:56:00.612809+00:00",
+    "excerpt": "US Transportation Secretary Sean Duffy says federal aviation agency is 'investigating the issue'.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://npr.org/2026/11/13/nx-s1-6040044/dem-senate-leader-fight",
+    "title": "With his challenge to Schumer, Van Hollen forces a debate over Democrats' mandate",
+    "link": "https://www.npr.org/2026/11/13/nx-s1-6040044/dem-senate-leader-fight",
+    "outlet": "NPR",
+    "author": "Elena Moore",
+    "published": "2026-11-13T21:06:09+00:00",
+    "first_seen": "2026-11-13T22:56:00.612809+00:00",
+    "excerpt": "Democrats say they have a mandate to deliver change, but as the party gets ready to retake the majority in both the House and Senate, there are divides over who should lead it.",
     "tags": [],
     "also_reported_by": []
   },
