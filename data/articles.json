@@ -1,5 +1,89 @@
 [
   {
+    "id": "https://npr.org/2026/11/13/g-s1-153350/senator-chris-van-hollen-global-health-development-aid",
+    "title": "How Sen. Chris Van Hollen plans to flex Democratic power on the foreign aid front",
+    "link": "https://www.npr.org/2026/11/13/g-s1-153350/senator-chris-van-hollen-global-health-development-aid",
+    "outlet": "NPR",
+    "author": "Jonathan Lambert",
+    "published": "2026-11-13T15:46:35+00:00",
+    "first_seen": "2026-11-13T16:02:54.141087+00:00",
+    "excerpt": "The Maryland Democrat, who's the ranking member of the Senate Foreign Relations Subcommittee, just announced he's going to run for Majority Leader post. He spoke to NPR about his foreign aid vision.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/13/europe-seeks-seat-at-ukraine-peace-talks-but-lacks-unified-voice?traffic_source=rss",
+    "title": "Europe seeks seat at Ukraine peace talks but lacks unified voice",
+    "link": "https://www.aljazeera.com/news/2026/11/13/europe-seeks-seat-at-ukraine-peace-talks-but-lacks-unified-voice?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-13T15:43:39+00:00",
+    "first_seen": "2026-11-13T16:02:54.141087+00:00",
+    "excerpt": "EU leaders believe a US-backed process will allow Moscow and Washington to decide the fate of a conflict.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/environment/2026/nov/13/right-to-make-green-challenges-planning-decisions-under-threat-aarhus-convention",
+    "title": "Right to make green challenges to planning decisions under threat, say UK lawyers",
+    "link": "https://www.theguardian.com/environment/2026/nov/13/right-to-make-green-challenges-planning-decisions-under-threat-aarhus-convention",
+    "outlet": "The Guardian",
+    "author": "Matthew Pearce and Pippa Neill",
+    "published": "2026-11-13T15:27:43+00:00",
+    "first_seen": "2026-11-13T16:02:54.141087+00:00",
+    "excerpt": "Exclusive: Government in ‘private meetings’ about removing cost cap protections under Aarhus convention UK politics live – latest updates The government is considering stripping back legal protections that limit the costs community groups face when challenging planning decisions that threaten…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/us-news/2026/nov/13/washington-dc-gym-shooter-confession",
+    "title": "Doctor named as DC gym shooting suspect confessed, noting dispute over living conditions, building manager says",
+    "link": "https://www.theguardian.com/us-news/2026/nov/13/washington-dc-gym-shooter-confession",
+    "outlet": "The Guardian",
+    "author": "Anna Betts",
+    "published": "2026-11-13T15:25:28+00:00",
+    "first_seen": "2026-11-13T16:02:54.141087+00:00",
+    "excerpt": "Gunman killed one person and injured at least four others in and around condo building not far from the White House More details were emerging on Friday about the previous morning’s shooting in north-west Washington DC, as a manager at the shooter’s residential building shared how he was angry over…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/13/will-democrats-try-to-strip-us-israel-initiative-from-pentagon-funding?traffic_source=rss",
+    "title": "Will Democrats try to strip US-Israel initiative from Pentagon funding?",
+    "link": "https://www.aljazeera.com/news/2026/11/13/will-democrats-try-to-strip-us-israel-initiative-from-pentagon-funding?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-13T15:02:16+00:00",
+    "first_seen": "2026-11-13T16:02:54.141087+00:00",
+    "excerpt": "Midterm gains give party room to overhaul NDAA funding, including provision to integrate US-Israeli military industries.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://scotusblog.com/2026/11/this-term-is-not-just-short-on-blockbuster-cases-its-short-on-cases-period",
+    "title": "This term is not just short on blockbuster cases. It’s short on cases, period.",
+    "link": "https://www.scotusblog.com/2026/11/this-term-is-not-just-short-on-blockbuster-cases-its-short-on-cases-period/",
+    "outlet": "SCOTUSblog",
+    "author": "Kelsey Dallas",
+    "published": "2026-11-13T15:00:00+00:00",
+    "first_seen": "2026-11-13T16:02:54.141087+00:00",
+    "excerpt": "",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/uk-news/2026/nov/13/eleanor-donaldson-wife-of-former-dup-leader-placed-on-sex-offender-register",
+    "title": "Eleanor Donaldson, wife of former DUP leader, placed on sex offender register",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/13/eleanor-donaldson-wife-of-former-dup-leader-placed-on-sex-offender-register",
+    "outlet": "The Guardian",
+    "author": "Rory Carroll Ireland correspondent",
+    "published": "2026-11-13T14:48:02+00:00",
+    "first_seen": "2026-11-13T16:02:54.141087+00:00",
+    "excerpt": "Judge imposes three-year treatment order on Donaldson for aiding and abetting sexual offences by her husband, Jeffrey Jeffrey Donaldson’s wife, Eleanor, has been placed on the sex offender register for five years for aiding and abetting sexual offences by her disgraced husband. Eleanor Donaldson…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://theguardian.com/politics/2026/nov/13/nigel-farage-personal-security-costs-reform-uk",
     "title": "Nigel Farage’s security paid for by Reform UK despite claim over £5m gift",
     "link": "https://www.theguardian.com/politics/2026/nov/13/nigel-farage-personal-security-costs-reform-uk",
@@ -8,6 +92,18 @@
     "published": "2026-11-13T14:37:23+00:00",
     "first_seen": "2026-11-13T15:02:05.476746+00:00",
     "excerpt": "Exclusive: Sources reveal party is covering costs – raising new questions about leader’s explanation for billionaire’s gift Nigel Farage’s personal security has been paid for out of Reform UK’s central funds despite his claim that these expenses would be covered by an undisclosed gift of £5m from a…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://foreignpolicy.com/2026/11/13/congress-alliances-nato-europe-china-defense-tariffs",
+    "title": "Congress Can Do More to Defend U.S. Alliances",
+    "link": "https://foreignpolicy.com/2026/11/13/congress-alliances-nato-europe-china-defense-tariffs/",
+    "outlet": "Foreign Policy",
+    "author": "John Drennan and Ariane Tabatabai",
+    "published": "2026-11-13T14:32:37+00:00",
+    "first_seen": "2026-11-13T16:02:54.141087+00:00",
+    "excerpt": "It should start by expanding defense industrial cooperation and checking Trump’s attempts at coercion.",
     "tags": [],
     "also_reported_by": []
   },
