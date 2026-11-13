@@ -1,5 +1,101 @@
 [
   {
+    "id": "https://theguardian.com/media/2026/nov/13/reselling-apps-dark-side-under-16s-social-media-ban-child-protection",
+    "title": "The dark side of reselling apps: ‘If you include your pants, I’ll pay more’",
+    "link": "https://www.theguardian.com/media/2026/nov/13/reselling-apps-dark-side-under-16s-social-media-ban-child-protection",
+    "outlet": "The Guardian",
+    "author": "Miatta Mbriwa",
+    "published": "2026-11-13T12:54:16+00:00",
+    "first_seen": "2026-11-13T13:25:06.320998+00:00",
+    "excerpt": "Ministers consider banning under-16s from platforms amid reported misuse of messaging functions and users’ photos In June, Hannah* listed her seven-year-old daughter’s pink swimming costume for sale on Vinted, hoping other parents surfing the reselling site would snap up the £1 offer. Her inbox…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/video/newsfeed/2026/11/13/13-11-sv-microsoft-global-outage?traffic_source=rss",
+    "title": "You haven’t got mail: Global Microsoft outage disrupts services",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/13-11-sv-microsoft-global-outage?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-13T12:40:11+00:00",
+    "first_seen": "2026-11-13T13:25:06.320998+00:00",
+    "excerpt": "Not receiving your work emails? That’s because Microsoft has been hit by a global outage.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/sports/2026/11/13/manchester-united-new-manager-mauricio-pochettino-usa-soccer?traffic_source=rss",
+    "title": "Mauricio Pochettino announced as new Manchester United manager",
+    "link": "https://www.aljazeera.com/sports/2026/11/13/manchester-united-new-manager-mauricio-pochettino-usa-soccer?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-13T12:39:34+00:00",
+    "first_seen": "2026-11-13T13:25:06.320998+00:00",
+    "excerpt": "Pochettino replaces Michael Carrick, who was sacked after United's disastrous start to the season.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/us-news/2026/nov/13/new-york-seneca-meadows-landfill",
+    "title": "New York is running out of room for its waste even with Statue of Liberty sized landfill",
+    "link": "https://www.theguardian.com/us-news/2026/nov/13/new-york-seneca-meadows-landfill",
+    "outlet": "The Guardian",
+    "author": "Oliver Milman",
+    "published": "2026-11-13T12:30:18+00:00",
+    "first_seen": "2026-11-13T13:25:06.320998+00:00",
+    "excerpt": "One company is proposing elongating the life of the dump, pungent smell and all, several more decades As a visual representation of how New York is running out of places to put its waste, the largest active landfill in the state is a striking one. The hulking Seneca Meadows landfill is already the…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://bbc.co.uk/news/articles/cm75261e3pdko?at_medium=RSS&at_campaign=rss",
+    "title": "UN watchdog 'increasingly concerned' over Iran nuclear site",
+    "link": "https://www.bbc.co.uk/news/articles/cm75261e3pdko?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-13T12:28:28+00:00",
+    "first_seen": "2026-11-13T13:25:06.320998+00:00",
+    "excerpt": "It says it has never been able to inspect a uranium enrichment plant at Isfahan which Iran announced over a year ago.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
+    "title": "How a sex scandal at Nvidia is putting pressure on the White House",
+    "link": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-13T12:22:30+00:00",
+    "first_seen": "2026-11-13T13:25:06.320998+00:00",
+    "excerpt": "Jensen Huang's personal life may have triggered the crisis, but the questions now reach into the White House itself.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/us-news/2026/nov/13/first-thing-global-microsoft-outage-chaos-signs-of-stabilisation",
+    "title": "First Thing: Global Microsoft outage chaos as tech firm says there are ‘signs of stabilisation’",
+    "link": "https://www.theguardian.com/us-news/2026/nov/13/first-thing-global-microsoft-outage-chaos-signs-of-stabilisation",
+    "outlet": "The Guardian",
+    "author": "Martin Belam",
+    "published": "2026-11-13T12:16:44+00:00",
+    "first_seen": "2026-11-13T13:25:06.320998+00:00",
+    "excerpt": "Users of Microsoft Teams and Outlook in businesses and public services reporting problems. Plus would you like to spend time as a helpful furry little post delivery service? Good morning. A global outage of vital Microsoft systems has crippled businesses and public services around the world. The…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz",
+    "title": "Iran says it destroyed US military radar in Bahrain in retaliatory strike",
+    "link": "https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz",
+    "outlet": "The Guardian",
+    "author": "Patrick Wintour Diplomatic editor",
+    "published": "2026-11-13T12:07:13+00:00",
+    "first_seen": "2026-11-13T13:25:06.320998+00:00",
+    "excerpt": "First direct attack on US military installations for months was in response to US airstrike on communications tower Iran’s Islamic Revolutionary Guard Corps says it has targeted and destroyed a US early-warning radar in Bahrain in response to a US airstrike on a communications tower in Sirik…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://npr.org/2026/11/13/g-s1-153532/up-first-newsletter-nvidia-jensen-huang-colette-kress-ukraine-russia-chris-van-hollen",
     "title": "Nvidia CEO steps down. And, Sen. Chris Van Hollen to run for majority leader",
     "link": "https://www.npr.org/2026/11/13/g-s1-153532/up-first-newsletter-nvidia-jensen-huang-colette-kress-ukraine-russia-chris-van-hollen",
@@ -8,6 +104,18 @@
     "published": "2026-11-13T12:07:12+00:00",
     "first_seen": "2026-11-13T12:09:14.021745+00:00",
     "excerpt": "Nvidia's chief financial officer has been appointed interim CEO after Jensen Huang stepped down from the role. And, Sen. Chris Van Hollen says he will challenge Chuck Schumer for majority leader.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/13/why-is-ukraine-attacking-russian-warships-in-the-baltic-sea-amid-talks?traffic_source=rss",
+    "title": "Why is Ukraine attacking Russian warships in the Baltic Sea amid talks?",
+    "link": "https://www.aljazeera.com/news/2026/11/13/why-is-ukraine-attacking-russian-warships-in-the-baltic-sea-amid-talks?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-13T12:06:56+00:00",
+    "first_seen": "2026-11-13T13:25:06.320998+00:00",
+    "excerpt": "Finland says Ukraine struck a Russian warship near its coast as Kyiv and Moscow held US-brokered talks in Abu Dhabi.",
     "tags": [],
     "also_reported_by": []
   },
@@ -24,6 +132,18 @@
     "also_reported_by": []
   },
   {
+    "id": "https://aljazeera.com/news/2026/11/13/pakistan-military-reports-it-killed-74-terrorists-during-raids?traffic_source=rss",
+    "title": "Pakistan military reports it killed 74 ‘terrorists’ during raids",
+    "link": "https://www.aljazeera.com/news/2026/11/13/pakistan-military-reports-it-killed-74-terrorists-during-raids?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-13T11:59:34+00:00",
+    "first_seen": "2026-11-13T13:25:06.320998+00:00",
+    "excerpt": "Increased attacks on the border with Afghanistan have caused tensions between the neighbours.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
     "title": "Van Hollen takes aim at Schumer as Democrats face first big test after midterms – US politics live",
     "link": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
@@ -32,6 +152,54 @@
     "published": "2026-11-13T11:54:27+00:00",
     "first_seen": "2026-11-13T12:09:14.021745+00:00",
     "excerpt": "Senator Van Hollen says midterm results show Americans want change in Washington, and Democrats need new leadership to deliver that Sign up for the Breaking News US email Dozens of protesters with the Sunrise Movement, a youth climate organization, were arrested after staging a sit-in inside Senate…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/video/newsfeed/2026/11/13/india-cancels-visa-of-norwegian-journalist-who-questioned-modi?traffic_source=rss",
+    "title": "India cancels visa of Norwegian journalist who questioned Modi",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/india-cancels-visa-of-norwegian-journalist-who-questioned-modi?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-13T11:54:08+00:00",
+    "first_seen": "2026-11-13T13:25:06.320998+00:00",
+    "excerpt": "The Norwegian journalist who questioned PM Narendra Modi over press freedom has had her visa to India cancelled.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/13/un-watchdog-calls-on-iran-to-reopen-nuclear-facilities-to-inspection?traffic_source=rss",
+    "title": "UN watchdog calls on Iran to reopen nuclear facilities to inspection",
+    "link": "https://www.aljazeera.com/news/2026/11/13/un-watchdog-calls-on-iran-to-reopen-nuclear-facilities-to-inspection?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-13T11:51:57+00:00",
+    "first_seen": "2026-11-13T13:25:06.320998+00:00",
+    "excerpt": "IAEA says it cannot verify whether an underground Iranian enrichment plant contains nuclear material.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
+    "title": "Watch: How a server outage took down Microsoft Teams and Outlook",
+    "link": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-13T11:43:27+00:00",
+    "first_seen": "2026-11-13T13:25:06.320998+00:00",
+    "excerpt": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://bbc.co.uk/news/articles/cmvg2dvw0355o?at_medium=RSS&at_campaign=rss",
+    "title": "Nigerian university in mourning after four students die at post-exam party",
+    "link": "https://www.bbc.co.uk/news/articles/cmvg2dvw0355o?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-13T11:37:08+00:00",
+    "first_seen": "2026-11-13T13:25:06.320998+00:00",
+    "excerpt": "The university has banned all parties, while investigations are underway to find the cause of the students' deaths.",
     "tags": [],
     "also_reported_by": []
   },
@@ -612,6 +780,18 @@
     "also_reported_by": []
   },
   {
+    "id": "https://bbc.co.uk/sport/formula1/articles/c60735md0jrpo?at_medium=RSS&at_campaign=rss",
+    "title": "Whatever happened to the $300,000 diamond that went missing in F1 crash?",
+    "link": "https://www.bbc.co.uk/sport/formula1/articles/c60735md0jrpo?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-13T06:12:20+00:00",
+    "first_seen": "2026-11-13T13:25:06.320998+00:00",
+    "excerpt": "Whatever happened to the diamond that went missing after the Formula 1 car it was attached to crashed?",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://theguardian.com/environment/2026/nov/13/wood-burning-stoves-pollution-traffic-exhaust-children",
     "title": "Children’s exposure to home wood-burning could be as significant as traffic exhaust, study suggests",
     "link": "https://www.theguardian.com/environment/2026/nov/13/wood-burning-stoves-pollution-traffic-exhaust-children",
@@ -1016,6 +1196,18 @@
     "published": "2026-11-13T01:03:59+00:00",
     "first_seen": "2026-11-13T01:24:30.341690+00:00",
     "excerpt": "Four Sydney Swans players had been under investigation after an alleged sexual assault after a game in Melbourne.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://bbc.co.uk/news/articles/cqly4ljvr4pjo?at_medium=RSS&at_campaign=rss",
+    "title": "Why midterm vote-counting is taking so long in America's largest state",
+    "link": "https://www.bbc.co.uk/news/articles/cqly4ljvr4pjo?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-13T00:35:05+00:00",
+    "first_seen": "2026-11-13T13:25:06.320998+00:00",
+    "excerpt": "Alaskans are still waiting for the full results, including in the close Senate race between Republican Dan Sullivan and Democrat Mary Peltola.",
     "tags": [],
     "also_reported_by": []
   },
