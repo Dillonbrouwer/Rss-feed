@@ -1,5 +1,65 @@
 [
   {
+    "id": "https://aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_iraq-pm-targets-militia-stronghold-in-oil-smuggling-141126?traffic_source=rss",
+    "title": "Iraq PM targets powerful militia stronghold in $30m oil smuggling probe",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_iraq-pm-targets-militia-stronghold-in-oil-smuggling-141126?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-14T23:34:37+00:00",
+    "first_seen": "2026-11-14T23:48:18.443342+00:00",
+    "excerpt": "Iraq’s PM has dismissed nine senior security officials over an alleged oil smuggling network worth up to $30m monthly.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/14/netanyahu-says-only-a-unity-government-can-guarantee-israels-security?traffic_source=rss",
+    "title": "Netanyahu says only a unity government can guarantee Israel’s security",
+    "link": "https://www.aljazeera.com/news/2026/11/14/netanyahu-says-only-a-unity-government-can-guarantee-israels-security?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-14T23:01:30+00:00",
+    "first_seen": "2026-11-14T23:48:18.443342+00:00",
+    "excerpt": "Eisenkot, in charge of forming a government, dismisses the appeal as ‘tricks’ as talks and a Knesset speaker vote loom.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/business/2026/nov/15/myer-david-jones-stores-closures-administration",
+    "title": "David Jones’ future looks grim. Is Myer next?",
+    "link": "https://www.theguardian.com/business/2026/nov/15/myer-david-jones-stores-closures-administration",
+    "outlet": "The Guardian",
+    "author": "Jonathan Barrett Business editor",
+    "published": "2026-11-14T23:00:01+00:00",
+    "first_seen": "2026-11-14T23:48:18.443342+00:00",
+    "excerpt": "With Myer’s profitability battered and share price languishing near all-time lows, DJs’ slide into administration raises an uncomfortable question Get our breaking news email , free app or daily news podcast When the retailer’s doors slide open, shoppers are greeted by rows of slashed price tags,…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://npr.org/2026/11/14/nx-s1-6040942/maintenance-gone-awry-caused-nation-wide-ground-stop-says-transportation-secretary",
+    "title": "Maintenance gone awry caused nation-wide ground stop, says Transportation Secretary",
+    "link": "https://www.npr.org/2026/11/14/nx-s1-6040942/maintenance-gone-awry-caused-nation-wide-ground-stop-says-transportation-secretary",
+    "outlet": "NPR",
+    "author": "Joel Rose",
+    "published": "2026-11-14T22:48:38+00:00",
+    "first_seen": "2026-11-14T23:48:18.443342+00:00",
+    "excerpt": "Transportation Secretary Sean Duffy points blame toward contractor in explaining Friday's nation-wide aviation ground stop.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/14/explosion-near-syrias-capital-kills-father-and-child?traffic_source=rss",
+    "title": "Explosion near Syria’s capital kills father and child",
+    "link": "https://www.aljazeera.com/news/2026/11/14/explosion-near-syrias-capital-kills-father-and-child?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-14T22:43:12+00:00",
+    "first_seen": "2026-11-14T23:48:18.443342+00:00",
+    "excerpt": "Syria’s Internal Security Forces have launched an investigation into a suspected bomb attack in a suburb of Damascus.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://theguardian.com/science/2026/nov/14/spacex-starship-double-catch",
     "title": "SpaceX’s Starship returns to launch pad from orbit in victory for company",
     "link": "https://www.theguardian.com/science/2026/nov/14/spacex-starship-double-catch",
