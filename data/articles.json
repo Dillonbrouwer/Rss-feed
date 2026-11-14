@@ -1,5 +1,65 @@
 [
   {
+    "id": "https://theguardian.com/science/2026/nov/14/spacex-starship-double-catch",
+    "title": "SpaceX’s Starship returns to launch pad from orbit in victory for company",
+    "link": "https://www.theguardian.com/science/2026/nov/14/spacex-starship-double-catch",
+    "outlet": "The Guardian",
+    "author": "Uwa Ede-Osifo",
+    "published": "2026-11-14T22:35:06+00:00",
+    "first_seen": "2026-11-14T22:50:18.928524+00:00",
+    "excerpt": "Although booster exploded, company caught upper stage for first time in campaign to make megarocket reusable SpaceX’s megarocket Starship returned to its Texas launch tower on Saturday, a milestone in the company’s efforts to make the craft suitable for human spaceflight. The 171ft (52-meter)…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/video/newsfeed/2026/11/14/palestinian-stories-set-for-major-presence-at-2027-oscars?traffic_source=rss",
+    "title": "Palestinian stories set for major presence at 2027 Oscars",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/palestinian-stories-set-for-major-presence-at-2027-oscars?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-14T22:28:47+00:00",
+    "first_seen": "2026-11-14T22:50:18.928524+00:00",
+    "excerpt": "Al Jazeera spoke to the director and cast of Who Is Still Alive, Switzerland’s Oscar entry for Best International Film.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://npr.org/2026/11/14/nx-s1-6041119/us-measles-elimination-status-vaccines-cdc-paho",
+    "title": "US has lost measles elimination status, global health authorities say",
+    "link": "https://www.npr.org/2026/11/14/nx-s1-6041119/us-measles-elimination-status-vaccines-cdc-paho",
+    "outlet": "NPR",
+    "author": "Amy Maxmen",
+    "published": "2026-11-14T22:15:02+00:00",
+    "first_seen": "2026-11-14T22:50:18.928524+00:00",
+    "excerpt": "The U.S. has lost its status as a country where measles is eliminated, according to researchers with direct knowledge of the deliberations at the Pan American Health Organization.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
+    "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+    "link": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-14T22:09:40+00:00",
+    "first_seen": "2026-11-14T22:50:18.928524+00:00",
+    "excerpt": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/sports/2026/11/14/ronaldo-less-portugal-thrashed-4-1-by-denmark-in-the-nations-league?traffic_source=rss",
+    "title": "Ronaldo-less Portugal thrashed 4-1 by Denmark in the Nations League",
+    "link": "https://www.aljazeera.com/sports/2026/11/14/ronaldo-less-portugal-thrashed-4-1-by-denmark-in-the-nations-league?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-14T22:00:45+00:00",
+    "first_seen": "2026-11-14T22:50:18.928524+00:00",
+    "excerpt": "Rasmus Hojlund stars with brace as Denmark close in on a spot in the Nations League quarterfinals.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://npr.org/2026/11/14/g-s1-153786/spacex-successfully-catches-starship-and-makes-history",
     "title": "SpaceX successfully catches Starship and makes history",
     "link": "https://www.npr.org/2026/11/14/g-s1-153786/spacex-successfully-catches-starship-and-makes-history",
