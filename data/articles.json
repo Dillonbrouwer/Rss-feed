@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://aljazeera.com/news/2026/11/14/faa-ground-stop-lifted-why-were-us-flights-grounded-and-whats-next?traffic_source=rss",
+    "title": "FAA ground stop lifted: Why were US flights grounded, and what’s next?",
+    "link": "https://www.aljazeera.com/news/2026/11/14/faa-ground-stop-lifted-why-were-us-flights-grounded-and-whats-next?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-14T03:32:07+00:00",
+    "first_seen": "2026-11-14T04:05:28.056384+00:00",
+    "excerpt": "The FAA says nationwide ground stop disrupting thousands of US flights was caused by a telecommunications outage.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/us-news/2026/nov/13/us-airports-flight-stoppage",
+    "title": "‘It’s frustrating’: chaos at US airports as stoppage grinds travel plans to a halt",
+    "link": "https://www.theguardian.com/us-news/2026/nov/13/us-airports-flight-stoppage",
+    "outlet": "The Guardian",
+    "author": "Edward Helmore in New York",
+    "published": "2026-11-14T02:49:59+00:00",
+    "first_seen": "2026-11-14T04:05:28.056384+00:00",
+    "excerpt": "Travelers and crew feeling ‘pissed’ or ‘lucky’ depending on level of upset amid nationwide ground stop The US Federal Aviation Administration’s decision to ground all flights on Friday threw airports and travel plans into chaos across the country, as passengers on planes and in airport terminals…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/14/measles-associated-deaths-reach-10-in-us-after-two-more-deaths-reported?traffic_source=rss",
+    "title": "Measles-associated deaths reach 10 in US after two more deaths reported",
+    "link": "https://www.aljazeera.com/news/2026/11/14/measles-associated-deaths-reach-10-in-us-after-two-more-deaths-reported?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-14T02:34:50+00:00",
+    "first_seen": "2026-11-14T04:05:28.056384+00:00",
+    "excerpt": "More than 5,400 confirmed measles cases have been recorded in the US to date this year.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://theguardian.com/australia-news/2026/nov/14/us-bound-flights-out-of-australia-grounded-as-telecommunications-outage-affects-american-travel",
     "title": "US-bound flights out of Australia delayed after telecommunications outage grounded American planes",
     "link": "https://www.theguardian.com/australia-news/2026/nov/14/us-bound-flights-out-of-australia-grounded-as-telecommunications-outage-affects-american-travel",
@@ -8,6 +44,18 @@
     "published": "2026-11-14T02:15:04+00:00",
     "first_seen": "2026-11-14T03:00:37.380156+00:00",
     "excerpt": "Sydney and Melbourne airports say flights were affected by now-lifted ban on departures in US US flight outage – live updates Get our breaking news email , free app or daily news podcast Some US-bound flights from Sydney airport were grounded or delayed on Saturday after American authorities halted…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://bbc.co.uk/news/videos/c893ryz7lw33o?at_medium=RSS&at_campaign=rss",
+    "title": "'We'll get home one day' - US travellers impacted by nationwide ground stop",
+    "link": "https://www.bbc.co.uk/news/videos/c893ryz7lw33o?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-14T01:47:36+00:00",
+    "first_seen": "2026-11-14T04:05:28.056384+00:00",
+    "excerpt": "Passengers throughout the country were impacted over what the Federal Aviation Administration (FAA) describes as “safety and communication issues”.",
     "tags": [],
     "also_reported_by": []
   },
