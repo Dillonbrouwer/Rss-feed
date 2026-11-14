@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://npr.org/2026/11/14/g-s1-153786/spacex-successfully-catches-starship-and-makes-history",
+    "title": "SpaceX successfully catches Starship and makes history",
+    "link": "https://www.npr.org/2026/11/14/g-s1-153786/spacex-successfully-catches-starship-and-makes-history",
+    "outlet": "NPR",
+    "author": "The Associated Press",
+    "published": "2026-11-14T21:42:41+00:00",
+    "first_seen": "2026-11-14T21:50:20.710884+00:00",
+    "excerpt": "The company's spacecraft returned to its Texas launchpad in dramatic fashion — by carefully lowering itself until two metal arms attached to the launch tower could secure it.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/video/newsfeed/2026/11/14/us-flights-resume-after-ageing-technology-blamed-for-outage?traffic_source=rss",
+    "title": "US flights resume after ageing technology blamed for outage",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/us-flights-resume-after-ageing-technology-blamed-for-outage?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-14T21:36:19+00:00",
+    "first_seen": "2026-11-14T21:50:20.710884+00:00",
+    "excerpt": "US flights resume after ageing technology blamed for outage",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/14/us-envoy-kushner-says-he-aims-to-broker-europe-russia-talks-on-ukraine?traffic_source=rss",
+    "title": "US envoy Kushner says he aims to broker Europe-Russia talks on Ukraine",
+    "link": "https://www.aljazeera.com/news/2026/11/14/us-envoy-kushner-says-he-aims-to-broker-europe-russia-talks-on-ukraine?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-14T21:10:26+00:00",
+    "first_seen": "2026-11-14T21:50:20.710884+00:00",
+    "excerpt": "Europe's direct engagement with Moscow as part of Ukraine-Russia peace talks is edging closer to becoming a reality.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://aljazeera.com/video/newsfeed/2026/11/14/14-11-sv-assam-muslim-families-evicted-demolition-drive?traffic_source=rss",
     "title": "India’s Assam state demolishes homes of 132 Muslim families",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/14-11-sv-assam-muslim-families-evicted-demolition-drive?traffic_source=rss",
