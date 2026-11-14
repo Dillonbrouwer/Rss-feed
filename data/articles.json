@@ -1,5 +1,77 @@
 [
   {
+    "id": "https://bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+    "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+    "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-14T17:16:36+00:00",
+    "first_seen": "2026-11-14T17:48:35.309583+00:00",
+    "excerpt": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/society/2026/nov/14/nhs-england-62-day-cancer-treatment-target-by-10000-patients",
+    "title": "NHS England on track to miss key cancer treatment target by 10,000 patients",
+    "link": "https://www.theguardian.com/society/2026/nov/14/nhs-england-62-day-cancer-treatment-target-by-10000-patients",
+    "outlet": "The Guardian",
+    "author": "Anna Bawden",
+    "published": "2026-11-14T17:00:49+00:00",
+    "first_seen": "2026-11-14T17:48:35.309583+00:00",
+    "excerpt": "Exclusive: 2,850 more patients a month would need to be treated within 62 days to meet March 2027 goal, as experts warn of failure of leadership Nearly 10,000 more cancer patients in England will not be treated on time because the government will fail to meet its targets, amid a failure of…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/us-news/2026/nov/14/alaska-governor-democrat-jonathan-kreiss-tomkins-wins",
+    "title": "Democrat wins Alaska governor’s seat for first time in nearly 30 years",
+    "link": "https://www.theguardian.com/us-news/2026/nov/14/alaska-governor-democrat-jonathan-kreiss-tomkins-wins",
+    "outlet": "The Guardian",
+    "author": "Marina Dunbar",
+    "published": "2026-11-14T16:58:33+00:00",
+    "first_seen": "2026-11-14T17:48:35.309583+00:00",
+    "excerpt": "Jonathan Kreiss-Tomkins’ victory means Democrats will now hold 30 US governorships after midterm blowout Democrats have captured Alaska ’s governor’s seat for the first time in nearly three decades, marking another major victory for their party in a midterm election period that has dramatically…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/14/us-suggested-ukraine-cede-parts-of-donbas-to-russia-to-become-part-of-nato?traffic_source=rss",
+    "title": "US suggested Ukraine cede parts of Donbas to Russia to become part of NATO",
+    "link": "https://www.aljazeera.com/news/2026/11/14/us-suggested-ukraine-cede-parts-of-donbas-to-russia-to-become-part-of-nato?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-14T16:53:39+00:00",
+    "first_seen": "2026-11-14T17:48:35.309583+00:00",
+    "excerpt": "Zelenskyy rejected the possibility of Ukraine committing to neutrality and said he refused to cede territory to Russia.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://npr.org/2026/11/14/nx-s1-6040952/faa-ground-stop-airplane-travel",
+    "title": "FAA blames Friday's ground stop on 'equipment issue' during telecoms network upgrade",
+    "link": "https://www.npr.org/2026/11/14/nx-s1-6040952/faa-ground-stop-airplane-travel",
+    "outlet": "NPR",
+    "author": "Ava Berger",
+    "published": "2026-11-14T16:53:04+00:00",
+    "first_seen": "2026-11-14T17:48:35.309583+00:00",
+    "excerpt": "Transportation Secretary Sean Duffy said initial investigations pointed to an issue with contractor L3Harris updating old tech at a remote location.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/sports/liveblog/2026/11/14/portugal-vs-denmark-live-uefa-nations-league?traffic_source=rss",
+    "title": "Portugal vs Denmark LIVE: UEFA Nations League",
+    "link": "https://www.aljazeera.com/sports/liveblog/2026/11/14/portugal-vs-denmark-live-uefa-nations-league?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-14T16:45:00+00:00",
+    "first_seen": "2026-11-14T17:48:35.309583+00:00",
+    "excerpt": "Follow updates from the Group A4 clash, including the build-up, analysis and live text commentary of the game.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
     "title": "Italy fines Meta €805m over accessing users' photos",
     "link": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
