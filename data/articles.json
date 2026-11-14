@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://theguardian.com/australia-news/2026/nov/14/us-bound-flights-out-of-australia-grounded-as-telecommunications-outage-affects-american-travel",
+    "title": "US-bound flights out of Australia delayed after telecommunications outage grounded American planes",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/14/us-bound-flights-out-of-australia-grounded-as-telecommunications-outage-affects-american-travel",
+    "outlet": "The Guardian",
+    "author": "Henry Belot",
+    "published": "2026-11-14T02:15:04+00:00",
+    "first_seen": "2026-11-14T03:00:37.380156+00:00",
+    "excerpt": "Sydney and Melbourne airports say flights were affected by now-lifted ban on departures in US US flight outage – live updates Get our breaking news email , free app or daily news podcast Some US-bound flights from Sydney airport were grounded or delayed on Saturday after American authorities halted…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_tanker-collision-in-new-orleans-131126?traffic_source=rss",
+    "title": "Tanker collision leaves riverboat passengers clinging to railings",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_tanker-collision-in-new-orleans-131126?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-14T01:37:08+00:00",
+    "first_seen": "2026-11-14T03:00:37.380156+00:00",
+    "excerpt": "Passengers were rescued after a tanker ship collided with a riverboat docked on the Mississippi River in New Orleans.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/video/newsfeed/2026/11/14/former-faa-official-says-nobody-really-knows-what-is-going?traffic_source=rss",
+    "title": "Former FAA official says ‘nobody really knows what is going on’",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/former-faa-official-says-nobody-really-knows-what-is-going?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-14T01:28:46+00:00",
+    "first_seen": "2026-11-14T03:00:37.380156+00:00",
+    "excerpt": "Former FAA safety team representative Kyle Bailey says grounding flights is the safest course of action.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://theguardian.com/australia-news/2026/nov/14/one-nation-nsw-candidate-stuart-bonds-ntwnfb",
     "title": "Stuart Bonds made ‘racist’ and ‘divisive’ comments. But One Nation is showing no sign of dumping the NSW candidate",
     "link": "https://www.theguardian.com/australia-news/2026/nov/14/one-nation-nsw-candidate-stuart-bonds-ntwnfb",
@@ -144,6 +180,18 @@
     "also_reported_by": []
   },
   {
+    "id": "https://bbc.co.uk/news/articles/cq99e0z4vg1eo?at_medium=RSS&at_campaign=rss",
+    "title": "After a summer win, India's Gen Z protesters face a winter of uncertainty",
+    "link": "https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-13T23:11:51+00:00",
+    "first_seen": "2026-11-14T03:00:37.380156+00:00",
+    "excerpt": "A new wave of youth dissent swept India this summer, fuelled by frustration and irreverent online satire.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
     "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
     "link": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
@@ -200,6 +248,18 @@
     "published": "2026-11-13T22:36:38+00:00",
     "first_seen": "2026-11-13T22:56:00.612809+00:00",
     "excerpt": "Statement a rare instance of a prominent Jewish political leader taking a strong stand in defence of Arab Israelis Israeli prime ministerial hopeful Gadi Eisenkot accused caretaker premier Benjamin Netanyahu on Friday of fuelling a “racist” campaign against the country’s Arab minority, after he…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://npr.org/2026/11/13/nx-s1-6040388/what-we-know-about-the-faa-nationwide-ground-stop",
+    "title": "What we know about the FAA nationwide ground stop",
+    "link": "https://www.npr.org/2026/11/13/nx-s1-6040388/what-we-know-about-the-faa-nationwide-ground-stop",
+    "outlet": "NPR",
+    "author": "Joel Rose",
+    "published": "2026-11-13T22:27:38+00:00",
+    "first_seen": "2026-11-14T03:00:37.380156+00:00",
+    "excerpt": "The Federal Aviation Administration took an extraordinary step Friday afternoon by issuing a nationwide ground stop. No planes are taking off at any airport and millions of passengers are stranded.",
     "tags": [],
     "also_reported_by": []
   },
