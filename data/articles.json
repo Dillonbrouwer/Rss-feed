@@ -1,5 +1,29 @@
 [
   {
+    "id": "https://theguardian.com/us-news/2026/nov/15/audio-new-orleans-mississippi-river-cruise-tanker-crash",
+    "title": "US officials recover audio from ‘Mississippi miracle’ cruise ship and tanker crash",
+    "link": "https://www.theguardian.com/us-news/2026/nov/15/audio-new-orleans-mississippi-river-cruise-tanker-crash",
+    "outlet": "The Guardian",
+    "author": "Coral Murphy Marcos",
+    "published": "2026-11-15T23:20:59+00:00",
+    "first_seen": "2026-11-15T23:55:45.993047+00:00",
+    "excerpt": "Tank vessel suffered sudden steering failure two minutes before slamming into docked riverboat near New Orleans Federal safety investigators with the National Transportation Safety Board (NTSB) recovered audio and released a preliminary timeline on Sunday of a collision between a cruise ship and a…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://bbc.co.uk/news/articles/c65y131w1534o?at_medium=RSS&at_campaign=rss",
+    "title": "'Steering casualty' preceded New Orleans cruise ship collision, says NTSB",
+    "link": "https://www.bbc.co.uk/news/articles/c65y131w1534o?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-15T22:57:27+00:00",
+    "first_seen": "2026-11-15T23:55:45.993047+00:00",
+    "excerpt": "Preliminary findings by National Transportation Safety Board investigators suggest the tanker suffered a steering failure before colliding with the cruise ship on Friday.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://npr.org/2026/11/15/nx-s1-6041716/a-long-long-ways-from-home-voyager-1-is-now-farther-than-anything-man-has-sent-into-space",
     "title": "Far from home. Voyager 1 is now farther than anything man has sent into space",
     "link": "https://www.npr.org/2026/11/15/nx-s1-6041716/a-long-long-ways-from-home-voyager-1-is-now-farther-than-anything-man-has-sent-into-space",
@@ -8,6 +32,18 @@
     "published": "2026-11-15T22:41:22+00:00",
     "first_seen": "2026-11-15T22:51:46.115718+00:00",
     "excerpt": "NASA's Voyager 1, which is the furthest man-made object from Earth, is set to reach a new milestone this week. On Wednesday, the probe will be roughly 16 billion miles from Earth.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/sports/2026/11/15/england-stun-spain-to-end-la-rojas-43-game-unbeaten-run?traffic_source=rss",
+    "title": "England stun Spain to end La Roja’s 43-game unbeaten run",
+    "link": "https://www.aljazeera.com/sports/2026/11/15/england-stun-spain-to-end-la-rojas-43-game-unbeaten-run?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-15T22:40:01+00:00",
+    "first_seen": "2026-11-15T23:55:45.993047+00:00",
+    "excerpt": "Spain suffer first defeat since March 2024 after losing 3-2 to England in Madrid despite grandstand finish.",
     "tags": [],
     "also_reported_by": []
   },
