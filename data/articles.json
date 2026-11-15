@@ -1,5 +1,65 @@
 [
   {
+    "id": "https://theguardian.com/us-news/2026/nov/15/somali-american-uber-driver-attack-minnesota",
+    "title": "Somali-American Uber driver brutally assaulted in alleged hate crime in Minnesota",
+    "link": "https://www.theguardian.com/us-news/2026/nov/15/somali-american-uber-driver-attack-minnesota",
+    "outlet": "The Guardian",
+    "author": "Michael Sainato",
+    "published": "2026-11-15T21:10:38+00:00",
+    "first_seen": "2026-11-15T21:52:04.996619+00:00",
+    "excerpt": "Mohamed Yusuf is fighting for his life after alleged attack by passenger who said he did not like driver’s first name A Somali-American Uber driver was allegedly brutally assaulted by a passenger in Hopkins, Minnesota, on Saturday, in what his family says “appears to be a hate crime”. The driver,…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/gallery/2026/11/15/photos-pope-leo-visits-perus-amazon-and-andean-regions-during-12-day-tour?traffic_source=rss",
+    "title": "Photos: Pope Leo visits Peru’s Amazon and Andean regions during 12-day tour",
+    "link": "https://www.aljazeera.com/gallery/2026/11/15/photos-pope-leo-visits-perus-amazon-and-andean-regions-during-12-day-tour?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-15T20:54:13+00:00",
+    "first_seen": "2026-11-15T21:52:04.996619+00:00",
+    "excerpt": "The pope has called for the preservation of Indigenous traditions in Peru as he wraps up a 12-day tour of Latin America.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/video/newsfeed/2026/11/15/palestinians-reclaim-gazas-shores-with-a-swim-for-hope?traffic_source=rss",
+    "title": "Palestinians reclaim Gaza’s shores with a swim for hope",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/palestinians-reclaim-gazas-shores-with-a-swim-for-hope?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-15T20:50:15+00:00",
+    "first_seen": "2026-11-15T21:52:04.996619+00:00",
+    "excerpt": "For the first time in more than three years, Gaza’s swimming federation has held a competition.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/video/inside-story/2026/11/15/who-can-force-israel-to-implement-gaza-ceasefire-deal?traffic_source=rss",
+    "title": "Who can force Israel to implement Gaza ceasefire deal?",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/11/15/who-can-force-israel-to-implement-gaza-ceasefire-deal?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-15T20:37:43+00:00",
+    "first_seen": "2026-11-15T21:52:04.996619+00:00",
+    "excerpt": "Storms batter Palestinian territory as Israel restricts entry of aid.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/video/newsfeed/2026/11/15/estonia-to-close-border-crossings-with-russia-after-alleged-arson-attack?traffic_source=rss",
+    "title": "Estonia to close border crossings with Russia after alleged arson attack",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/estonia-to-close-border-crossings-with-russia-after-alleged-arson-attack?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-15T20:31:18+00:00",
+    "first_seen": "2026-11-15T21:52:04.996619+00:00",
+    "excerpt": "Estonia is closing its border crossings with Russia following an alleged arson attempt at a drone factory.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://aljazeera.com/video/newsfeed/2026/11/15/jordan-sentences-three-men-to-death-over-deadly-church-attack-in-karak?traffic_source=rss",
     "title": "Jordan sentences three men to death over deadly church attack in Karak",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/jordan-sentences-three-men-to-death-over-deadly-church-attack-in-karak?traffic_source=rss",
