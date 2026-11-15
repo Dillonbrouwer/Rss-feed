@@ -1,5 +1,53 @@
 [
   {
+    "id": "https://bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
+    "title": "Czechs rally against plan to switch funding of public media",
+    "link": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-15T16:36:42+00:00",
+    "first_seen": "2026-11-15T16:54:43.555359+00:00",
+    "excerpt": "Protesters say the move will stifle media freedom, while the coalition government insists broadcasters need to cut costs.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/15/thousands-rally-in-czech-republic-against-state-media-funding-changes?traffic_source=rss",
+    "title": "Thousands rally in Czech Republic against state media funding changes",
+    "link": "https://www.aljazeera.com/news/2026/11/15/thousands-rally-in-czech-republic-against-state-media-funding-changes?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-15T16:32:22+00:00",
+    "first_seen": "2026-11-15T16:54:43.555359+00:00",
+    "excerpt": "Critics say proposed funding changes will give the government more control of state media.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/us-news/2026/nov/15/transportation-secretary-sean-duffy-faa-flight-stoppag",
+    "title": "Transportation secretary Sean Duffy blames prior presidents and Congress for flight stoppage",
+    "link": "https://www.theguardian.com/us-news/2026/nov/15/transportation-secretary-sean-duffy-faa-flight-stoppag",
+    "outlet": "The Guardian",
+    "author": "Michael Sainato",
+    "published": "2026-11-15T16:18:49+00:00",
+    "first_seen": "2026-11-15T16:54:43.555359+00:00",
+    "excerpt": "Democratic senator Chris Van Hollen says Trump administration hasn’t properly invested existing funds Donald Trump’s administration on Sunday blamed the travel chaos stemming from Friday’s four-hour nationwide flight stoppage on prior presidents as well as a lack of congressional funding – though a…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/video/newsfeed/2026/11/15/british-tourist-smashes-jesus-statue-outside-vilnius-church?traffic_source=rss",
+    "title": "British tourist smashes Jesus statue outside Vilnius church",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/british-tourist-smashes-jesus-statue-outside-vilnius-church?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-15T16:04:22+00:00",
+    "first_seen": "2026-11-15T16:54:43.555359+00:00",
+    "excerpt": "A man removed a statue of the crucified Jesus from a church in Vilnius and it smashed to the ground.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://theguardian.com/us-news/2026/nov/15/miami-airport-planes-collide",
     "title": "Two planes collide on taxiway at Miami airport one day after national grounding",
     "link": "https://www.theguardian.com/us-news/2026/nov/15/miami-airport-planes-collide",
