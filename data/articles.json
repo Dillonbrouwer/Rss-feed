@@ -1,5 +1,65 @@
 [
   {
+    "id": "https://aljazeera.com/news/2026/11/15/iran-says-it-targets-us-radar-in-bahrain-what-do-we-know?traffic_source=rss",
+    "title": "Iran says it targets US radar in Bahrain. What do we know?",
+    "link": "https://www.aljazeera.com/news/2026/11/15/iran-says-it-targets-us-radar-in-bahrain-what-do-we-know?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-15T09:41:27+00:00",
+    "first_seen": "2026-11-15T09:58:30.726687+00:00",
+    "excerpt": "Bahrain Defence Force says its air defence systems thwart several Iranian 'aerial attacks'.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://bbc.co.uk/news/articles/cmrlgn4x2xw8o?at_medium=RSS&at_campaign=rss",
+    "title": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
+    "link": "https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-15T09:26:37+00:00",
+    "first_seen": "2026-11-15T09:58:30.726687+00:00",
+    "excerpt": "Pte William Douglas Dal Bianco died from his injuries on Friday, a month after a fire that tore through CFB Wainwright.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/society/2026/nov/15/digital-finance-products-abuse-against-young-women-and-girls-report",
+    "title": "Digital finance products used to abuse almost 20% of young women and girls, UK report finds",
+    "link": "https://www.theguardian.com/society/2026/nov/15/digital-finance-products-abuse-against-young-women-and-girls-report",
+    "outlet": "The Guardian",
+    "author": "Hannah Al-Othman",
+    "published": "2026-11-15T09:22:39+00:00",
+    "first_seen": "2026-11-15T09:58:30.726687+00:00",
+    "excerpt": "Survey respondents describe current or former partners controlling bank accounts and taking out credit online without full consent Almost one in five young women and girls in the UK have experienced digital financial products being used as a tool of abuse by a current or former partner , a report…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/15/what-forced-the-us-to-ground-all-planes-a-router-switch-we-now-know?traffic_source=rss",
+    "title": "What forced the US to ground all planes? A router switch, we now know",
+    "link": "https://www.aljazeera.com/news/2026/11/15/what-forced-the-us-to-ground-all-planes-a-router-switch-we-now-know?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-15T09:17:49+00:00",
+    "first_seen": "2026-11-15T09:58:30.726687+00:00",
+    "excerpt": "US officials say a routine upgrade that went awry caused the mass disruption of air travel.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam",
+    "title": "160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating",
+    "link": "https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam",
+    "outlet": "The Guardian",
+    "author": "Agencies",
+    "published": "2026-11-15T08:56:11+00:00",
+    "first_seen": "2026-11-15T09:58:30.726687+00:00",
+    "excerpt": "Fears for national college entrance exam next week as test taker admits sending photos of questions to AI tool The marks attained by the top scorer ⁠on South Korea’s national exam for aspiring tax accountants this year seemed too good to be true. On Sunday, sceptics were ⁠proven right when he…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://aljazeera.com/features/2026/11/15/india-pulled-500m-people-out-of-poverty-since-2011-why-doesnt-it-feel-so?traffic_source=rss",
     "title": "India pulled 500m people out of poverty. Many of them still barely survive",
     "link": "https://www.aljazeera.com/features/2026/11/15/india-pulled-500m-people-out-of-poverty-since-2011-why-doesnt-it-feel-so?traffic_source=rss",
