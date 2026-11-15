@@ -1,5 +1,65 @@
 [
   {
+    "id": "https://theguardian.com/world/2026/nov/15/czechia-protest-prague-media-freedom",
+    "title": "Protest in Prague over media freedom expected to be one of biggest in Czechia’s history",
+    "link": "https://www.theguardian.com/world/2026/nov/15/czechia-protest-prague-media-freedom",
+    "outlet": "The Guardian",
+    "author": "Rory Carroll",
+    "published": "2026-11-15T11:17:18+00:00",
+    "first_seen": "2026-11-15T11:53:29.340988+00:00",
+    "excerpt": "Hundreds of thousands expected to rally against plan to scrap licence fees and fund broadcasters from state budget Hundreds of thousands of Czechs are expected to rally in Prague on Sunday to protest against what they say is a government attempt to stifle media freedom. The gathering to save the…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss",
+    "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
+    "link": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-15T11:06:32+00:00",
+    "first_seen": "2026-11-15T11:53:29.340988+00:00",
+    "excerpt": "The attack on funeral at a Greek Orthodox church killed nine and injured 34 others last month.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/video/newsfeed/2026/11/15/police-confront-protesters-in-clashes-across-france-and-germany?traffic_source=rss",
+    "title": "Police confront protesters in clashes across France and Germany",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/police-confront-protesters-in-clashes-across-france-and-germany?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-15T11:04:10+00:00",
+    "first_seen": "2026-11-15T11:53:29.340988+00:00",
+    "excerpt": "Tens of thousands took to the streets in cities across France and Germany over rising living costs.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/15/give-donbas-take-nato-seat-could-new-us-pitch-work-for-ukraine-russia?traffic_source=rss",
+    "title": "Give Donbas, take NATO seat: Could new US pitch work for Ukraine, Russia?",
+    "link": "https://www.aljazeera.com/news/2026/11/15/give-donbas-take-nato-seat-could-new-us-pitch-work-for-ukraine-russia?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-15T10:58:36+00:00",
+    "first_seen": "2026-11-15T11:53:29.340988+00:00",
+    "excerpt": "Ukraine's NATO ambition has always been a red line for the Kremlin. Giving up territory has been a no-no for Ukraine.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/sports/2026/11/15/indias-under-19-asia-cup-win-over-pakistan-marred-by-post-match-aggression?traffic_source=rss",
+    "title": "India’s Under-19 Asia Cup win over Pakistan marred by post-match aggression",
+    "link": "https://www.aljazeera.com/sports/2026/11/15/indias-under-19-asia-cup-win-over-pakistan-marred-by-post-match-aggression?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-15T10:52:36+00:00",
+    "first_seen": "2026-11-15T11:53:29.340988+00:00",
+    "excerpt": "India beat Pakistan by one wicket in a thrilling comeback in the final but follow it up with unsporting behaviour.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis",
     "title": "Iran targets Bahrain airbase as strikes resume in Gulf - Middle East crisis live",
     "link": "https://www.theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis",
