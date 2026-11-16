@@ -1,5 +1,77 @@
 [
   {
+    "id": "https://bbc.co.uk/news/articles/cmpqr9j81888o?at_medium=RSS&at_campaign=rss",
+    "title": "Australian MP 'full of gratitude' upon leaving hospital after alleged car attack",
+    "link": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-16T03:09:49+00:00",
+    "first_seen": "2026-11-16T03:12:42.284541+00:00",
+    "excerpt": "The MP lost both of her legs after the alleged attack outside her electorate office four weeks ago.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
+    "title": "Yemeni forces' retreat leaves Houthis in control of key Red Sea waterway",
+    "link": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-16T03:08:31+00:00",
+    "first_seen": "2026-11-16T03:12:42.284541+00:00",
+    "excerpt": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to defend the interim capital Aden.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/australia-news/2026/nov/16/mp-helen-haines-out-of-hospital-after-attack-leg-amputation-ntwnfb",
+    "title": "MP Helen Haines leaves hospital four weeks after alleged attack and double leg amputation",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/16/mp-helen-haines-out-of-hospital-after-attack-leg-amputation-ntwnfb",
+    "outlet": "The Guardian",
+    "author": "Krishani Dhanji",
+    "published": "2026-11-16T02:26:24+00:00",
+    "first_seen": "2026-11-16T03:12:42.284541+00:00",
+    "excerpt": "Independent MP says she is ‘overwhelmed’ by thousands of warm wishes and thanked Australians for charity donations Get our breaking news email , free app or daily news podcast The independent Australian MP Helen Haines has been discharged from hospital, four weeks after she was allegedly attacked…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/video/newsfeed/2026/11/16/houthis-advance-in-yemen-as-government-forces-move-to-defend-aden?traffic_source=rss",
+    "title": "Houthis advance in Yemen as government forces move to defend Aden",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/houthis-advance-in-yemen-as-government-forces-move-to-defend-aden?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-16T02:22:29+00:00",
+    "first_seen": "2026-11-16T03:12:42.284541+00:00",
+    "excerpt": "An advance by the Houthi armed group in Yemen is threatening one of the government’s last strongholds.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/16/pope-condemns-murders-of-perus-indigenous-leaders-deforestation-of-amazon?traffic_source=rss",
+    "title": "Pope condemns murders of Peru’s Indigenous leaders, deforestation of Amazon",
+    "link": "https://www.aljazeera.com/news/2026/11/16/pope-condemns-murders-of-perus-indigenous-leaders-deforestation-of-amazon?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-16T01:52:12+00:00",
+    "first_seen": "2026-11-16T03:12:42.284541+00:00",
+    "excerpt": "Pontiff says he supports Indigenous efforts to protect their lands, demands justice for slain environmental defenders.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/video/newsfeed/2026/11/16/pope-urges-end-to-amazon-deforestation?traffic_source=rss",
+    "title": "Pope urges end to Amazon deforestation",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/pope-urges-end-to-amazon-deforestation?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-16T01:44:11+00:00",
+    "first_seen": "2026-11-16T03:12:42.284541+00:00",
+    "excerpt": "Pope Leo XIV warns deforestation and illegal mining are threatening the Amazon rainforest and the local communities.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://npr.org/2026/11/15/nx-s1-6041683/flight-disruptions-expected-to-last-into-monday",
     "title": "Flight disruptions expected to last into Monday",
     "link": "https://www.npr.org/2026/11/15/nx-s1-6041683/flight-disruptions-expected-to-last-into-monday",
@@ -296,6 +368,18 @@
     "published": "2026-11-15T22:00:24+00:00",
     "first_seen": "2026-11-15T22:51:46.115718+00:00",
     "excerpt": "Duke of Sussex meets wounded veterans in city and says country could one day host Invictus Games Prince Harry has told Ukrainian soldiers they are going to win the war with Russia, during a surprise visit to the country. The Duke of Sussex met wounded veterans and medics in the city of Lviv, in the…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://bbc.co.uk/news/articles/c60evn992jq8o?at_medium=RSS&at_campaign=rss",
+    "title": "Prince Harry praises war veterans on surprise visit to Ukraine",
+    "link": "https://www.bbc.co.uk/news/articles/c60evn992jq8o?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-15T22:00:13+00:00",
+    "first_seen": "2026-11-16T03:12:42.284541+00:00",
+    "excerpt": "He has been showing support for injured veterans in Ukraine and praising the country's resilience.",
     "tags": [],
     "also_reported_by": []
   },
