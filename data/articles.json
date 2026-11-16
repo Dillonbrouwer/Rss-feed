@@ -1,5 +1,137 @@
 [
   {
+    "id": "https://bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss",
+    "title": "Forensic expert says his analysis raises doubts about how Epstein died",
+    "link": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-16T20:03:30+00:00",
+    "first_seen": "2026-11-16T20:08:32.778110+00:00",
+    "excerpt": "Professor Michael Freeman tells BBC Newsnight that he believes the convicted sex offender's injuries are consistent with a homicide.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/society/2026/nov/16/ministers-to-end-palantir-contract-nhs-england-2029",
+    "title": "Ministers to end Palantir’s contract with NHS in England in 2029",
+    "link": "https://www.theguardian.com/society/2026/nov/16/ministers-to-end-palantir-contract-nhs-england-2029",
+    "outlet": "The Guardian",
+    "author": "Denis Campbell Health policy editor",
+    "published": "2026-11-16T19:59:31+00:00",
+    "first_seen": "2026-11-16T20:08:32.778110+00:00",
+    "excerpt": "DHSC to extend US tech firm’s contract for two more years to allow time to line up British companies to replace it Ministers will end the NHS’s contract with the controversial tech firm Palantir – but not until 2029, to allow time to line up British companies to replace it. The Department of Health…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/politics/2026/nov/16/people-behind-vote-leave-eu-launch-new-incarnations-brexit",
+    "title": "People behind Leave.EU and Vote Leave launch new incarnations of pro-Brexit campaigns",
+    "link": "https://www.theguardian.com/politics/2026/nov/16/people-behind-vote-leave-eu-launch-new-incarnations-brexit",
+    "outlet": "The Guardian",
+    "author": "Jessica Elgot Deputy political editor",
+    "published": "2026-11-16T19:38:45+00:00",
+    "first_seen": "2026-11-16T20:08:32.778110+00:00",
+    "excerpt": "Andy Wigmore says he wants his Enough Official group to join forces with Michael Gove-backed Stay Out movement The Brexit wars were a bitter period in political history, fraught with tension and badmouthing – and that was just between the different leave campaigns. Now as a new incarnation of…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://bbc.co.uk/news/articles/cw5y1v8de35go?at_medium=RSS&at_campaign=rss",
+    "title": "Lindsay Clancy to face retrial next year for deaths of her three children",
+    "link": "https://www.bbc.co.uk/news/articles/cw5y1v8de35go?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-16T19:30:30+00:00",
+    "first_seen": "2026-11-16T20:08:32.778110+00:00",
+    "excerpt": "The 36-year-old's first trial this year fell apart when a 12-person jury failed to reach a verdict.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/16/five-eu-countries-announce-plan-to-send-rejected-asylum-seekers-to-rwanda?traffic_source=rss",
+    "title": "Five EU countries announce plan to send rejected asylum seekers to Rwanda",
+    "link": "https://www.aljazeera.com/news/2026/11/16/five-eu-countries-announce-plan-to-send-rejected-asylum-seekers-to-rwanda?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-16T19:26:40+00:00",
+    "first_seen": "2026-11-16T20:08:32.778110+00:00",
+    "excerpt": "In a joint statement, 47 aid, trade union and rights groups urged ‌the five countries to ​abandon the Rwanda plan.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/16/saudi-arabia-dismisses-commander-of-coalition-forces-fighting-houthis?traffic_source=rss",
+    "title": "Saudi Arabia dismisses commander of coalition forces fighting Houthis",
+    "link": "https://www.aljazeera.com/news/2026/11/16/saudi-arabia-dismisses-commander-of-coalition-forces-fighting-houthis?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-16T19:19:21+00:00",
+    "first_seen": "2026-11-16T20:08:32.778110+00:00",
+    "excerpt": "Move comes as government forces withdraw from Red Sea coast to halt Houthi approach to interim capital Aden.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/16/thousands-report-difficulties-accessing-accounts-online-at-major-us-banks?traffic_source=rss",
+    "title": "Thousands report difficulties accessing accounts online at major US banks",
+    "link": "https://www.aljazeera.com/news/2026/11/16/thousands-report-difficulties-accessing-accounts-online-at-major-us-banks?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-16T19:18:10+00:00",
+    "first_seen": "2026-11-16T20:08:32.778110+00:00",
+    "excerpt": "Customers report online access issues at major US banks, including Chase, Wells Fargo, and Bank of America.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/society/2026/nov/16/how-milburn-won-over-labour-tackling-rising-youth-unemployment",
+    "title": "How Milburn won over Labour on tackling rising youth unemployment",
+    "link": "https://www.theguardian.com/society/2026/nov/16/how-milburn-won-over-labour-tackling-rising-youth-unemployment",
+    "outlet": "The Guardian",
+    "author": "Pippa Crerar Political editor",
+    "published": "2026-11-16T19:16:19+00:00",
+    "first_seen": "2026-11-16T20:08:32.778110+00:00",
+    "excerpt": "Labour grandee seems to have assuaged MPs’ nerves on need for welfare reform to tackle youth unemployment crisis In a boxing gym in Peterborough almost a year ago, Alan Milburn, freshly appointed to run a government review into the nearly 1 million young people out of work and education, said he…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/us-news/2026/nov/16/cornell-review-greek-life-sexual-assault-case",
+    "title": "Cornell announces full review of Greek life after scrutiny over sexual assault case",
+    "link": "https://www.theguardian.com/us-news/2026/nov/16/cornell-review-greek-life-sexual-assault-case",
+    "outlet": "The Guardian",
+    "author": "Sam Levine",
+    "published": "2026-11-16T19:09:36+00:00",
+    "first_seen": "2026-11-16T20:08:32.778110+00:00",
+    "excerpt": "The university will conduct a series of measures after a former student was gang-raped at a fraternity house two years ago Cornell University is set to announce a “full review” of fraternities and sororities determining their future on campus after an alleged sexual assault there has brought…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/16/is-israels-opposition-less-right-wing-than-netanyahu?traffic_source=rss",
+    "title": "Is Israel’s Eisenkot bloc less right wing than Netanyahu?",
+    "link": "https://www.aljazeera.com/news/2026/11/16/is-israels-opposition-less-right-wing-than-netanyahu?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-16T19:09:09+00:00",
+    "first_seen": "2026-11-16T20:08:32.778110+00:00",
+    "excerpt": "An Israeli government without PM Netanyahu may be close, but a government without his politics is far less certain.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/world/2026/nov/16/saudi-arabia-challenged-yemeni-allies-ceding-ground-houthis",
+    "title": "Saudi Arabia strategy challenged by anti-Houthi forces in Yemen",
+    "link": "https://www.theguardian.com/world/2026/nov/16/saudi-arabia-challenged-yemeni-allies-ceding-ground-houthis",
+    "outlet": "The Guardian",
+    "author": "Patrick Wintour Diplomatic editor",
+    "published": "2026-11-16T19:04:07+00:00",
+    "first_seen": "2026-11-16T20:08:32.778110+00:00",
+    "excerpt": "Accusations of incompetence follow retreat of Riyadh-backed forces in effort to relieve siege of Taiz and protect Aden Saudi Arabia has been accused by anti-Houthi forces over its military strategy after its Yemeni allies withdrew troops from the strategic Bab al-Mandab strait and pulled back…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://npr.org/2026/11/16/nx-s1-6042883/nvidia-jensen-huang-commerce-department",
     "title": "U.S. tightens controls on remote access to AI technology amid Nvidia fallout",
     "link": "https://www.npr.org/2026/11/16/nx-s1-6042883/nvidia-jensen-huang-commerce-department",
@@ -180,6 +312,18 @@
     "also_reported_by": []
   },
   {
+    "id": "https://bbc.co.uk/news/videos/cmd91xjd9zk2o?at_medium=RSS&at_campaign=rss",
+    "title": "When will we see Robert Pattinson as Bond in cinemas?",
+    "link": "https://www.bbc.co.uk/news/videos/cmd91xjd9zk2o?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-16T17:18:54+00:00",
+    "first_seen": "2026-11-16T20:08:32.778110+00:00",
+    "excerpt": "Robert Pattinson has been announced as the next James Bond, becoming the seventh actor to take up the mantle of 007.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://aljazeera.com/news/2026/11/16/iran-deploys-army-to-stronghold-of-iran-backed-kataib-hezbollah?traffic_source=rss",
     "title": "Iran deploys army to stronghold of Iran-backed Kataib Hezbollah",
     "link": "https://www.aljazeera.com/news/2026/11/16/iran-deploys-army-to-stronghold-of-iran-backed-kataib-hezbollah?traffic_source=rss",
@@ -348,6 +492,18 @@
     "also_reported_by": []
   },
   {
+    "id": "https://bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
+    "title": "Faisal Islam: What's in the Brexit reset food deal and are there trade-offs?",
+    "link": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-16T15:40:16+00:00",
+    "first_seen": "2026-11-16T20:08:32.778110+00:00",
+    "excerpt": "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://aljazeera.com/video/newsfeed/2026/11/16/oil-tankers-hit-sea-mines-in-the-strait-of-hormuz?traffic_source=rss",
     "title": "Oil tankers hit sea mines in the Strait of Hormuz",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/oil-tankers-hit-sea-mines-in-the-strait-of-hormuz?traffic_source=rss",
@@ -380,6 +536,30 @@
     "published": "2026-11-16T15:26:39+00:00",
     "first_seen": "2026-11-16T17:26:38.812024+00:00",
     "excerpt": "Eight men killed in shooting near Pietermaritzburg while six men and three women shot dead near Pretoria.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://bbc.co.uk/news/videos/crkgvnl51w1vo?at_medium=RSS&at_campaign=rss",
+    "title": "Street cricket with a legend then metro ride as William and Kate begin India visit",
+    "link": "https://www.bbc.co.uk/news/videos/crkgvnl51w1vo?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-16T15:08:59+00:00",
+    "first_seen": "2026-11-16T20:08:32.778110+00:00",
+    "excerpt": "The Prince and Princess of Wales are visiting Mumbai for the Earthshot Prize this week, but started their trip with some fun outings.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://bbc.co.uk/news/articles/c574290jvk8wo?at_medium=RSS&at_campaign=rss",
+    "title": "Robert Pattinson: How the Twilight star became 007",
+    "link": "https://www.bbc.co.uk/news/articles/c574290jvk8wo?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-16T15:02:41+00:00",
+    "first_seen": "2026-11-16T20:08:32.778110+00:00",
+    "excerpt": "The Twilight, Batman and Odyssey star's profile will go even more stellar when he plays James Bond.",
     "tags": [],
     "also_reported_by": []
   },
@@ -1930,6 +2110,18 @@
     "published": "2026-11-16T00:45:48+00:00",
     "first_seen": "2026-11-16T01:39:32.315542+00:00",
     "excerpt": "Trump has requested $50bn for upgrades, but Democratic lawmakers are asking for transparency before spending more.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://bbc.co.uk/news/articles/c8ly0yr7wv1no?at_medium=RSS&at_campaign=rss",
+    "title": "Is India rethinking its short-term military recruitment scheme?",
+    "link": "https://www.bbc.co.uk/news/articles/c8ly0yr7wv1no?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-16T00:41:42+00:00",
+    "first_seen": "2026-11-16T20:08:32.778110+00:00",
+    "excerpt": "India has softened its recruitment scheme, giving young soldiers a longer military stint and another shot at permanent service.",
     "tags": [],
     "also_reported_by": []
   },
