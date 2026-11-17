@@ -1,5 +1,53 @@
 [
   {
+    "id": "https://aljazeera.com/video/newsfeed/2026/11/17/gunfire-erupts-in-occupied-west-bank-settler-attack?traffic_source=rss",
+    "title": "Gunfire erupts in occupied West Bank settler attack",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/gunfire-erupts-in-occupied-west-bank-settler-attack?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-17T04:00:08+00:00",
+    "first_seen": "2026-11-17T04:08:14.075912+00:00",
+    "excerpt": "Israeli settlers opened fire in the village of al Duyuk near Jericho killing one woman and injuring several others.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/australia-news/2026/nov/17/sam-wood-snezana-bail-domestic-violence-allegations-ntwnfb",
+    "title": "‘Let me talk to Snez’: court hears recording of Sam Wood saying wife Snezana could recant domestic violence allegations",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/17/sam-wood-snezana-bail-domestic-violence-allegations-ntwnfb",
+    "outlet": "The Guardian",
+    "author": "Ben Smee Queensland state correspondent",
+    "published": "2026-11-17T03:27:05+00:00",
+    "first_seen": "2026-11-17T04:08:14.075912+00:00",
+    "excerpt": "Fitness influencer’s lawyer calls comment during taped conversation between client and his father ‘ill-judged’ but denies it amounts to a suggestion of interfering with a witness Get our breaking news email , free app or daily news podcast A Queensland court has been played a prison recording of…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/17/tankers-hit-in-strait-of-hormuz-as-drone-raises-alarm-at-iraq-gas-field?traffic_source=rss",
+    "title": "Tankers hit in Strait of Hormuz as drone raises alarm at Iraq gas field",
+    "link": "https://www.aljazeera.com/news/2026/11/17/tankers-hit-in-strait-of-hormuz-as-drone-raises-alarm-at-iraq-gas-field?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-17T03:12:54+00:00",
+    "first_seen": "2026-11-17T04:08:14.075912+00:00",
+    "excerpt": "Iran reports tanker mine strikes as a drone alert in Iraq and the arrival of a US aircraft carrier raise tensions.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/economy/2026/11/17/us-moves-to-block-chinas-remote-access-to-ai-chips-amid-nvidia-scandal?traffic_source=rss",
+    "title": "US moves to block China’s remote access to AI chips amid Nvidia scandal",
+    "link": "https://www.aljazeera.com/economy/2026/11/17/us-moves-to-block-chinas-remote-access-to-ai-chips-amid-nvidia-scandal?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-17T02:52:56+00:00",
+    "first_seen": "2026-11-17T04:08:14.075912+00:00",
+    "excerpt": "The Trump administration introduces export licence requirement for Malaysia, Thailand, Indonesia, Singapore and Brazil.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://theguardian.com/us-news/2026/nov/16/dolores-huerta-honored-california",
     "title": "Dolores Huerta honored in ceremony at California state capitol",
     "link": "https://www.theguardian.com/us-news/2026/nov/16/dolores-huerta-honored-california",
