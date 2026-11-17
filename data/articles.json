@@ -1,5 +1,77 @@
 [
   {
+    "id": "https://theguardian.com/uk-news/2026/nov/17/hundreds-protest-nathan-cofnas-de-oriel-college-oxford-jason-arday",
+    "title": "Hundreds protest Nathan Cofnas talk on DEI at Oriel College in Oxford",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/17/hundreds-protest-nathan-cofnas-de-oriel-college-oxford-jason-arday",
+    "outlet": "The Guardian",
+    "author": "Miatta Mbriwa and Anandita Abraham",
+    "published": "2026-11-17T22:50:16+00:00",
+    "first_seen": "2026-11-17T23:06:20.322162+00:00",
+    "excerpt": "Students oppose appearance of self-described ‘race realist’ who made plagiarism claims against Jason Arday Hundreds of protesters jammed the cobbled streets around Oriel College, Oxford, to voice their opposition at an appearance by Nathan Cofnas, the self-described “race realist”. The event…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/world/2026/nov/17/israeli-parliament-elects-new-knesset-speaker-backed-netanyahus-opponents",
+    "title": "Israeli parliament elects new speaker backed by Netanyahu’s opponents",
+    "link": "https://www.theguardian.com/world/2026/nov/17/israeli-parliament-elects-new-knesset-speaker-backed-netanyahus-opponents",
+    "outlet": "The Guardian",
+    "author": "Associated Press in Jerusalem",
+    "published": "2026-11-17T22:30:17+00:00",
+    "first_seen": "2026-11-17T23:06:20.322162+00:00",
+    "excerpt": "Knesset’s appointment of Matan Kahana marks step towards reversing policies of outgoing government The Israeli parliament elected a new speaker on Tuesday, a key step toward rolling back policies passed by the outgoing government led by the prime minister, Benjamin Netanyahu. The new speaker is…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/17/russian-military-plane-crash-in-siberia-kills-19?traffic_source=rss",
+    "title": "Russian military plane crash in Siberia kills 19",
+    "link": "https://www.aljazeera.com/news/2026/11/17/russian-military-plane-crash-in-siberia-kills-19?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-17T22:21:16+00:00",
+    "first_seen": "2026-11-17T23:06:20.322162+00:00",
+    "excerpt": "Russia's Defence Ministry says preliminary findings for the crash point to equipment failure.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/economy/2026/11/17/us-feds-lisa-cook-refuses-to-attend-white-house-hearing?traffic_source=rss",
+    "title": "US Fed’s Lisa Cook refuses to attend White House hearing",
+    "link": "https://www.aljazeera.com/economy/2026/11/17/us-feds-lisa-cook-refuses-to-attend-white-house-hearing?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-17T22:01:27+00:00",
+    "first_seen": "2026-11-17T23:06:20.322162+00:00",
+    "excerpt": "US President Donald Trump has been trying to fire Cook since August 2025.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/us-news/2026/nov/17/chris-laneve-army-chief-staff",
+    "title": "Trump nominates Chris LaNeve as army chief after Hegseth fired predecessor",
+    "link": "https://www.theguardian.com/us-news/2026/nov/17/chris-laneve-army-chief-staff",
+    "outlet": "The Guardian",
+    "author": "George Chidi",
+    "published": "2026-11-17T21:55:40+00:00",
+    "first_seen": "2026-11-17T23:06:20.322162+00:00",
+    "excerpt": "LaNeve, who served as Hegseth’s senior military commander, nominated to permanently replace Gen Randy George Donald Trump has nominated Gen Chris LaNeve to be the US army’s top officer, making permanent his interim service after the defense secretary, Pete Hegseth, unexpectedly fired his…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://foreignpolicy.com/2026/11/17/china-xi-trade-canada-tariffs-peru-trump-asean-apec",
+    "title": "Xi Makes the Most of Trump’s Asia-Pacific Trip",
+    "link": "https://foreignpolicy.com/2026/11/17/china-xi-trade-canada-tariffs-peru-trump-asean-apec/",
+    "outlet": "Foreign Policy",
+    "author": "Alexandra Sharp",
+    "published": "2026-11-17T21:52:41+00:00",
+    "first_seen": "2026-11-17T23:06:20.322162+00:00",
+    "excerpt": "The Chinese president is currying favor with some of the region’s most powerful leaders.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://theguardian.com/technology/2026/nov/17/nvidia-third-quarter-revenue-jensen-huang",
     "title": "Nvidia doubles quarterly revenue in first earnings since Jensen Huang’s resignation",
     "link": "https://www.theguardian.com/technology/2026/nov/17/nvidia-third-quarter-revenue-jensen-huang",
