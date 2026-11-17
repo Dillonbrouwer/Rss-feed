@@ -1,5 +1,77 @@
 [
   {
+    "id": "https://aljazeera.com/news/2026/11/17/ukraine-holds-peace-talks-with-us-europe-as-conflict-escalates?traffic_source=rss",
+    "title": "Ukraine holds peace talks with US, Europe as conflict escalates",
+    "link": "https://www.aljazeera.com/news/2026/11/17/ukraine-holds-peace-talks-with-us-europe-as-conflict-escalates?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-17T00:45:11+00:00",
+    "first_seen": "2026-11-17T01:28:29.323262+00:00",
+    "excerpt": "Kushner reports progress towards a deal, but Moscow says it has not agreed to European participation in the next talks.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/17/uk-seeks-closer-ties-with-eu-after-brexit-fail?traffic_source=rss",
+    "title": "UK seeks closer ties with EU after Brexit fail",
+    "link": "https://www.aljazeera.com/news/2026/11/17/uk-seeks-closer-ties-with-eu-after-brexit-fail?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-17T00:30:21+00:00",
+    "first_seen": "2026-11-17T01:28:29.323262+00:00",
+    "excerpt": "Prime Minister Andy Burnham says UK lost more than it gained after its divorce from the bloc.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/17/ethiopia-moyale-clashes-disrupt-livelihoods-as-territorial-dispute-deepens?traffic_source=rss",
+    "title": "Ethiopia Moyale clashes disrupt livelihoods as territorial dispute deepens",
+    "link": "https://www.aljazeera.com/news/2026/11/17/ethiopia-moyale-clashes-disrupt-livelihoods-as-territorial-dispute-deepens?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-17T00:21:19+00:00",
+    "first_seen": "2026-11-17T01:28:29.323262+00:00",
+    "excerpt": "The country's unresolved Oromia-Somali border dispute fuels renewed violence, displacing thousands.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/liveblog/2026/11/16/live-houthis-advance-in-yemen-as-tankers-hit-sea-mines-in-strait-of-hormuz?traffic_source=rss",
+    "title": "Live: Houthis advance in Yemen as tankers hit sea mines in Strait of Hormuz",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/11/16/live-houthis-advance-in-yemen-as-tankers-hit-sea-mines-in-strait-of-hormuz?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-16T23:57:49+00:00",
+    "first_seen": "2026-11-17T01:28:29.323262+00:00",
+    "excerpt": "Iran-aligned Houthi fighters kept up their push in southern Yemen as oil tankers hit sea mines in the Strait of Hormuz.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/16/paraguay-ex-president-moved-to-military-jail-amid-special-treatment-reports?traffic_source=rss",
+    "title": "Paraguay ex-president moved to military jail amid special treatment reports",
+    "link": "https://www.aljazeera.com/news/2026/11/16/paraguay-ex-president-moved-to-military-jail-amid-special-treatment-reports?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-16T23:44:32+00:00",
+    "first_seen": "2026-11-17T01:28:29.323262+00:00",
+    "excerpt": "Santiago Pena has been accused of corruption following the collapse of Ueno Bank earlier this month.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/video/newsfeed/2026/11/16/trump-departs-for-asean-on-summit-with-xi-and-putin?traffic_source=rss",
+    "title": "Trump departs for ASEAN on summit with Xi and Putin",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/trump-departs-for-asean-on-summit-with-xi-and-putin?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-16T23:42:03+00:00",
+    "first_seen": "2026-11-17T01:28:29.323262+00:00",
+    "excerpt": "Donald Trump is heading to the Philippines where he’s scheduled to speak at a meeting of ASEAN leaders in Manila.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://theguardian.com/australia-news/2026/nov/17/labor-backpacker-policy-backflip-work-regional-australia-holiday-visas",
     "title": "Labor to announce policy backflip and allow more backpackers to stay in Australia",
     "link": "https://www.theguardian.com/australia-news/2026/nov/17/labor-backpacker-policy-backflip-work-regional-australia-holiday-visas",
