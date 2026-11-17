@@ -1,5 +1,101 @@
 [
   {
+    "id": "https://theguardian.com/environment/2026/nov/17/european-made-pesticides-named-1605-brazil-poisoning-reports",
+    "title": "European-made pesticides named in 1,605 poisoning reports in Brazil last year",
+    "link": "https://www.theguardian.com/environment/2026/nov/17/european-made-pesticides-named-1605-brazil-poisoning-reports",
+    "outlet": "The Guardian",
+    "author": "Matthew Pearce",
+    "published": "2026-11-17T06:00:05+00:00",
+    "first_seen": "2026-11-17T06:14:53.991954+00:00",
+    "excerpt": "About a third of cases involved chemicals banned for use on EU farms, according to investigation by Unearthed and Public Eye Pesticides sold by European chemical companies were named in more than 1,600 poisoning reports in Brazil last year, an investigation has found. About a third of the cases…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss",
+    "title": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
+    "link": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-17T05:59:01+00:00",
+    "first_seen": "2026-11-17T06:14:53.991954+00:00",
+    "excerpt": "Efforts to recover bodies after a “double-tap” attack in southern Ukraine are being hampered by continuing Russian strikes, officials say.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+    "title": "Two major Kyiv bridges hit in Russian attack, mayor says",
+    "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-17T05:57:38+00:00",
+    "first_seen": "2026-11-17T06:14:53.991954+00:00",
+    "excerpt": "The reported strikes come a day after Ukraine launched its largest recorded drone attack on Russia since the start of the war, according to Moscow.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/features/2026/11/17/stories-of-survival-and-pain-children-amid-israels-war-on-south-lebanon?traffic_source=rss",
+    "title": "Stories of survival and pain: Children amid Israel’s war on south Lebanon",
+    "link": "https://www.aljazeera.com/features/2026/11/17/stories-of-survival-and-pain-children-amid-israels-war-on-south-lebanon?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-17T05:50:29+00:00",
+    "first_seen": "2026-11-17T06:14:53.991954+00:00",
+    "excerpt": "The ongoing Israeli assault continues to have disastrous consequences for the people of southern Lebanon.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/17/leonid-meteor-shower-2026-when-and-where-to-see-it-from-where-you-live?traffic_source=rss",
+    "title": "Leonid meteor shower 2026: When and where to see it from where you live",
+    "link": "https://www.aljazeera.com/news/2026/11/17/leonid-meteor-shower-2026-when-and-where-to-see-it-from-where-you-live?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-17T05:42:03+00:00",
+    "first_seen": "2026-11-17T06:14:53.991954+00:00",
+    "excerpt": "The Leonids, among the year's fastest meteor showers, peak on November 17-18. Find the best time to watch in your city.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/australia-news/2026/nov/17/nsw-inquest-free-birth-keeper-baby-death-ntwnfb",
+    "title": "Woman whose baby died after free birth didn’t know she was pregnant with twins, NSW inquest hears",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/17/nsw-inquest-free-birth-keeper-baby-death-ntwnfb",
+    "outlet": "The Guardian",
+    "author": "Susan Chenery",
+    "published": "2026-11-17T05:37:33+00:00",
+    "first_seen": "2026-11-17T06:14:53.991954+00:00",
+    "excerpt": "Inquest continues into deaths of four babies born in free births or home births in northern rivers Get our breaking news email , free app or daily news podcast A northern rivers mother whose baby died after a free birth did not know she was having twins until she was in labour after having no…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/17/us-bank-outage-what-caused-chase-problems-and-zelle-payment-delays?traffic_source=rss",
+    "title": "US bank outage: What caused Chase problems and Zelle payment delays?",
+    "link": "https://www.aljazeera.com/news/2026/11/17/us-bank-outage-what-caused-chase-problems-and-zelle-payment-delays?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-17T05:19:34+00:00",
+    "first_seen": "2026-11-17T06:14:53.991954+00:00",
+    "excerpt": "A Chase software bug disrupted US banking transactions and delayed some Zelle payments. Here's what happened.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/video/newsfeed/2026/11/17/the-red-crabs-of-christmas-island?traffic_source=rss",
+    "title": "The Red Crabs of Christmas Island",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/the-red-crabs-of-christmas-island?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-17T05:08:08+00:00",
+    "first_seen": "2026-11-17T06:14:53.991954+00:00",
+    "excerpt": "Tens of millions of Red Crabs have started their annual migration on Australia’s Christmas Island.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://theguardian.com/environment/2026/nov/17/russia-saudi-arabia-and-australia-named-as-biggest-co2-exporters-in-history",
     "title": "Russia, Saudi Arabia and Australia named as biggest CO2 exporters in history",
     "link": "https://www.theguardian.com/environment/2026/nov/17/russia-saudi-arabia-and-australia-named-as-biggest-co2-exporters-in-history",
@@ -96,6 +192,18 @@
     "also_reported_by": []
   },
   {
+    "id": "https://bbc.co.uk/news/articles/cwkgr9m41engo?at_medium=RSS&at_campaign=rss",
+    "title": "Vance says he will decide 'sometime next year' about 2028 US presidential run",
+    "link": "https://www.bbc.co.uk/news/articles/cwkgr9m41engo?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-17T03:07:23+00:00",
+    "first_seen": "2026-11-17T06:14:53.991954+00:00",
+    "excerpt": "The US vice-president tells Fox News that when he makes a decision to run or otherwise, he will \"be all in on whatever that decision is\".",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://aljazeera.com/economy/2026/11/17/us-moves-to-block-chinas-remote-access-to-ai-chips-amid-nvidia-scandal?traffic_source=rss",
     "title": "US moves to block China’s remote access to AI chips amid Nvidia scandal",
     "link": "https://www.aljazeera.com/economy/2026/11/17/us-moves-to-block-chinas-remote-access-to-ai-chips-amid-nvidia-scandal?traffic_source=rss",
@@ -152,6 +260,18 @@
     "published": "2026-11-17T01:38:13+00:00",
     "first_seen": "2026-11-17T03:00:33.761625+00:00",
     "excerpt": "Yemen's army reports 173 Houthi fighters killed or wounded as government forces reposition to defend Aden.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://bbc.co.uk/news/articles/cr894xq5yeyko?at_medium=RSS&at_campaign=rss",
+    "title": "Imran Khan seeks urgent medical care fearing he 'may not return alive'",
+    "link": "https://www.bbc.co.uk/news/articles/cr894xq5yeyko?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-17T01:26:01+00:00",
+    "first_seen": "2026-11-17T06:14:53.991954+00:00",
+    "excerpt": "Pakistan's ex-prime minister, who has been in prison since August 2023, says he has been denied justice.",
     "tags": [],
     "also_reported_by": []
   },
@@ -240,6 +360,18 @@
     "also_reported_by": []
   },
   {
+    "id": "https://bbc.co.uk/news/articles/c3pw450ndyjqo?at_medium=RSS&at_campaign=rss",
+    "title": "Kidnap, child marriage and poverty: Why millions of Nigerian children can't go to school",
+    "link": "https://www.bbc.co.uk/news/articles/c3pw450ndyjqo?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-17T00:08:19+00:00",
+    "first_seen": "2026-11-17T06:14:53.991954+00:00",
+    "excerpt": "BBC World Service launches programme in Hausa for out-of-school children in West Africa.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://aljazeera.com/news/liveblog/2026/11/16/live-houthis-advance-in-yemen-as-tankers-hit-sea-mines-in-strait-of-hormuz?traffic_source=rss",
     "title": "Live: Houthis advance in Yemen as tankers hit sea mines in Strait of Hormuz",
     "link": "https://www.aljazeera.com/news/liveblog/2026/11/16/live-houthis-advance-in-yemen-as-tankers-hit-sea-mines-in-strait-of-hormuz?traffic_source=rss",
@@ -272,6 +404,18 @@
     "published": "2026-11-16T23:42:03+00:00",
     "first_seen": "2026-11-17T01:28:29.323262+00:00",
     "excerpt": "Donald Trump is heading to the Philippines where he’s scheduled to speak at a meeting of ASEAN leaders in Manila.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://bbc.co.uk/news/articles/c820vnln2lzpo?at_medium=RSS&at_campaign=rss",
+    "title": "The AI start-ups fixing India's broken roads and messy land records",
+    "link": "https://www.bbc.co.uk/news/articles/c820vnln2lzpo?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-16T23:25:53+00:00",
+    "first_seen": "2026-11-17T06:14:53.991954+00:00",
+    "excerpt": "From legal-tech to healthcare, dozens of Indian AI start-ups are solving uniquely Indian challenges.",
     "tags": [],
     "also_reported_by": []
   },
@@ -320,6 +464,42 @@
     "published": "2026-11-16T23:14:41+00:00",
     "first_seen": "2026-11-16T23:54:25.711326+00:00",
     "excerpt": "Police investigation continues even as Louisiana coroner’s office releases findings on death of Kenan ‘Ken’ Urker The cause of death of Gypsy Rose Blanchard’s partner, who died last month, has been released. On Monday, the Lafourche parish coroner’s office in Louisiana determined that Kenan “Ken”…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
+    "title": "California sues OpenAI over Hugging Face attack",
+    "link": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-16T23:12:24+00:00",
+    "first_seen": "2026-11-17T06:14:53.991954+00:00",
+    "excerpt": "Attorney General Rob Bonta alleges OpenAI misled and endangered the public",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://bbc.co.uk/news/articles/cmewvxg855yno?at_medium=RSS&at_campaign=rss",
+    "title": "Taking Korea's toughest exam from behind bars",
+    "link": "https://www.bbc.co.uk/news/articles/cmewvxg855yno?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-16T23:09:49+00:00",
+    "first_seen": "2026-11-17T06:14:53.991954+00:00",
+    "excerpt": "Eleven convicts at the Mandela Boys' School will be among the thousands of young Koreans taking the country's hardest exam, the Suneung.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://bbc.co.uk/news/articles/cm3eg3v9jkk8o?at_medium=RSS&at_campaign=rss",
+    "title": "China is hosting the world's leaders in its AI wonderland. Here's what they won't see",
+    "link": "https://www.bbc.co.uk/news/articles/cm3eg3v9jkk8o?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-16T23:07:20+00:00",
+    "first_seen": "2026-11-17T06:14:53.991954+00:00",
+    "excerpt": "Leave Shenzhen's tech-flecked city skyline and you run into the challenges confronting Xi's China.",
     "tags": [],
     "also_reported_by": []
   },
