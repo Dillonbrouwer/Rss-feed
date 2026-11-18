@@ -1,5 +1,89 @@
 [
   {
+    "id": "https://foreignpolicy.com/2026/11/18/india-trump-asia-trip-quad-asean-apec-xi-putin",
+    "title": "What India Makes of Trump’s Asia Trip",
+    "link": "https://foreignpolicy.com/2026/11/18/india-trump-asia-trip-quad-asean-apec-xi-putin/",
+    "outlet": "Foreign Policy",
+    "author": "Michael Kugelman",
+    "published": "2026-11-18T22:51:03+00:00",
+    "first_seen": "2026-11-18T23:04:17.610269+00:00",
+    "excerpt": "New Delhi will watch closely as the U.S. president meets with Xi and Putin in Shenzhen.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/games/2026/nov/19/gta-6-grand-theft-auto-vi-release-launch-australia-first-to-play-game",
+    "title": "GTA 6 bedazzles gamers in Australia with ‘fully lived in, breathable world’",
+    "link": "https://www.theguardian.com/games/2026/nov/19/gta-6-grand-theft-auto-vi-release-launch-australia-first-to-play-game",
+    "outlet": "The Guardian",
+    "author": "Nick Visser",
+    "published": "2026-11-18T22:48:46+00:00",
+    "first_seen": "2026-11-18T23:04:17.610269+00:00",
+    "excerpt": "Players can renovate houses, fix cars, lift weights and follow the story in Grand Theft Auto VI’s Miami-inspired Vice City Gamers across Australia woke up Thursday morning feeling like Christmas came early, some bleary-eyed from late night sessions on the Playstation, others with grand plans for a…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/us-news/2026/nov/18/florida-pastor-guilty-haiti-president-assassination",
+    "title": "Florida pastor found guilty over 2021 assassination of Haitian president",
+    "link": "https://www.theguardian.com/us-news/2026/nov/18/florida-pastor-guilty-haiti-president-assassination",
+    "outlet": "The Guardian",
+    "author": "Associated Press",
+    "published": "2026-11-18T22:31:41+00:00",
+    "first_seen": "2026-11-18T23:04:17.610269+00:00",
+    "excerpt": "Christian Emmanuel Sanon faces life in prison after conviction on charges arising from killing of Jovenel Moïse A Florida pastor with dual Haitian-American citizenship was convicted on Wednesday of US charges arising from the 2021 assassination of the Haitian president Jovenel Moïse. Christian…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/society/2026/nov/18/leaseholders-in-england-and-wales-to-have-ground-rent-capped-in-2028",
+    "title": "Leaseholders in England and Wales to have ground rent capped in 2028",
+    "link": "https://www.theguardian.com/society/2026/nov/18/leaseholders-in-england-and-wales-to-have-ground-rent-capped-in-2028",
+    "outlet": "The Guardian",
+    "author": "Kiran Stacey Policy editor",
+    "published": "2026-11-18T22:30:09+00:00",
+    "first_seen": "2026-11-18T23:04:17.610269+00:00",
+    "excerpt": "Housing minister hails ‘historic moment’ as he publishes bill to eventually ban almost all new leasehold properties Leaseholders in England and Wales will have their ground rent capped in 2028, the housing minister has said as he publishes a bill that will eventually ban virtually all new leasehold…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/technology/2026/nov/18/waymo-pulls-driverless-taxis-us-freeways",
+    "title": "Waymo pulls driverless taxis from freeways across the US after California ban",
+    "link": "https://www.theguardian.com/technology/2026/nov/18/waymo-pulls-driverless-taxis-us-freeways",
+    "outlet": "The Guardian",
+    "author": "Associated Press",
+    "published": "2026-11-18T22:05:49+00:00",
+    "first_seen": "2026-11-18T23:04:17.610269+00:00",
+    "excerpt": "The autonomous driving company suspended driverless taxi rides on US highways days after California banned the vehicles on its own freeways Waymo has stopped offering driverless taxi rides on freeways across the US indefinitely. The Alphabet subsidiary pulled its vehicles from highways nationwide…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://foreignpolicy.com/2026/11/18/congo-ebola-outbreak-budnibugyo-constitution-conflict-m23",
+    "title": "Congo’s Escalating Ebola Crisis",
+    "link": "https://foreignpolicy.com/2026/11/18/congo-ebola-outbreak-budnibugyo-constitution-conflict-m23/",
+    "outlet": "Foreign Policy",
+    "author": "Nosmot Gbadamosi",
+    "published": "2026-11-18T22:03:32+00:00",
+    "first_seen": "2026-11-18T23:04:17.610269+00:00",
+    "excerpt": "Six months in, the “out of control” outbreak shows no sign of slowing down.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://foreignpolicy.com/2026/11/18/china-xi-apec-summit-putin-tariffs-trump-hug-trilateral-talks",
+    "title": "Xi Plays the Field at APEC Summit",
+    "link": "https://foreignpolicy.com/2026/11/18/china-xi-apec-summit-putin-tariffs-trump-hug-trilateral-talks/",
+    "outlet": "Foreign Policy",
+    "author": "Alexandra Sharp",
+    "published": "2026-11-18T22:03:08+00:00",
+    "first_seen": "2026-11-18T23:04:17.610269+00:00",
+    "excerpt": "One minute, the Chinese leader is criticizing U.S. trade policy. The next, he’s hugging Trump.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://foreignpolicy.com/2026/11/18/microsoft-outage-faa-apple-nsa-tech-banks-cause-ai-explainer",
     "title": "The U.S. Tech Outage Wave, Explained",
     "link": "https://foreignpolicy.com/2026/11/18/microsoft-outage-faa-apple-nsa-tech-banks-cause-ai-explainer/",
@@ -8,6 +92,18 @@
     "published": "2026-11-18T21:55:37+00:00",
     "first_seen": "2026-11-18T22:02:34.782791+00:00",
     "excerpt": "Experts say AI likely played a role but not in the way you might think.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/18/iraq-sentences-six-french-nationals-to-life-in-prison-for-joining-isil?traffic_source=rss",
+    "title": "Iraq sentences six French nationals to life in prison for joining ISIL",
+    "link": "https://www.aljazeera.com/news/2026/11/18/iraq-sentences-six-french-nationals-to-life-in-prison-for-joining-isil?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-18T21:53:17+00:00",
+    "first_seen": "2026-11-18T23:04:17.610269+00:00",
+    "excerpt": "Trials began in September for 47 French citizens who were transferred from Syria last year.",
     "tags": [],
     "also_reported_by": []
   },
