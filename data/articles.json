@@ -1,5 +1,53 @@
 [
   {
+    "id": "https://bbc.co.uk/news/articles/crgj35ldz2zxo?at_medium=RSS&at_campaign=rss",
+    "title": "Judge finds Thomas Markle mentally fit to stand trial on child abuse charges",
+    "link": "https://www.bbc.co.uk/news/articles/crgj35ldz2zxo?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-19T22:48:22+00:00",
+    "first_seen": "2026-11-19T22:59:55.967900+00:00",
+    "excerpt": "Markle, who has denied possessing images of child sex abuse was deemed competent after an evaluation by a court-appointed psychiatrist.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/us-news/2026/nov/19/thomas-markle-mentally-competent",
+    "title": "Thomas Markle, Meghan’s father, is competent to face child sex abuse images case",
+    "link": "https://www.theguardian.com/us-news/2026/nov/19/thomas-markle-mentally-competent",
+    "outlet": "The Guardian",
+    "author": "By Associated Press",
+    "published": "2026-11-19T22:05:18+00:00",
+    "first_seen": "2026-11-19T22:59:55.967900+00:00",
+    "excerpt": "Judge in Florida says an expert has determined the 82-year-old estranged father of the Duchess of Sussex is mentally competent to face charges An expert has determined that Thomas Markle, the 82-year-old estranged father of the Duchess of Sussex, is mentally competent to face charges of keeping…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/economy/2026/11/19/us-signed-off-on-sales-of-nearly-900000-ai-chips-to-china-in-six-months?traffic_source=rss",
+    "title": "US signed off on sales of nearly 900,000 AI chips to China in six months",
+    "link": "https://www.aljazeera.com/economy/2026/11/19/us-signed-off-on-sales-of-nearly-900000-ai-chips-to-china-in-six-months?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-19T21:58:27+00:00",
+    "first_seen": "2026-11-19T22:59:55.967900+00:00",
+    "excerpt": "US House committee releases chip export data amid scrutiny of former Nvidia CEO's alleged links to a Chinese spy.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/us-news/2026/nov/19/lamonica-mciver-ice-delaney-hall",
+    "title": "Appeals court rejects Democrat LaMonica McIver’s bid to toss charges over ICE protest",
+    "link": "https://www.theguardian.com/us-news/2026/nov/19/lamonica-mciver-ice-delaney-hall",
+    "outlet": "The Guardian",
+    "author": "José Olivares",
+    "published": "2026-11-19T21:57:39+00:00",
+    "first_seen": "2026-11-19T22:59:55.967900+00:00",
+    "excerpt": "New Jersey congresswoman, charged with interfering with immigration arrest, set to face trial over May 2025 incident An appeals court decided on Thursday that Democratic New Jersey representative LaMonica McIver will continue to face charges related to a skirmish outside an immigration detention…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://theguardian.com/technology/2026/nov/19/anthropic-ipo-protests",
     "title": "Protesters rally against Anthropic in New York and San Francisco after $2tn stock market debut",
     "link": "https://www.theguardian.com/technology/2026/nov/19/anthropic-ipo-protests",
