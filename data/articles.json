@@ -1,5 +1,89 @@
 [
   {
+    "id": "https://bbc.co.uk/news/articles/cx1l0pm7l9jmo?at_medium=RSS&at_campaign=rss",
+    "title": "Trump posthumously pardons US baseball legend Pete Rose",
+    "link": "https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-19T23:51:50+00:00",
+    "first_seen": "2026-11-19T23:56:14.835936+00:00",
+    "excerpt": "Rose, who died in 2024, was given a lifetime ban from the sport for betting on games but was reinstated last year.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://bbc.co.uk/news/articles/cw1m4ym7ez2eo?at_medium=RSS&at_campaign=rss",
+    "title": "Cumin-laced fizzy sodas are giving cola giants a tough fight in India",
+    "link": "https://www.bbc.co.uk/news/articles/cw1m4ym7ez2eo?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-19T23:29:00+00:00",
+    "first_seen": "2026-11-19T23:56:14.835936+00:00",
+    "excerpt": "Cumin-laced sodas are capturing a bigger market share in India as demand for homegrown flavours goes up.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/us-news/2026/nov/19/record-executions-florida-texas",
+    "title": "Florida to carry out record-breaking 20th execution of the year",
+    "link": "https://www.theguardian.com/us-news/2026/nov/19/record-executions-florida-texas",
+    "outlet": "The Guardian",
+    "author": "Associated Press",
+    "published": "2026-11-19T23:15:42+00:00",
+    "first_seen": "2026-11-19T23:56:14.835936+00:00",
+    "excerpt": "State to execute man convicted of two counts of first-degree murder while Texas also plans to put a man to death Florida is set Thursday to carry out a record-breaking 20th execution of the year on a man convicted of killing a pregnant woman and her husband during a home invasion, while Texas plans…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/19/six-killed-in-suspected-gas-explosion-at-georgia-apartment-building?traffic_source=rss",
+    "title": "Six killed in suspected gas explosion at Georgia apartment building",
+    "link": "https://www.aljazeera.com/news/2026/11/19/six-killed-in-suspected-gas-explosion-at-georgia-apartment-building?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-19T23:09:48+00:00",
+    "first_seen": "2026-11-19T23:56:14.835936+00:00",
+    "excerpt": "Georgian Interior Minister Sulkhan Tamazashvili said rescuers had recovered six bodies from the wreckage.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
+    "title": "California targets Nvidia in China AI chip probe",
+    "link": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-19T23:04:30+00:00",
+    "first_seen": "2026-11-19T23:56:14.835936+00:00",
+    "excerpt": "The probe by California, where the AI chipmaker has its global headquarters, follows former CEO Jensen Huang's departure.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/video/newsfeed/2026/11/19/aje-onl-nf_mosque-torched-in-israel-sparks-political-backlash-191126?traffic_source=rss",
+    "title": "Mosque torched in Israel sparks political backlash against Netanyahu",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/aje-onl-nf_mosque-torched-in-israel-sparks-political-backlash-191126?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-19T22:58:48+00:00",
+    "first_seen": "2026-11-19T23:56:14.835936+00:00",
+    "excerpt": "A mosque in al-Dahi, a Palestinian Arab village in northern Israel, was set on fire in a suspected arson attack.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://bbc.co.uk/news/videos/cq39gvj9y7xpo?at_medium=RSS&at_campaign=rss",
+    "title": "From premature baby to social media star - Famed hippo Fiona dies",
+    "link": "https://www.bbc.co.uk/news/videos/cq39gvj9y7xpo?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-19T22:54:03+00:00",
+    "first_seen": "2026-11-19T23:56:14.835936+00:00",
+    "excerpt": "The beloved hippopotamus died days after swallowing a knitted hat that accidentally got into her enclosure at the Cincinnati Zoo.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://bbc.co.uk/news/articles/crgj35ldz2zxo?at_medium=RSS&at_campaign=rss",
     "title": "Judge finds Thomas Markle mentally fit to stand trial on child abuse charges",
     "link": "https://www.bbc.co.uk/news/articles/crgj35ldz2zxo?at_medium=RSS&at_campaign=rss",
@@ -8,6 +92,18 @@
     "published": "2026-11-19T22:48:22+00:00",
     "first_seen": "2026-11-19T22:59:55.967900+00:00",
     "excerpt": "Markle, who has denied possessing images of child sex abuse was deemed competent after an evaluation by a court-appointed psychiatrist.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://foreignpolicy.com/2026/11/19/us-iran-strikes-bahrain-kuwait-trump",
+    "title": "The U.S. and Iran Are Back to Trading Strikes",
+    "link": "https://foreignpolicy.com/2026/11/19/us-iran-strikes-bahrain-kuwait-trump/",
+    "outlet": "Foreign Policy",
+    "author": "John Haltiwanger and Rishi Iyengar",
+    "published": "2026-11-19T22:39:31+00:00",
+    "first_seen": "2026-11-19T23:56:14.835936+00:00",
+    "excerpt": "A roughly two-month lull in the fighting is seemingly over.",
     "tags": [],
     "also_reported_by": []
   },
