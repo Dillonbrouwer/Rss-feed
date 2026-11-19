@@ -1,5 +1,77 @@
 [
   {
+    "id": "https://theguardian.com/media/2026/nov/19/shame-old-aussies-to-fresh-chaos-what-the-uk-papers-say-about-bancrofts-explosive-ball-tampering-claims-ntwnfb",
+    "title": "‘Shame old Aussies’ to ‘fresh chaos’: what the UK papers say about Bancroft’s explosive ball tampering claims",
+    "link": "https://www.theguardian.com/media/2026/nov/19/shame-old-aussies-to-fresh-chaos-what-the-uk-papers-say-about-bancrofts-explosive-ball-tampering-claims-ntwnfb",
+    "outlet": "The Guardian",
+    "author": "Cait Kelly",
+    "published": "2026-11-19T04:06:19+00:00",
+    "first_seen": "2026-11-19T04:12:40.200128+00:00",
+    "excerpt": "Sports sections of British newspapers deliver their take on the unfolding Cricket Australia sandpaper saga The sports sections of the UK’s major mastheads are relishing the never-ending crisis engulfing Australian cricketing, after a key player in the ball tampering controversy , Cameron Bancroft,…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/global-development/2026/nov/19/women-girls-rights-rape-sexual-violence-africa-marriage-unfpa",
+    "title": "One in four women globally unable to refuse sex within marriage, says UN",
+    "link": "https://www.theguardian.com/global-development/2026/nov/19/women-girls-rights-rape-sexual-violence-africa-marriage-unfpa",
+    "outlet": "The Guardian",
+    "author": "Sarah Johnson",
+    "published": "2026-11-19T04:00:16+00:00",
+    "first_seen": "2026-11-19T04:12:40.200128+00:00",
+    "excerpt": "Almost half of women in west and central Africa cannot withhold consent, with girls worst affected, UNFPA finds One in four women around the world has no power of consent if their husband or partner demands sex, according to a UN report. In west and central Africa, almost half of women (45%) are…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/19/miami-court-convicts-us-haitian-pastor-over-2021-assassination-of-president?traffic_source=rss",
+    "title": "Miami court convicts US-Haitian pastor over 2021 assassination of president",
+    "link": "https://www.aljazeera.com/news/2026/11/19/miami-court-convicts-us-haitian-pastor-over-2021-assassination-of-president?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-19T03:58:10+00:00",
+    "first_seen": "2026-11-19T04:12:40.200128+00:00",
+    "excerpt": "Prosecutors accused Christian Emmanuel Sanon of seeking to replace then-Haitian President Moise.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/liveblog/2026/11/19/apec-live-trump-xi-and-putin-to-meet-in-historic-three-way-china-summit?traffic_source=rss",
+    "title": "APEC Live: Trump, Xi and Putin to meet in historic three-way China summit",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/11/19/apec-live-trump-xi-and-putin-to-meet-in-historic-three-way-china-summit?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-19T03:30:26+00:00",
+    "first_seen": "2026-11-19T04:12:40.200128+00:00",
+    "excerpt": "The leaders of the US, China and Russia are due to hold highly anticipated talks in Shenzhen.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/australia-news/2026/nov/19/cfmeu-big-build-inquiry-labour-hire-fake-invoices-sports-clubs-ntwnfb",
+    "title": "‘I’ll take the rap for that’: labour hire boss asked for fake invoices for sports club sponsorships, Big Build royal commission hears",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/19/cfmeu-big-build-inquiry-labour-hire-fake-invoices-sports-clubs-ntwnfb",
+    "outlet": "The Guardian",
+    "author": "Australian Associated Press",
+    "published": "2026-11-19T03:01:40+00:00",
+    "first_seen": "2026-11-19T04:12:40.200128+00:00",
+    "excerpt": "Invoices, including for junior football and netball sponsorships totalling thousands of dollars, were part of ‘distorted’ payments to CFMEU official, inquiry told Get our breaking news email , free app or daily news podcast A labour hire company distorted payments, including to a former top CFMEU…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/video/newsfeed/2026/11/19/chinas-xi-greets-putin-and-trump-at-apec-before-historic-summit?traffic_source=rss",
+    "title": "China’s Xi greets Putin and Trump at APEC before historic summit",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/chinas-xi-greets-putin-and-trump-at-apec-before-historic-summit?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-19T03:01:27+00:00",
+    "first_seen": "2026-11-19T04:12:40.200128+00:00",
+    "excerpt": "Chinese President Xi Jinping greeted Donald Trump and Vladimir Putin at APEC summit.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
     "title": "Elon Musk says record spending on US midterms was 'pretty foolish'",
     "link": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
@@ -8,6 +80,30 @@
     "published": "2026-11-19T02:59:06+00:00",
     "first_seen": "2026-11-19T03:04:20.910397+00:00",
     "excerpt": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/video/newsfeed/2026/11/19/googles-driverless-car-hits-a-roadblock?traffic_source=rss",
+    "title": "Google’s driverless car hits a roadblock",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/googles-driverless-car-hits-a-roadblock?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-19T02:57:56+00:00",
+    "first_seen": "2026-11-19T04:12:40.200128+00:00",
+    "excerpt": "Waymo faces fresh scrutiny after a driverless car stalled in San Francisco floodwaters amid other traffic incidents.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/19/what-do-trump-putin-and-xi-want-from-their-shenzhen-meeting?traffic_source=rss",
+    "title": "What do Trump, Putin and Xi want from their Shenzhen meeting?",
+    "link": "https://www.aljazeera.com/news/2026/11/19/what-do-trump-putin-and-xi-want-from-their-shenzhen-meeting?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-19T02:57:19+00:00",
+    "first_seen": "2026-11-19T04:12:40.200128+00:00",
+    "excerpt": "The US, Chinese and Russian leaders are to hold their first three-way talks on the sidelines of the APEC summit.",
     "tags": [],
     "also_reported_by": []
   },
