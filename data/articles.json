@@ -1,5 +1,65 @@
 [
   {
+    "id": "https://bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
+    "title": "Elon Musk says record spending on US midterms was 'pretty foolish'",
+    "link": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-19T02:59:06+00:00",
+    "first_seen": "2026-11-19T03:04:20.910397+00:00",
+    "excerpt": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/australia-news/2026/nov/19/one-nation-general-manager-takes-leave-amid-sidelining-speculation-politics-ntwnfb",
+    "title": "One Nation’s general manager takes leave amid speculation he will be sidelined after leaks and vetting scandals",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/19/one-nation-general-manager-takes-leave-amid-sidelining-speculation-politics-ntwnfb",
+    "outlet": "The Guardian",
+    "author": "Sarah Martin and Henry Belot",
+    "published": "2026-11-19T02:36:37+00:00",
+    "first_seen": "2026-11-19T03:04:20.910397+00:00",
+    "excerpt": "Exclusive: Kelvin Morton was hired in February in appointment heralded as turning point for professionalisation of party Get our daily political email , free app or daily news podcast One Nation’s general manager, Kelvin Morton, has taken leave amid speculation that he will be sidelined from his…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/19/icj-to-rule-on-rohingya-genocide-case-against-myanmar?traffic_source=rss",
+    "title": "ICJ to rule on Rohingya genocide case against Myanmar",
+    "link": "https://www.aljazeera.com/news/2026/11/19/icj-to-rule-on-rohingya-genocide-case-against-myanmar?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-19T02:10:43+00:00",
+    "first_seen": "2026-11-19T03:04:20.910397+00:00",
+    "excerpt": "The Gambia accuses Myanmar of genocide following a 2017 military crackdown that displaced at least 730,000 Rohingya.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/video/newsfeed/2026/11/19/hegseth-unveils-new-us-venezuela-military-deal?traffic_source=rss",
+    "title": "Hegseth unveils new US-Venezuela military deal",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/hegseth-unveils-new-us-venezuela-military-deal?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-19T01:48:46+00:00",
+    "first_seen": "2026-11-19T03:04:20.910397+00:00",
+    "excerpt": "Pete Hegseth has unveiled a new military deal with Venezuela in his first visit since the US capture of Nicolas Maduro.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/business/2026/nov/19/general-pants-co-enters-voluntary-administration-jobs-at-risk",
+    "title": "General Pants Co enters voluntary administration, putting hundreds of jobs at risk",
+    "link": "https://www.theguardian.com/business/2026/nov/19/general-pants-co-enters-voluntary-administration-jobs-at-risk",
+    "outlet": "The Guardian",
+    "author": "Catie McLeod and Jonathan Barrett",
+    "published": "2026-11-19T01:46:21+00:00",
+    "first_seen": "2026-11-19T03:04:20.910397+00:00",
+    "excerpt": "Australian fashion chain becomes latest retailer in trouble after David Jones, Cue and Veronika Maine Get our breaking news email , free app or daily news podcast Youth fashion chain General Pants Co has become the latest major retailer to slide into voluntary administration, putting nearly 500…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://aljazeera.com/news/2026/11/19/why-a-trio-of-experts-alleges-jeffrey-epstein-did-not-die-by-suicide?traffic_source=rss",
     "title": "Why a trio of experts alleges Jeffrey Epstein did not die by suicide",
     "link": "https://www.aljazeera.com/news/2026/11/19/why-a-trio-of-experts-alleges-jeffrey-epstein-did-not-die-by-suicide?traffic_source=rss",
@@ -408,6 +468,30 @@
     "also_reported_by": []
   },
   {
+    "id": "https://npr.org/2026/11/18/nx-s1-6041708/the-law-releasing-the-epstein-files-passed-one-year-ago-what-do-his-victims-say",
+    "title": "The law releasing the Epstein files passed one year ago. What do his victims say?",
+    "link": "https://www.npr.org/2026/11/18/nx-s1-6041708/the-law-releasing-the-epstein-files-passed-one-year-ago-what-do-his-victims-say",
+    "outlet": "NPR",
+    "author": "Ava Berger",
+    "published": "2026-11-18T22:27:43+00:00",
+    "first_seen": "2026-11-19T03:04:20.910397+00:00",
+    "excerpt": "It's been a year since the House passed the Epstein Files Transparency Act, forcing the Justice Department to release millions of files connected to the convicted sex offender. His victims speak out.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://npr.org/2026/11/18/nx-s1-6044275/why-the-nvidia-scandal-is-a-national-security-issue",
+    "title": "Why the Nvidia scandal is a national security issue",
+    "link": "https://www.npr.org/2026/11/18/nx-s1-6044275/why-the-nvidia-scandal-is-a-national-security-issue",
+    "outlet": "NPR",
+    "author": "Shannon Bond",
+    "published": "2026-11-18T22:12:56+00:00",
+    "first_seen": "2026-11-19T03:04:20.910397+00:00",
+    "excerpt": "The Nvidia scandal has spilled over into the Trump administration, which is now under intense scrutiny for how it allowed America's top AI chips to end up in China's hands.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://theguardian.com/technology/2026/nov/18/waymo-pulls-driverless-taxis-us-freeways",
     "title": "Waymo pulls driverless taxis from freeways across the US after California ban",
     "link": "https://www.theguardian.com/technology/2026/nov/18/waymo-pulls-driverless-taxis-us-freeways",
@@ -444,6 +528,30 @@
     "also_reported_by": []
   },
   {
+    "id": "https://npr.org/2026/11/18/nx-s1-6043185/democrats-nominate-jeffries-for-speaker-prep-investigations-into-trumps-orbit",
+    "title": "Democrats nominate Jeffries for speaker, prep investigations into Trump's orbit",
+    "link": "https://www.npr.org/2026/11/18/nx-s1-6043185/democrats-nominate-jeffries-for-speaker-prep-investigations-into-trumps-orbit",
+    "outlet": "NPR",
+    "author": "Barbara Sprunt",
+    "published": "2026-11-18T22:01:19+00:00",
+    "first_seen": "2026-11-19T03:04:20.910397+00:00",
+    "excerpt": "Democrats gave the official nod to Hakeem Jeffries to be the next speaker of the House. Meanwhile, Democrats are ramping up their plans to investigate the Trump administration come January.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://npr.org/2026/11/18/nx-s1-6022034/flood-nepal-survival-climate-change",
+    "title": "After Nepal's epic flood, they're restoring their community ... and their lives",
+    "link": "https://www.npr.org/2026/11/18/nx-s1-6022034/flood-nepal-survival-climate-change",
+    "outlet": "NPR",
+    "author": "Jonathan Lambert",
+    "published": "2026-11-18T22:01:17+00:00",
+    "first_seen": "2026-11-19T03:04:20.910397+00:00",
+    "excerpt": "As the emergency response to the flood ends, aid workers turn to the hard work of rebuilding communities that lost everything. Many of those workers lost everything, too.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://foreignpolicy.com/2026/11/18/microsoft-outage-faa-apple-nsa-tech-banks-cause-ai-explainer",
     "title": "The U.S. Tech Outage Wave, Explained",
     "link": "https://foreignpolicy.com/2026/11/18/microsoft-outage-faa-apple-nsa-tech-banks-cause-ai-explainer/",
@@ -464,6 +572,18 @@
     "published": "2026-11-18T21:53:17+00:00",
     "first_seen": "2026-11-18T23:04:17.610269+00:00",
     "excerpt": "Trials began in September for 47 French citizens who were transferred from Syria last year.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://npr.org/2026/11/18/nx-s1-6043103/democratic-black-women-take-over-almost-all-state-agencies-in-georgia-soon",
+    "title": "Democratic Black women take over almost all state agencies in Georgia soon",
+    "link": "https://www.npr.org/2026/11/18/nx-s1-6043103/democratic-black-women-take-over-almost-all-state-agencies-in-georgia-soon",
+    "outlet": "NPR",
+    "author": "DorMiya Vance",
+    "published": "2026-11-18T21:51:33+00:00",
+    "first_seen": "2026-11-19T03:04:20.910397+00:00",
+    "excerpt": "In January, most of Georgia's state agencies will be headed by Black women who were all elected in the 2026 midterms.",
     "tags": [],
     "also_reported_by": []
   },
