@@ -12,6 +12,78 @@
     "also_reported_by": []
   },
   {
+    "id": "https://bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
+    "title": "French police officers sentenced for beating of music producer Michel Zecler",
+    "link": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-20T22:37:09+00:00",
+    "first_seen": "2026-11-20T22:59:45.955996+00:00",
+    "excerpt": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/world/2026/nov/20/french-police-officers-found-guilty-of-racist-assault-on-black-music-producer",
+    "title": "French police officers found guilty of racist assault on black music producer",
+    "link": "https://www.theguardian.com/world/2026/nov/20/french-police-officers-found-guilty-of-racist-assault-on-black-music-producer",
+    "outlet": "The Guardian",
+    "author": "Angelique Chrisafis in Paris",
+    "published": "2026-11-20T22:23:53+00:00",
+    "first_seen": "2026-11-20T22:59:45.955996+00:00",
+    "excerpt": "Beating of Michel Zecler in 2020 sparked outrage over police brutality after it was caught on security cameras Three French police officers who beat a black music producer they said was not wearing a face mask during the Covid pandemic have been found guilty of intentional, racist violence. The…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/economy/2026/11/20/us-lawmakers-push-for-tougher-ai-chip-rules-amid-china-export-crackdown?traffic_source=rss",
+    "title": "US lawmakers push for tougher AI chip rules amid China export crackdown",
+    "link": "https://www.aljazeera.com/economy/2026/11/20/us-lawmakers-push-for-tougher-ai-chip-rules-amid-china-export-crackdown?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-20T22:15:07+00:00",
+    "first_seen": "2026-11-20T22:59:45.955996+00:00",
+    "excerpt": "Washington has new rules restricting remote access to advanced US AI chips, but lawmakers want more.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://npr.org/2026/11/20/g-s1-154797/nasdaq-sp500-stock-market-ai-sink-negative",
+    "title": "S&P 500 sinks 3.7% and the Nasdaq composite goes negative for the year",
+    "link": "https://www.npr.org/2026/11/20/g-s1-154797/nasdaq-sp500-stock-market-ai-sink-negative",
+    "outlet": "NPR",
+    "author": "The Associated Press",
+    "published": "2026-11-20T22:11:29+00:00",
+    "first_seen": "2026-11-20T22:59:45.955996+00:00",
+    "excerpt": "AI stocks have hefty market values and have a much bigger impact on the market's direction. They were responsible for Wall Street's big gains this year and are now behind the big slide for the market.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://foreignpolicy.com/2026/11/20/brexit-reset-deal-eu-uk-summit-burnham-trade-economy",
+    "title": "EU, U.K. Agree to a Brexit Reset",
+    "link": "https://foreignpolicy.com/2026/11/20/brexit-reset-deal-eu-uk-summit-burnham-trade-economy/",
+    "outlet": "Foreign Policy",
+    "author": "Alexandra Sharp",
+    "published": "2026-11-20T22:07:43+00:00",
+    "first_seen": "2026-11-20T22:59:45.955996+00:00",
+    "excerpt": "But Burnham faces some opposition back home.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
+    "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+    "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-20T21:57:07+00:00",
+    "first_seen": "2026-11-20T22:59:45.955996+00:00",
+    "excerpt": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house",
     "title": "Trump threatens ‘tremendous penalties’ on US tech firms that build datacenters abroad",
     "link": "https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house",
