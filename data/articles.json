@@ -1,5 +1,53 @@
 [
   {
+    "id": "https://theguardian.com/us-news/2026/nov/21/usda-fbi-outages-cyber-attack",
+    "title": "USDA, FBI breached by hackers amid spate of tech outages – reports",
+    "link": "https://www.theguardian.com/us-news/2026/nov/21/usda-fbi-outages-cyber-attack",
+    "outlet": "The Guardian",
+    "author": "Agence France-Presse and Guardian staff",
+    "published": "2026-11-21T14:09:02+00:00",
+    "first_seen": "2026-11-21T14:13:42.849304+00:00",
+    "excerpt": "Latest intrusions targeted farmer-payment system at the USDA and the FBI’s National Crime Information Center Hackers breached the US Department of Agriculture (USDA) and the FBI , national media reported on Friday, amid deepening concerns over a spate of tech outages at key American institutions.…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/video/newsfeed/2026/11/21/jerusalem-daily-gaza-faces-deadly-strikes-and-health-crisis?traffic_source=rss",
+    "title": "Jerusalem Daily: Gaza faces deadly strikes and health crisis",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/jerusalem-daily-gaza-faces-deadly-strikes-and-health-crisis?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-21T14:06:06+00:00",
+    "first_seen": "2026-11-21T14:13:42.849304+00:00",
+    "excerpt": "Jerusalem Daily: Gaza faces deadly strikes and health crisis",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://npr.org/2026/11/21/nx-s1-6049625/palisades-fire-conviction",
+    "title": "Federal jury convicts man of starting the deadly 2025 Palisades Fire in Los Angeles",
+    "link": "https://www.npr.org/2026/11/21/nx-s1-6049625/palisades-fire-conviction",
+    "outlet": "NPR",
+    "author": "The Associated Press",
+    "published": "2026-11-21T13:58:33+00:00",
+    "first_seen": "2026-11-21T14:13:42.849304+00:00",
+    "excerpt": "Prosecutors argued the defendant, 30-year-old Jonathan Rinderknecht, had been \"mad at everything\" in the days leading up to the January 2025 fire, which killed 12 people.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/sports/2026/11/21/chaudhary-helps-australia-beat-england-in-t20-shake-off-of-scandal-hit-run?traffic_source=rss",
+    "title": "Chaudhary helps Australia beat England in T20 shake-off of scandal-hit run",
+    "link": "https://www.aljazeera.com/sports/2026/11/21/chaudhary-helps-australia-beat-england-in-t20-shake-off-of-scandal-hit-run?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-21T13:08:59+00:00",
+    "first_seen": "2026-11-21T14:13:42.849304+00:00",
+    "excerpt": "Australia beat England by three wickets with only one ball to spare as Nikhil Chaudhary's 66 leads charge in Melbourne.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://npr.org/2026/11/21/nx-s1-6041585/perspective-defining-human",
     "title": "Perspective: Defining 'human'",
     "link": "https://www.npr.org/2026/11/21/nx-s1-6041585/perspective-defining-human",
