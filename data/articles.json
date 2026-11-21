@@ -1,5 +1,65 @@
 [
   {
+    "id": "https://aljazeera.com/video/newsfeed/2026/11/21/french-presidential-candidate-blames-media-for-racist-attack?traffic_source=rss",
+    "title": "French presidential candidate blames media for racist attack",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/french-presidential-candidate-blames-media-for-racist-attack?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-21T15:46:18+00:00",
+    "first_seen": "2026-11-21T15:58:09.284027+00:00",
+    "excerpt": "French presidential candidate blames media for racist attack",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/us-news/2026/nov/21/virginia-child-dies-measles",
+    "title": "Virginia child dies in state’s first measles-associated death of 2026",
+    "link": "https://www.theguardian.com/us-news/2026/nov/21/virginia-child-dies-measles",
+    "outlet": "The Guardian",
+    "author": "Reuters",
+    "published": "2026-11-21T15:30:07+00:00",
+    "first_seen": "2026-11-21T15:58:09.284027+00:00",
+    "excerpt": "Death adds to national measles outbreak that recently cost the US its measles elimination status after 26 years Virginia reported its first measles-associated death of 2026 ⁠on Friday, involving a child who tested positive for the infectious disease, the state’s health department said. The…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/sports/2026/11/21/diallo-present-as-africa-football-boss-motsepe-reiterates-infantino-support?traffic_source=rss",
+    "title": "Diallo present as Africa’s Motsepe reiterates support for FIFA’s Infantino",
+    "link": "https://www.aljazeera.com/sports/2026/11/21/diallo-present-as-africa-football-boss-motsepe-reiterates-infantino-support?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-21T15:20:43+00:00",
+    "first_seen": "2026-11-21T15:58:09.284027+00:00",
+    "excerpt": "Africa's CAF join South America's CONMEBOL in giving unanimous support of FIFA President Gianni Infantino's re-election.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping?traffic_source=rss",
+    "title": "Tankers hit in Strait of Hormuz as Iran tightens grip on shipping",
+    "link": "https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-21T15:01:18+00:00",
+    "first_seen": "2026-11-21T15:58:09.284027+00:00",
+    "excerpt": "British maritime agency reports two incidents near Oman, while Iran says a tanker caught fire due to naval mine.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/tv-and-radio/2026/nov/21/snl-sister-caregiving",
+    "title": "SNL’s skit Sister captures the quiet agony of caregiving for women: ‘I’ve never felt seen like that’",
+    "link": "https://www.theguardian.com/tv-and-radio/2026/nov/21/snl-sister-caregiving",
+    "outlet": "The Guardian",
+    "author": "Sara Braun",
+    "published": "2026-11-21T15:00:01+00:00",
+    "first_seen": "2026-11-21T15:58:09.284027+00:00",
+    "excerpt": "The viral satirization of the caregiving burden left to women and daughters hit home for many viewers The Saturday Night Live sketch , titled Sister quickly went viral this week for its satirization of the burden that women and daughters face to take care of aging family members. In the parody…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://theguardian.com/us-news/2026/nov/21/new-york-judge-ice-shooting-immigration",
     "title": "Federal judge denies request to release man shot by immigration agents in New York",
     "link": "https://www.theguardian.com/us-news/2026/nov/21/new-york-judge-ice-shooting-immigration",
@@ -128,6 +188,18 @@
     "published": "2026-11-21T13:58:33+00:00",
     "first_seen": "2026-11-21T14:13:42.849304+00:00",
     "excerpt": "Prosecutors argued the defendant, 30-year-old Jonathan Rinderknecht, had been \"mad at everything\" in the days leading up to the January 2025 fire, which killed 12 people.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+    "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+    "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-21T13:15:21+00:00",
+    "first_seen": "2026-11-21T15:58:09.284027+00:00",
+    "excerpt": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
     "tags": [],
     "also_reported_by": []
   },
