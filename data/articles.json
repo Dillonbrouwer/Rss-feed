@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://npr.org/2026/11/21/g-s1-154966/trump-contractors-congress",
+    "title": "Trump orders federal contractors to check with White House before responding to Congress",
+    "link": "https://www.npr.org/2026/11/21/g-s1-154966/trump-contractors-congress",
+    "outlet": "NPR",
+    "author": "The Associated Press",
+    "published": "2026-11-21T22:40:36+00:00",
+    "first_seen": "2026-11-21T22:54:30.884223+00:00",
+    "excerpt": "President Trump is directing federal contractors to consult the White House about inquiries from Congress and to withhold any communications that his administration considers privileged.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/video/newsfeed/2026/11/21/bahrain-says-iranian-attack-hits-industrial-facility?traffic_source=rss",
+    "title": "Bahrain says Iranian attack hits industrial facility",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/bahrain-says-iranian-attack-hits-industrial-facility?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-21T22:02:03+00:00",
+    "first_seen": "2026-11-21T22:54:30.884223+00:00",
+    "excerpt": "Bahrain says Iranian attack hits industrial facility",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
+    "title": "Lock of former US President George Washington's hair sells for $4,000",
+    "link": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-21T22:01:19+00:00",
+    "first_seen": "2026-11-21T22:54:30.884223+00:00",
+    "excerpt": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss",
     "title": "Bahrain says Iranian attack causes fire at industrial facility",
     "link": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss",
