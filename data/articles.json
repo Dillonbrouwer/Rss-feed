@@ -1,5 +1,29 @@
 [
   {
+    "id": "https://aljazeera.com/sports/2026/11/22/kansas-city-current-nwsl-2026-final-washington-spirit-womens-soccer?traffic_source=rss",
+    "title": "Kansas City Current defeat Washington Spirit 2-1 to lift first NWSL title",
+    "link": "https://www.aljazeera.com/sports/2026/11/22/kansas-city-current-nwsl-2026-final-washington-spirit-womens-soccer?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-22T06:40:18+00:00",
+    "first_seen": "2026-11-22T07:27:26.615735+00:00",
+    "excerpt": "Trinity Rodman left in tears after scoring Spirit's only goal as DiBernardo and Debinha give Current a closely fought win.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/opinions/2026/11/22/what-sandpapergate-reveals-about-australian-cricket?traffic_source=rss",
+    "title": "What Sandpapergate reveals about Australian cricket",
+    "link": "https://www.aljazeera.com/opinions/2026/11/22/what-sandpapergate-reveals-about-australian-cricket?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-22T06:32:43+00:00",
+    "first_seen": "2026-11-22T07:27:26.615735+00:00",
+    "excerpt": "A toxic culture of winning at any cost has been hiding behind the myth of ‘mateship’.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
     "title": "Dozens missing after fire at Indonesian factory",
     "link": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
@@ -8,6 +32,42 @@
     "published": "2026-11-22T06:05:00+00:00",
     "first_seen": "2026-11-22T06:09:57.409003+00:00",
     "excerpt": "At least three people were killed and four injured in a fire at a confectionary factory over the weekend.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/world/2026/nov/22/military-ai-event-berlin-kraftwerk-arts-complex",
+    "title": "‘Serious error of judgment’: outrage over military AI event at Berlin arts complex",
+    "link": "https://www.theguardian.com/world/2026/nov/22/military-ai-event-berlin-kraftwerk-arts-complex",
+    "outlet": "The Guardian",
+    "author": "Philip Oltermann European culture editor",
+    "published": "2026-11-22T06:00:21+00:00",
+    "first_seen": "2026-11-22T07:27:26.615735+00:00",
+    "excerpt": "Kraftwerk Berlin, part of same development as techno club Tresor, transformed into ‘war room’ for arms firm event With their cavernous post-industrial venues, teeth-grinding four-by-four beats and bouncers that look like Blade Runner extras, Berlin’s nightclubs trade on a reputation for bleakness.…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/politics/2026/nov/22/labour-mp-leadership-course-rightwing-populism-gary-lubner",
+    "title": "Labour MPs sign up for leadership course to counter rightwing populism",
+    "link": "https://www.theguardian.com/politics/2026/nov/22/labour-mp-leadership-course-rightwing-populism-gary-lubner",
+    "outlet": "The Guardian",
+    "author": "Rowena Mason Whitehall editor",
+    "published": "2026-11-22T06:00:21+00:00",
+    "first_seen": "2026-11-22T07:27:26.615735+00:00",
+    "excerpt": "Course run by former No 10 advisers is funded by Gary Lubner, who has given more than £11m to Labour More than 20 Labour MPs have signed up to a year-long leadership course helping them to counter rightwing populism and deal with hostility, run by two former No 10 advisers and ultimately funded by…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/world/2026/nov/22/europe-elections-supercycle-could-shake-eu-foundations",
+    "title": "Europe is entering a ‘supercycle’ of national elections. Their outcomes could shake the EU’s foundations",
+    "link": "https://www.theguardian.com/world/2026/nov/22/europe-elections-supercycle-could-shake-eu-foundations",
+    "outlet": "The Guardian",
+    "author": "Jon Henley Europe correspondent",
+    "published": "2026-11-22T06:00:18+00:00",
+    "first_seen": "2026-11-22T07:27:26.615735+00:00",
+    "excerpt": "The effects of the continent’s coming polls will be felt far and wide – and could well turn into ‘key tests’ of the bloc’s resilience In late 1998, Tony Blair was prime minister of Britain, Lionel Jospin was prime minister of France, and Gerhard Schröder had just been elected chancellor of Germany.…",
     "tags": [],
     "also_reported_by": []
   },
