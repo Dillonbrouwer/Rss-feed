@@ -1,5 +1,89 @@
 [
   {
+    "id": "https://theguardian.com/politics/2026/nov/22/intimidating-vigilantes-posing-as-far-right-security-on-the-rise-uk-experts-say",
+    "title": "‘Intimidating’ vigilantes posing as far-right security on the rise, UK experts say",
+    "link": "https://www.theguardian.com/politics/2026/nov/22/intimidating-vigilantes-posing-as-far-right-security-on-the-rise-uk-experts-say",
+    "outlet": "The Guardian",
+    "author": "Helena Horton",
+    "published": "2026-11-22T09:49:16+00:00",
+    "first_seen": "2026-11-22T09:59:27.250416+00:00",
+    "excerpt": "Volunteers in black uniforms and body armour increasingly seen with figures such as Tommy Robinson There is a worrying rise in “reckless and intimidating” vigilantes posing as security guards around far-right figures, security experts have said. In recent months, uniformed figures wearing all black…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/politics/live/2026/nov/22/andy-burnham-brexit-theresa-may-michael-gove-latest-news-updates",
+    "title": "Burnham should ‘move on’ from Brexit, says Theresa May, as critics hit out over closer EU ties – UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/nov/22/andy-burnham-brexit-theresa-may-michael-gove-latest-news-updates",
+    "outlet": "The Guardian",
+    "author": "Frances Mao",
+    "published": "2026-11-22T09:39:23+00:00",
+    "first_seen": "2026-11-22T09:59:27.250416+00:00",
+    "excerpt": "Issue dominates Sunday broadcast round following Friday’s deals on trade and youth mobility Theresa May ‘aghast’ at Andy Burnham’s talk about rejoining EU Tory deputy head Alex Burghart has been arguing against the deals on Sky and the BBC this morning. He argues the removal of red tape on food and…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/features/2026/11/22/restored-wells-bring-life-back-to-hebrons-occupied-old-city?traffic_source=rss",
+    "title": "Restored wells bring life back to Hebron’s occupied Old City",
+    "link": "https://www.aljazeera.com/features/2026/11/22/restored-wells-bring-life-back-to-hebrons-occupied-old-city?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-22T09:33:16+00:00",
+    "first_seen": "2026-11-22T09:59:27.250416+00:00",
+    "excerpt": "Hebron's Old City has been under constant siege by Israeli settlers and the military.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/gallery/2026/11/22/photos-people-rally-across-france-over-living-costs-public-services?traffic_source=rss",
+    "title": "Photos: People rally across France over living costs, public services",
+    "link": "https://www.aljazeera.com/gallery/2026/11/22/photos-people-rally-across-france-over-living-costs-public-services?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-22T09:27:48+00:00",
+    "first_seen": "2026-11-22T09:59:27.250416+00:00",
+    "excerpt": "Protests held on sixth weekend as tens of thousands march over inequality and organisers plan more rallies.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
+    "title": "South Korea education minister resigns over exam cheating scandal",
+    "link": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-22T09:20:45+00:00",
+    "first_seen": "2026-11-22T09:59:27.250416+00:00",
+    "excerpt": "Choi Kyo-jin admits last-minute measures to stop AI-assisted cheating during the college entrance exam caused chaos.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/world/2026/nov/22/india-congress-meta-protests-police-hyderabad",
+    "title": "Indian opposition party’s youth wing warns of more Meta protests after police clashes",
+    "link": "https://www.theguardian.com/world/2026/nov/22/india-congress-meta-protests-police-hyderabad",
+    "outlet": "The Guardian",
+    "author": "Reuters in Delhi",
+    "published": "2026-11-22T09:14:27+00:00",
+    "first_seen": "2026-11-22T09:59:27.250416+00:00",
+    "excerpt": "Members of Congress party clashed with police outside tech company’s offices on Friday The youth wing of India’s main opposition Congress party warned of more protests against Meta’s removal of some of its members’ ⁠accounts, ⁠a day after clashing with ​police outside the tech firm’s locals…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/video/newsfeed/2026/11/22/trumps-exit-strategy-may-depend-on-quietly-lifting-iran?traffic_source=rss",
+    "title": "‘Trump’s exit strategy may depend on quietly lifting Iran blockade’",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/trumps-exit-strategy-may-depend-on-quietly-lifting-iran?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-22T09:06:27+00:00",
+    "first_seen": "2026-11-22T09:59:27.250416+00:00",
+    "excerpt": "US President Donald Trump will have to ease the naval blockade on Iran if he wants the war to wind down, says analyst.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://aljazeera.com/sports/2026/11/22/gukesh-vs-sindarov-the-youngest-world-chess-championship-in-history?traffic_source=rss",
     "title": "Gukesh vs Sindarov: The youngest World Chess Championship in history",
     "link": "https://www.aljazeera.com/sports/2026/11/22/gukesh-vs-sindarov-the-youngest-world-chess-championship-in-history?traffic_source=rss",
@@ -68,6 +152,18 @@
     "published": "2026-11-22T07:44:37+00:00",
     "first_seen": "2026-11-22T08:59:45.675556+00:00",
     "excerpt": "Wembanyama was just shy of his career-high score of 52 points, set in a victory over Dallas on November 4.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+    "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+    "link": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-22T07:12:41+00:00",
+    "first_seen": "2026-11-22T09:59:27.250416+00:00",
+    "excerpt": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
     "tags": [],
     "also_reported_by": []
   },
