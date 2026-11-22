@@ -1,5 +1,77 @@
 [
   {
+    "id": "https://npr.org/2026/11/22/nx-s1-6048710/lebanon-israel-army-conflict-homes",
+    "title": "Lebanese villagers return to wrecked homes as the Israeli army pulls back",
+    "link": "https://www.npr.org/2026/11/22/nx-s1-6048710/lebanon-israel-army-conflict-homes",
+    "outlet": "NPR",
+    "author": "Jane Arraf",
+    "published": "2026-11-22T17:44:52+00:00",
+    "first_seen": "2026-11-22T17:54:34.319373+00:00",
+    "excerpt": "In a pilot project in a village in southern Lebanon, Israeli forces have left and the Lebanese army moved it. But villagers who return find their houses wrecked.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://npr.org/2026/11/22/g-s1-154387/books-children-authors-south-africa-literacy",
+    "title": "Meet the young authors! A literacy program inspires kids in South Africa",
+    "link": "https://www.npr.org/2026/11/22/g-s1-154387/books-children-authors-south-africa-literacy",
+    "outlet": "NPR",
+    "author": "Kate Bartlett",
+    "published": "2026-11-22T17:34:20+00:00",
+    "first_seen": "2026-11-22T17:54:34.319373+00:00",
+    "excerpt": "South Africa is working to overcome a children's literacy crisis. In one Johannesburg township, a reading club is instilling a love of books in kids — and inspiring them to become authors.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/society/2026/nov/22/pip-review-overhaul-rather-than-scrapping-benefit-under-25s-timms",
+    "title": "Pip review will call for overhaul rather than scrapping benefit for under-25s",
+    "link": "https://www.theguardian.com/society/2026/nov/22/pip-review-overhaul-rather-than-scrapping-benefit-under-25s-timms",
+    "outlet": "The Guardian",
+    "author": "Peter Walker and Patrick Butler",
+    "published": "2026-11-22T17:32:14+00:00",
+    "first_seen": "2026-11-22T17:54:34.319373+00:00",
+    "excerpt": "Recommendations overseen by Stephen Timms would retain system for all ages, unlike last week’s Milburn review A long-awaited review into the personal independence payment (Pip) system will this week recommend that it is overhauled – a week after another report called for it to be partially…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/22/suspected-drone-strike-hits-russian-vessel-in-libya?traffic_source=rss",
+    "title": "Russian vessel hit by suspected sea drone at Libya’s Benghazi naval base",
+    "link": "https://www.aljazeera.com/news/2026/11/22/suspected-drone-strike-hits-russian-vessel-in-libya?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-22T17:12:48+00:00",
+    "first_seen": "2026-11-22T17:54:34.319373+00:00",
+    "excerpt": "There was no immediate reaction from Russia, and no one has claimed responsibility for the suspected attack.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
+    "title": "Blast on Russian ship in Benghazi a suspected drone attack, say Libyan authorities",
+    "link": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
+    "outlet": "The Guardian",
+    "author": "Dan Sabbagh in Kharkiv, Angelique Chrisafis and agencies",
+    "published": "2026-11-22T16:55:49+00:00",
+    "first_seen": "2026-11-22T17:54:34.319373+00:00",
+    "excerpt": "No one has claimed responsibility for the strike on the vessel, which had docked on its way back to Russia An explosion on a Russian ship docked at the naval base in the Libyan port city of Benghazi was caused by a suspected drone attack, Libya’s eastern-based government has said. There was no…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/video/newsfeed/2026/11/22/israeli-settlers-attack-multiple-palestinian-villages-as-pogroms-surge?traffic_source=rss",
+    "title": "Israeli settlers attack multiple Palestinian villages as pogroms surge",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/israeli-settlers-attack-multiple-palestinian-villages-as-pogroms-surge?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-22T16:50:48+00:00",
+    "first_seen": "2026-11-22T17:54:34.319373+00:00",
+    "excerpt": "Israeli settlers attacked several Palestinian towns and villages in the occupied West Bank on Sunday.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://aljazeera.com/news/2026/11/22/countries-react-after-cop31-climate-talks-end-in-collapse?traffic_source=rss",
     "title": "‘Disappointing’: Delegates react after COP31 climate talks end without deal",
     "link": "https://www.aljazeera.com/news/2026/11/22/countries-react-after-cop31-climate-talks-end-in-collapse?traffic_source=rss",
