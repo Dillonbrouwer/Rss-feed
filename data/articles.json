@@ -1,5 +1,89 @@
 [
   {
+    "id": "https://aljazeera.com/video/newsfeed/2026/11/23/trump-postpones-us-army-plan-to-detonate-toxic-explosives-in-iowa?traffic_source=rss",
+    "title": "Trump postpones US Army plan to detonate toxic explosives in Iowa",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/trump-postpones-us-army-plan-to-detonate-toxic-explosives-in-iowa?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-23T22:54:47+00:00",
+    "first_seen": "2026-11-23T23:06:45.207457+00:00",
+    "excerpt": "President Trump has further postponed the US Army’s planned detonation of nearly five tonnes of lead azide in Iowa.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
+    "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+    "link": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-23T22:45:51+00:00",
+    "first_seen": "2026-11-23T23:06:45.207457+00:00",
+    "excerpt": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/world/2026/nov/23/canada-trump-impersonator-press-dinner",
+    "title": "Butt of the joke: Trump impersonator mocks president at Canada press dinner",
+    "link": "https://www.theguardian.com/world/2026/nov/23/canada-trump-impersonator-press-dinner",
+    "outlet": "The Guardian",
+    "author": "Leyland Cecco in Toronto",
+    "published": "2026-11-23T22:41:48+00:00",
+    "first_seen": "2026-11-23T23:06:45.207457+00:00",
+    "excerpt": "Carney watches on as comedian lampoons US leader and his interest in men’s backsides at correspondents’ event Ottawa Canada’s prime minister, Mark Carney, was joined on stage in Ottawa by a Donald Trump impersonator who mocked the US president to raucous laughter from a crowd of politicians and…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://foreignpolicy.com/2026/11/23/nvidia-jensen-huang-return-us-china-ai-risk",
+    "title": "Nvidia Is Now Too Big to Hold to Account",
+    "link": "https://foreignpolicy.com/2026/11/23/nvidia-jensen-huang-return-us-china-ai-risk/",
+    "outlet": "Foreign Policy",
+    "author": "Howard W. French",
+    "published": "2026-11-23T22:33:40+00:00",
+    "first_seen": "2026-11-23T23:06:45.207457+00:00",
+    "excerpt": "Jensen Huang and the broader AI sector represent an enormous risk for the entire public.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://npr.org/2026/11/23/g-s1-155142/california-democrat-rep-gomez-resigns-following-ethics-report-on-sexual-misconduct-allegations",
+    "title": "California Democrat Rep. Gomez resigns following ethics report on sexual misconduct allegations",
+    "link": "https://www.npr.org/2026/11/23/g-s1-155142/california-democrat-rep-gomez-resigns-following-ethics-report-on-sexual-misconduct-allegations",
+    "outlet": "NPR",
+    "author": "Sam Gringlas",
+    "published": "2026-11-23T22:29:53+00:00",
+    "first_seen": "2026-11-23T23:06:45.207457+00:00",
+    "excerpt": "California Congressman Rep. Jimmy Gomez says he will resign after a House Ethics report concluded Gomez's actions violated House rules by \"making unwelcome sexual advances.\"",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://npr.org/2026/11/23/nx-s1-6045883/they-attended-trumps-controversial-meme-coin-dinner-it-didnt-go-well",
+    "title": "They attended Trump's controversial meme coin dinner. It didn't go well",
+    "link": "https://www.npr.org/2026/11/23/nx-s1-6045883/they-attended-trumps-controversial-meme-coin-dinner-it-didnt-go-well",
+    "outlet": "NPR",
+    "author": "Rafael Nam",
+    "published": "2026-11-23T22:17:59+00:00",
+    "first_seen": "2026-11-23T23:06:45.207457+00:00",
+    "excerpt": "Trump held another meme coin dinner for top holders of his cryptocurrency — an event that has raised intense controversy. Here's an inside account from two guests who attended.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://npr.org/2026/11/23/nx-s1-6045799/how-some-women-in-tech-are-responding-to-jensen-huangs-return-to-nvidia",
+    "title": "Some women in tech have concerns about Huang's return",
+    "link": "https://www.npr.org/2026/11/23/nx-s1-6045799/how-some-women-in-tech-are-responding-to-jensen-huangs-return-to-nvidia",
+    "outlet": "NPR",
+    "author": "Andrea Hsu",
+    "published": "2026-11-23T22:03:57+00:00",
+    "first_seen": "2026-11-23T23:06:45.207457+00:00",
+    "excerpt": "Women who have advocated for DEI in tech say Jensen Huang's return to NVIDIA as CEO sends a message that in Silicon Valley, all that matters is money. s",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://theguardian.com/us-news/2026/nov/23/jimmy-gomez-congress-investigation-sexual-misconduct",
     "title": "Jimmy Gomez to resign after House ethics panel finds evidence of sexual misconduct",
     "link": "https://www.theguardian.com/us-news/2026/nov/23/jimmy-gomez-congress-investigation-sexual-misconduct",
@@ -308,6 +392,18 @@
     "published": "2026-11-23T19:06:14+00:00",
     "first_seen": "2026-11-23T19:23:31.163676+00:00",
     "excerpt": "Trump has put his pocketbook first and U.S. interests last.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://bbc.co.uk/news/videos/cq8r7e35mkzlo?at_medium=RSS&at_campaign=rss",
+    "title": "'Biggest U-turn in economic history': Experts react to Jensen Huang's return to Nvidia",
+    "link": "https://www.bbc.co.uk/news/videos/cq8r7e35mkzlo?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-23T18:43:00+00:00",
+    "first_seen": "2026-11-23T23:06:45.207457+00:00",
+    "excerpt": "The Nvidia CEO was reinstated after weeks of controversy over his affair with an alleged Chinese spy.",
     "tags": [],
     "also_reported_by": []
   },
