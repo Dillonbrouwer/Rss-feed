@@ -1,5 +1,29 @@
 [
   {
+    "id": "https://aljazeera.com/news/2026/11/24/mexico-to-try-el-chapo-isidro-despite-us-extradition-request?traffic_source=rss",
+    "title": "Mexico to try ‘El Chapo Isidro’ despite US extradition request",
+    "link": "https://www.aljazeera.com/news/2026/11/24/mexico-to-try-el-chapo-isidro-despite-us-extradition-request?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-24T03:20:55+00:00",
+    "first_seen": "2026-11-24T04:15:45.919047+00:00",
+    "excerpt": "Fausto Meza Flores faces drug trafficking and weapons charges after his capture in a violent Sinaloa operation.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/news/audio/2026/nov/24/myanmar-found-guilty-genocide-should-israel-be-worried-podcast",
+    "title": "Myanmar has been found guilty of genocide. Should Israel be worried? – podcast",
+    "link": "https://www.theguardian.com/news/audio/2026/nov/24/myanmar-found-guilty-genocide-should-israel-be-worried-podcast",
+    "outlet": "The Guardian",
+    "author": "Presented by Annie Kelly with Kaamil Ahmed, produced by George McDonagh, Harriet Mogie and Rudi Zygadlo",
+    "published": "2026-11-24T03:00:04+00:00",
+    "first_seen": "2026-11-24T04:15:45.919047+00:00",
+    "excerpt": "The international court of justice has for the first time ruled that a state has committed genocide. Yasmin Ullah explains what it means for the Rohingya people, while Kaamil Ahmed lays out how the case unfolded For seven years, Yasmin Ullah had been part of the delegation arguing that Myanmar had…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://theguardian.com/world/2026/nov/24/china-official-ma-death-sentence-spying-leaking-national-secrets",
     "title": "China sentences official to death for spying for foreign country",
     "link": "https://www.theguardian.com/world/2026/nov/24/china-official-ma-death-sentence-spying-leaking-national-secrets",
@@ -32,6 +56,18 @@
     "published": "2026-11-24T02:27:19+00:00",
     "first_seen": "2026-11-24T03:06:01.838744+00:00",
     "excerpt": "Secretary-General Antonio Guterres has become increasingly vocal about AI as end of term nears.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
+    "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+    "link": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-24T02:15:59+00:00",
+    "first_seen": "2026-11-24T04:15:45.919047+00:00",
+    "excerpt": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
     "tags": [],
     "also_reported_by": []
   },
