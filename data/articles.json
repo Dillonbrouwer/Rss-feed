@@ -1,5 +1,101 @@
 [
   {
+    "id": "https://theguardian.com/world/2026/nov/24/china-official-ma-death-sentence-spying-leaking-national-secrets",
+    "title": "China sentences official to death for spying for foreign country",
+    "link": "https://www.theguardian.com/world/2026/nov/24/china-official-ma-death-sentence-spying-leaking-national-secrets",
+    "outlet": "The Guardian",
+    "author": "Associated Press",
+    "published": "2026-11-24T02:37:36+00:00",
+    "first_seen": "2026-11-24T03:06:01.838744+00:00",
+    "excerpt": "Accused official leaked national secrets to unnamed country and received payments worth over $150,000, state-linked publisher says A Chinese official has been sentenced to death for spying for a foreign country, a government-linked publisher has said. Gold Wall Press, a publishing company…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/video/newsfeed/2026/11/24/24-11-sv-sheshnag-lake-excavators-kashmir?traffic_source=rss",
+    "title": "Excavator threatens sacred alpine lake in the Himalayas",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/24-11-sv-sheshnag-lake-excavators-kashmir?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-24T02:35:27+00:00",
+    "first_seen": "2026-11-24T03:06:01.838744+00:00",
+    "excerpt": "Footage of an excavator near Sheshnag Lake in India-administered Kashmir has sparked outrage.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/24/un-chief-calls-for-world-to-agree-on-ai-oversight-within-a-year?traffic_source=rss",
+    "title": "UN chief calls for world to agree on AI oversight within a year",
+    "link": "https://www.aljazeera.com/news/2026/11/24/un-chief-calls-for-world-to-agree-on-ai-oversight-within-a-year?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-24T02:27:19+00:00",
+    "first_seen": "2026-11-24T03:06:01.838744+00:00",
+    "excerpt": "Secretary-General Antonio Guterres has become increasingly vocal about AI as end of term nears.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/us-news/2026/nov/23/megaspeed-us-trade-blacklist-nvidia",
+    "title": "US adds Megaspeed, AI firm at center of Nvidia scandal, to trade blacklist",
+    "link": "https://www.theguardian.com/us-news/2026/nov/23/megaspeed-us-trade-blacklist-nvidia",
+    "outlet": "The Guardian",
+    "author": "Robert Mackey",
+    "published": "2026-11-24T01:47:15+00:00",
+    "first_seen": "2026-11-24T03:06:01.838744+00:00",
+    "excerpt": "Singapore-based company entangled in scandal over alleged spy Alice Huang’s affair with Jensen Huang The US commerce department published an official notice on Monday adding the Singapore-based company Megaspeed, and its subsidiaries in Thailand and Malaysia, to a trade blacklist. Megaspeed, an…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/video/newsfeed/2026/11/24/qatar-pm-looks-to-revive-us-iran-talks-after-meeting-rubio?traffic_source=rss",
+    "title": "Qatar PM looks to revive US-Iran talks after meeting Rubio",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/qatar-pm-looks-to-revive-us-iran-talks-after-meeting-rubio?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-24T01:32:12+00:00",
+    "first_seen": "2026-11-24T03:06:01.838744+00:00",
+    "excerpt": "Qatar’s Prime Minister says he’s working towards deescalating tensions between Iran and the US.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/australia-news/2026/nov/24/beau-lamarre-condon-trial-barrister-closing-statement-ntwnfb",
+    "title": "Beau Lamarre-Condon chose ‘long walk’ to witness box rather than silence, his barrister tells court",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/24/beau-lamarre-condon-trial-barrister-closing-statement-ntwnfb",
+    "outlet": "The Guardian",
+    "author": "Kat Wong",
+    "published": "2026-11-24T01:25:20+00:00",
+    "first_seen": "2026-11-24T03:06:01.838744+00:00",
+    "excerpt": "Former police officer has pleaded not guilty to murders of Jesse Baird and Luke Davies in Baird’s Paddington home in February 2024 Get our breaking news email , free app or daily news podcast Beau Lamarre-Condon could have sat in silence and let the crown “do its worst”, but he made the choice to…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss",
+    "title": "How Nvidia is reacting to Jensen Huang's return as CEO",
+    "link": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-24T01:21:41+00:00",
+    "first_seen": "2026-11-24T03:06:01.838744+00:00",
+    "excerpt": "BBC's Lily Jamali reports from Nvidia's headquarters, where she gauges the reaction to Huang's return after Trump says he brokered a deal.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/24/appeals-court-renews-trump-bid-for-federal-jurisdiction-in-hush-money-case?traffic_source=rss",
+    "title": "Appeals court renews Trump bid for federal jurisdiction in hush-money case",
+    "link": "https://www.aljazeera.com/news/2026/11/24/appeals-court-renews-trump-bid-for-federal-jurisdiction-in-hush-money-case?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-24T01:17:48+00:00",
+    "first_seen": "2026-11-24T03:06:01.838744+00:00",
+    "excerpt": "The ruling could clear the way for Trump to argue prosecutors relied on evidence protected by presidential immunity.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://aljazeera.com/news/2026/11/24/israeli-minister-approves-return-of-flydubai-flights?traffic_source=rss",
     "title": "Israeli minister approves return of Flydubai flights",
     "link": "https://www.aljazeera.com/news/2026/11/24/israeli-minister-approves-return-of-flydubai-flights?traffic_source=rss",
@@ -60,6 +156,18 @@
     "also_reported_by": []
   },
   {
+    "id": "https://bbc.co.uk/news/articles/c3qj57rkd2k1o?at_medium=RSS&at_campaign=rss",
+    "title": "King Charles and Elton John pay tribute to Australian music legend Molly Meldrum",
+    "link": "https://www.bbc.co.uk/news/articles/c3qj57rkd2k1o?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-24T00:23:25+00:00",
+    "first_seen": "2026-11-24T03:06:01.838744+00:00",
+    "excerpt": "The promoter and broadcaster helped define the music tastes of Australians for decades.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://aljazeera.com/news/2026/11/24/trump-calls-to-expedite-us-federal-executions-blasts-gavin-newsom?traffic_source=rss",
     "title": "Trump calls to ‘expedite’ US federal executions, blasts Gavin Newsom",
     "link": "https://www.aljazeera.com/news/2026/11/24/trump-calls-to-expedite-us-federal-executions-blasts-gavin-newsom?traffic_source=rss",
@@ -80,6 +188,18 @@
     "published": "2026-11-24T00:02:16+00:00",
     "first_seen": "2026-11-24T01:29:04.651489+00:00",
     "excerpt": "Despite rising enrolment, violence, displacement and poverty keep children out of school in northeastern state.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://bbc.co.uk/news/articles/cqglr0d5jejxo?at_medium=RSS&at_campaign=rss",
+    "title": "Dad who discovered daughter's murder on Facebook feels ignored by South African police",
+    "link": "https://www.bbc.co.uk/news/articles/cqglr0d5jejxo?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-24T00:02:15+00:00",
+    "first_seen": "2026-11-24T03:06:01.838744+00:00",
+    "excerpt": "South African communities tell the BBC of measures they're taking to keep women safe after a wave of horrific killings.",
     "tags": [],
     "also_reported_by": []
   },
@@ -164,6 +284,18 @@
     "published": "2026-11-23T23:06:03+00:00",
     "first_seen": "2026-11-24T00:00:15.143482+00:00",
     "excerpt": "Trump claims credit for Huang's return, raising concerns over federal government meddling in corporate board decisions.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://bbc.co.uk/news/videos/crd910g5x882o?at_medium=RSS&at_campaign=rss",
+    "title": "Outrage after ICE arrest father and daughter at Seattle airport",
+    "link": "https://www.bbc.co.uk/news/videos/crd910g5x882o?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-23T22:59:07+00:00",
+    "first_seen": "2026-11-24T03:06:01.838744+00:00",
+    "excerpt": "ICE officers arrested two passengers, a father and daughter, as they were boarding a flight in Seattle on Saturday.",
     "tags": [],
     "also_reported_by": []
   },
@@ -276,6 +408,18 @@
     "also_reported_by": []
   },
   {
+    "id": "https://bbc.co.uk/news/articles/cm3eg502nxw2o?at_medium=RSS&at_campaign=rss",
+    "title": "Gisèle Pelicot 'humiliated' after nude photos sent to media to promote book",
+    "link": "https://www.bbc.co.uk/news/articles/cm3eg502nxw2o?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-23T21:24:47+00:00",
+    "first_seen": "2026-11-24T03:06:01.838744+00:00",
+    "excerpt": "The publisher of an essay on coercive control apologises for \"an unfortunate and inappropriate communication\".",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://aljazeera.com/video/newsfeed/2026/11/23/israels-southern-syria-incursion-triggers-fear-and-destruction?traffic_source=rss",
     "title": "Israel’s southern Syria incursion triggers fear and destruction",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/israels-southern-syria-incursion-triggers-fear-and-destruction?traffic_source=rss",
@@ -308,6 +452,18 @@
     "published": "2026-11-23T21:04:31+00:00",
     "first_seen": "2026-11-23T22:04:37.582911+00:00",
     "excerpt": "High costs during Chad Bianco’s failed run for governor, including a $665 steak dinner, have raised concerns A southern California county spent more than $3m in a year on a security detail for its sheriff, Chad Bianco, a former Republican candidate for governor, and taxpayers footed the bill for…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://bbc.co.uk/news/articles/c6wy4ng1rznxo?at_medium=RSS&at_campaign=rss",
+    "title": "UK sanctions top Myanmar military leaders after Rohingya genocide ruling",
+    "link": "https://www.bbc.co.uk/news/articles/c6wy4ng1rznxo?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-23T21:03:34+00:00",
+    "first_seen": "2026-11-24T03:06:01.838744+00:00",
+    "excerpt": "The UK is joined by several other nations in recognising an ICJ ruling that Myanmar carried out genocide.",
     "tags": [],
     "also_reported_by": []
   },
@@ -560,6 +716,18 @@
     "published": "2026-11-23T19:06:14+00:00",
     "first_seen": "2026-11-23T19:23:31.163676+00:00",
     "excerpt": "Trump has put his pocketbook first and U.S. interests last.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://bbc.co.uk/news/videos/c51k9vp48d2vo?at_medium=RSS&at_campaign=rss",
+    "title": "First Lady Melania Trump welcomes this year's White House Christmas tree",
+    "link": "https://www.bbc.co.uk/news/videos/c51k9vp48d2vo?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-23T18:49:19+00:00",
+    "first_seen": "2026-11-24T03:06:01.838744+00:00",
+    "excerpt": "The official 2026 White House Christmas tree is an 18-foot fir from Silent Night Evergreens, a farm in Endeavor, Wisconsin.",
     "tags": [],
     "also_reported_by": []
   },
