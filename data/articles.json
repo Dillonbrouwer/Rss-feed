@@ -1,5 +1,65 @@
 [
   {
+    "id": "https://aljazeera.com/video/newsfeed/2026/11/25/deadly-truck-fire-is-latest-of-egypts-transport-disasters?traffic_source=rss",
+    "title": "Deadly truck fire is latest of Egypt’s transport disasters",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/deadly-truck-fire-is-latest-of-egypts-transport-disasters?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-25T22:48:47+00:00",
+    "first_seen": "2026-11-25T23:08:10.556710+00:00",
+    "excerpt": "Dozens were killed and injured when a truck carrying gas cylinders caught fire near Cairo’s Ring Road.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/film/2026/nov/25/brad-pitt-angelina-jolie-settle-french-winery-lawsuit",
+    "title": "Brad Pitt and Angelina Jolie settle years-long legal battle over joint French winery",
+    "link": "https://www.theguardian.com/film/2026/nov/25/brad-pitt-angelina-jolie-settle-french-winery-lawsuit",
+    "outlet": "The Guardian",
+    "author": "Cecilia Nowell",
+    "published": "2026-11-25T22:44:39+00:00",
+    "first_seen": "2026-11-25T23:08:10.556710+00:00",
+    "excerpt": "Pitt filed the lawsuit against Jolie in 2022 after she sold her stake in Château Miraval, saying she broke their agreement not to sell their interests Brad Pitt and Angelina Jolie have settled a years-long legal battle over their French winery, according to a joint statement from the former…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/sports/2026/11/25/malen-and-roma-deny-injury-hit-psg-in-champions-league-draw?traffic_source=rss",
+    "title": "Malen and Roma deny injury-hit PSG in Champions League draw",
+    "link": "https://www.aljazeera.com/sports/2026/11/25/malen-and-roma-deny-injury-hit-psg-in-champions-league-draw?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-25T22:41:46+00:00",
+    "first_seen": "2026-11-25T23:08:10.556710+00:00",
+    "excerpt": "Champions League holders Paris Saint-Germain held to 2-2 draw by Roma as injury-ravaged squad struggle.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/sports/2026/11/25/man-united-denied-at-sporting-as-referee-overshadows-fernandes-double?traffic_source=rss",
+    "title": "Man United denied at Sporting as referee overshadows Fernandes double",
+    "link": "https://www.aljazeera.com/sports/2026/11/25/man-united-denied-at-sporting-as-referee-overshadows-fernandes-double?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-25T22:15:59+00:00",
+    "first_seen": "2026-11-25T23:08:10.556710+00:00",
+    "excerpt": "Bruno Fernandes nets twice in Lisbon, but referee's decisions in spotlight as Mauricio Pochettino denied first win.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/world/2026/nov/25/people-killed-fuel-tanker-crash-ignites-large-fire-cairo-highway",
+    "title": "At least 30 killed as fuel tanker crash ignites large fire on Cairo highway",
+    "link": "https://www.theguardian.com/world/2026/nov/25/people-killed-fuel-tanker-crash-ignites-large-fire-cairo-highway",
+    "outlet": "The Guardian",
+    "author": "Associated Press",
+    "published": "2026-11-25T22:10:12+00:00",
+    "first_seen": "2026-11-25T23:08:10.556710+00:00",
+    "excerpt": "Blaze on ring road surrounding Egyptian capital injures at least 25 people and leaves cars and motorcycles charred A crash involving a fuel tanker ignited a huge fire on a highway surrounding Cairo on Wednesday, killing at least 30 people, Egyptian authorities said. The blaze on the ring road, a…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://theguardian.com/music/2026/nov/25/andy-taylor-duran-duran-guitarist-dead",
     "title": "Andy Taylor, guitarist in Duran Duran, dies aged 65",
     "link": "https://www.theguardian.com/music/2026/nov/25/andy-taylor-duran-duran-guitarist-dead",
@@ -8,6 +68,18 @@
     "published": "2026-11-25T21:41:34+00:00",
     "first_seen": "2026-11-25T22:11:35.147944+00:00",
     "excerpt": "Musician who had huge 1980s chart success had been diagnosed with prostate cancer in 2018 Andy Taylor, the guitarist with 80s pop megastars Duran Duran, has died aged 65. He had been diagnosed with stage four metastatic prostate cancer in 2018, which he disclosed publicly in 2022 when Duran Duran…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://foreignpolicy.com/2026/11/25/germany-afd-culture-policy-bauhaus",
+    "title": "German Culture Could Soon Be Officially Anti-German",
+    "link": "https://foreignpolicy.com/2026/11/25/germany-afd-culture-policy-bauhaus/",
+    "outlet": "Foreign Policy",
+    "author": "Carol Schaeffer",
+    "published": "2026-11-25T21:27:50+00:00",
+    "first_seen": "2026-11-25T23:08:10.556710+00:00",
+    "excerpt": "The AfD is on the path to rewriting the legacy of Germany’s 20th-century cultural achievements.",
     "tags": [],
     "also_reported_by": []
   },
