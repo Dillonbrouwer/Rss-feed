@@ -21,11 +21,8 @@ jobs:
     timeout-minutes: 15
     permissions:
       contents: write
-      pages: write
-      id-token: write
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+    outputs:
+      fetch_outcome: ${{ steps.fetch.outcome }}
     steps:
       - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
       - uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6
@@ -53,11 +50,34 @@ jobs:
       - uses: actions/upload-pages-artifact@7b1f4a764d45c48632c6b24a0339c27f5614fb0b # v4
         with:
           path: docs
+
+  # Deploying in its own job (GitHub's recommended Pages layout) gives the
+  # artifact API time to list the upload. Deploying in the same job right after
+  # the upload intermittently failed with 'No artifacts named "github-pages"'.
+  deploy:
+    needs: update
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url || steps.retry.outputs.page_url }}
+    steps:
       - name: Deploy page
         id: deployment
+        continue-on-error: true
+        uses: actions/deploy-pages@d6db90164ac5ed86f2b6aed7e0febac5b3c0c03e # v4
+      - name: Wait before retrying deploy
+        if: steps.deployment.outcome == 'failure'
+        run: sleep 30
+      - name: Retry deploy page
+        id: retry
+        if: steps.deployment.outcome == 'failure'
         uses: actions/deploy-pages@d6db90164ac5ed86f2b6aed7e0febac5b3c0c03e # v4
       - name: Report total feed failure
-        if: steps.fetch.outcome == 'failure'
+        if: needs.update.outputs.fetch_outcome == 'failure'
         run: |
           echo '::error::Feed collection failed. See Fetch feeds and the published health report.'
           exit 1
