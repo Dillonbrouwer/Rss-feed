@@ -1,5 +1,65 @@
 [
   {
+    "id": "https://theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat",
+    "title": "Trump tariff threat ‘unacceptable’, says Brazil, as China denounces levies as baseless",
+    "link": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat",
+    "outlet": "The Guardian",
+    "author": "Guardian staff and agencies",
+    "published": "2026-11-26T03:54:24+00:00",
+    "first_seen": "2026-11-26T04:19:57.976722+00:00",
+    "excerpt": "Brazil indignant about proposed tariffs on sugar and aircraft, while Beijing says new levies amount to ‘political manipulation’ Trump proposing new tariffs on 14 partners including China and EU Brazil has said it will not bend to the new US tariff “threat” and China accused Washington of “political…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+    "title": "FedEx plane overshoots Miami runway, with flights briefly suspended at airport",
+    "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-26T03:27:33+00:00",
+    "first_seen": "2026-11-26T04:19:57.976722+00:00",
+    "excerpt": "The brief ground stop comes on the day before the US Thanksgiving holiday, one of the busiest travel days of the year.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/video/newsfeed/2026/11/26/colombian-president-taunts-arrested-supermarket-hostage-takers?traffic_source=rss",
+    "title": "Colombian president taunts arrested supermarket hostage-takers",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/colombian-president-taunts-arrested-supermarket-hostage-takers?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-26T03:23:24+00:00",
+    "first_seen": "2026-11-26T04:19:57.976722+00:00",
+    "excerpt": "Colombia’s president has confronted the men who held 76 people hostage at a Cartagena supermarket.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/economy/2026/11/26/anthropic-ceo-amodei-denies-wanting-humanity-to-surrender-free-will-to-ai?traffic_source=rss",
+    "title": "Anthropic CEO Amodei denies wanting humanity to ‘surrender’ free will to AI",
+    "link": "https://www.aljazeera.com/economy/2026/11/26/anthropic-ceo-amodei-denies-wanting-humanity-to-surrender-free-will-to-ai?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-26T03:20:23+00:00",
+    "first_seen": "2026-11-26T04:19:57.976722+00:00",
+    "excerpt": "Dario Amodei's remarks come amid predictions that AI may soon match or surpass human intelligence.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/video/newsfeed/2026/11/26/fifa-turns-to-influencers-to-promote-u17-world-cup?traffic_source=rss",
+    "title": "FIFA turns to influencers to promote U17 World Cup",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/fifa-turns-to-influencers-to-promote-u17-world-cup?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-26T03:00:51+00:00",
+    "first_seen": "2026-11-26T04:19:57.976722+00:00",
+    "excerpt": "FIFA has enlisted social media influencers to promote the Under-17 World Cup in Qatar.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://theguardian.com/news/audio/2026/nov/26/spains-election-the-end-of-a-leftwing-icon-podcast",
     "title": "Spain’s election: the end of a leftwing icon? - podcast",
     "link": "https://www.theguardian.com/news/audio/2026/nov/26/spains-election-the-end-of-a-leftwing-icon-podcast",
@@ -20,6 +80,18 @@
     "published": "2026-11-26T02:35:09+00:00",
     "first_seen": "2026-11-26T03:11:29.908494+00:00",
     "excerpt": "Liberal and Nationals’ pre-election policy costings also reveal that ‘air rights’ between Richmond train station and the MCG would be sold Follow our Australia politics live blog for latest updates Get our daily political email , free app or daily news podcast A Victorian Coalition government would…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/australia-news/2026/nov/26/australia-projected-to-miss-2035-emissions-targets-climate-policies",
+    "title": "Australia projected to completely miss 2035 emissions target without new climate policies",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/26/australia-projected-to-miss-2035-emissions-targets-climate-policies",
+    "outlet": "The Guardian",
+    "author": "Donna Lu and Lisa Cox",
+    "published": "2026-11-26T02:26:10+00:00",
+    "first_seen": "2026-11-26T04:19:57.976722+00:00",
+    "excerpt": "New official projections show country nearly on track for 2030 goal but Chris Bowen warns of ‘undeniable headwinds’ Sign up for climate and environment editor Adam Morton’s free Clear Air newsletter here Australia is nearly on track to reach its 2030 emissions reduction target but will fall…",
     "tags": [],
     "also_reported_by": []
   },
