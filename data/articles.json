@@ -1,5 +1,65 @@
 [
   {
+    "id": "https://bbc.co.uk/news/articles/cme3d4y094x7o?at_medium=RSS&at_campaign=rss",
+    "title": "Behind China's spectacular rise, voices who defied it say they are being drowned out",
+    "link": "https://www.bbc.co.uk/news/articles/cme3d4y094x7o?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-27T23:02:35+00:00",
+    "first_seen": "2026-11-27T23:10:34.463161+00:00",
+    "excerpt": "China's immense clout now also has the flex of soft power. Critics and dissidents say their voices are being drowned out.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/uk-news/2026/nov/27/charity-set-up-by-captain-tom-moores-family-applies-to-be-struck-off",
+    "title": "Charity set up by Captain Tom Moore’s family applies to be struck off",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/27/charity-set-up-by-captain-tom-moores-family-applies-to-be-struck-off",
+    "outlet": "The Guardian",
+    "author": "Nadeem Badshah",
+    "published": "2026-11-27T23:02:04+00:00",
+    "first_seen": "2026-11-27T23:10:34.463161+00:00",
+    "excerpt": "Watchdog had found ‘repeated’ misconduct by veteran’s daughter and her husband in running the foundation A charity set up by the family of the renowned pandemic fundraiser Captain Sir Tom Moore has applied to be struck off. The charity is now known as the 1189808 Foundation, having dropped Moore’s…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/27/kenyan-cult-leader-guilty-of-manslaughter-more-than-123-starvation-deaths?traffic_source=rss",
+    "title": "Kenyan cult leader guilty of manslaughter more than 123 starvation deaths",
+    "link": "https://www.aljazeera.com/news/2026/11/27/kenyan-cult-leader-guilty-of-manslaughter-more-than-123-starvation-deaths?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-27T22:33:17+00:00",
+    "first_seen": "2026-11-27T23:10:34.463161+00:00",
+    "excerpt": "Paul Mackenzie, already serving 200 years, is the founder and pastor of the Good News International Church.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/27/us-military-says-it-disabled-merchant-ship-trying-to-breach-iran-blockade?traffic_source=rss",
+    "title": "US military says it disabled merchant ship trying to breach Iran blockade",
+    "link": "https://www.aljazeera.com/news/2026/11/27/us-military-says-it-disabled-merchant-ship-trying-to-breach-iran-blockade?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-27T22:22:02+00:00",
+    "first_seen": "2026-11-27T23:10:34.463161+00:00",
+    "excerpt": "The US military says it disabled the Palau-flagged ship’s propulsion but its crew was unharmed.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss",
+    "title": "Prosecutors seek 25-year prison term for 'poison seller' Kenneth Law",
+    "link": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-27T22:03:46+00:00",
+    "first_seen": "2026-11-27T23:10:34.463161+00:00",
+    "excerpt": "The Canadian man, who pleaded guilty to 14 counts of aiding and abetting suicide earlier this year, will be sentenced at a later date.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://theguardian.com/uk-news/2026/nov/27/catherine-princess-of-wales-heal-documentary-cancer",
     "title": "Princess of Wales documentary Heal charts ‘pilgrimage’ after cancer treatment",
     "link": "https://www.theguardian.com/uk-news/2026/nov/27/catherine-princess-of-wales-heal-documentary-cancer",
@@ -8,6 +68,18 @@
     "published": "2026-11-27T22:00:21+00:00",
     "first_seen": "2026-11-27T22:10:55.245384+00:00",
     "excerpt": "BBC film follows Catherine as she undertakes Three Peaks challenge to search for what life can be post-chemotherapy On the day the Princess of Wales undertook the Three Peaks challenge, there was rain, hill fog and, finally, watery June sunshine. It is hard to not see it as a meteorological…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/video/newsfeed/2026/11/27/activists-of-rhythm-fighting-spains-far-right-through-art?traffic_source=rss",
+    "title": "‘Activists of rhythm’: Fighting Spain’s far-right through art",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/activists-of-rhythm-fighting-spains-far-right-through-art?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-27T21:59:11+00:00",
+    "first_seen": "2026-11-27T23:10:34.463161+00:00",
+    "excerpt": "Madrid’s La Parceria and Espacio Afro cultural centres are using the arts to fight racism and boost migrant voices.",
     "tags": [],
     "also_reported_by": []
   },
@@ -356,6 +428,18 @@
     "published": "2026-11-27T16:47:35+00:00",
     "first_seen": "2026-11-27T18:03:20.795143+00:00",
     "excerpt": "Syria may amend its nationality law to grant citizenship to children of Syrian mothers and foreign fighters.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://bbc.co.uk/news/videos/ckvg20y511p4o?at_medium=RSS&at_campaign=rss",
+    "title": "Severe Thanksgiving storms leave roads flooded and trees fallen",
+    "link": "https://www.bbc.co.uk/news/videos/ckvg20y511p4o?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-27T16:46:47+00:00",
+    "first_seen": "2026-11-27T23:10:34.463161+00:00",
+    "excerpt": "Hundreds of thousands of people were without power after severe weather hit both coasts of the United States during the Thanksgiving holiday.",
     "tags": [],
     "also_reported_by": []
   },
