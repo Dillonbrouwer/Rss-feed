@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://theguardian.com/uk-news/2026/nov/27/police-believe-criminals-carried-out-robberies-during-don-toliver-manchester-gig-unknown-substance",
+    "title": "Police suspect criminals robbed fans at Manchester gig disrupted by ‘unknown substance’",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/27/police-believe-criminals-carried-out-robberies-during-don-toliver-manchester-gig-unknown-substance",
+    "outlet": "The Guardian",
+    "author": "Caroline Davies",
+    "published": "2026-11-27T18:35:45+00:00",
+    "first_seen": "2026-11-27T19:14:00.490927+00:00",
+    "excerpt": "Police are working with agencies across Europe after similar incidents occurred at two other Don Toliver concerts A group of organised criminals are believed to have carried out robberies during Don Toliver’s Manchester concert, where an “unknown substance” was released , police have said, with…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/27/mexico-files-complaint-with-us-over-tip-line-on-alleged-drug-traffickers?traffic_source=rss",
+    "title": "Mexico files complaint with US over DEA tip line on alleged drug dealers",
+    "link": "https://www.aljazeera.com/news/2026/11/27/mexico-files-complaint-with-us-over-tip-line-on-alleged-drug-traffickers?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-27T17:58:36+00:00",
+    "first_seen": "2026-11-27T19:14:00.490927+00:00",
+    "excerpt": "Tensions rise over DEA tip line, with Mexico emphasising respect for its sovereignty amidst growing bilateral discord.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/technology/2026/nov/27/the-com-global-cybercrime-network-posing-chilling-threat-to-children",
+    "title": "The Com: the global cybercrime network posing a ‘chilling threat’ to children",
+    "link": "https://www.theguardian.com/technology/2026/nov/27/the-com-global-cybercrime-network-posing-chilling-threat-to-children",
+    "outlet": "The Guardian",
+    "author": "Mark Brown",
+    "published": "2026-11-27T17:53:30+00:00",
+    "first_seen": "2026-11-27T19:14:00.490927+00:00",
+    "excerpt": "FBI estimates thousands of people identify as members, or recent members, of group linked to indecent images of girls and blackmail It sounds benign: the Com, short for the Community. But crime agencies around the world warn that it is far from that and the young cybercriminals involved are causing…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://aljazeera.com/video/newsfeed/2026/11/27/spanish-rescuers-treat-migrants-as-hundreds-arrive-in-canary-islands?traffic_source=rss",
     "title": "Spanish rescuers treat migrants as hundreds arrive in Canary Islands",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/spanish-rescuers-treat-migrants-as-hundreds-arrive-in-canary-islands?traffic_source=rss",
@@ -8,6 +44,18 @@
     "published": "2026-11-27T17:44:50+00:00",
     "first_seen": "2026-11-27T18:03:20.795143+00:00",
     "excerpt": "Spain's Military Emergencies Unit has been sent to treat migrants brought ashore on the island of El Hierro",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/27/kyiv-offers-black-sea-ceasefire-as-putin-expands-russias-navy?traffic_source=rss",
+    "title": "Kyiv offers Black Sea ceasefire to protect grain exports",
+    "link": "https://www.aljazeera.com/news/2026/11/27/kyiv-offers-black-sea-ceasefire-as-putin-expands-russias-navy?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-27T17:44:33+00:00",
+    "first_seen": "2026-11-27T19:14:00.490927+00:00",
+    "excerpt": "The proposal comes as President Zelenskyy criticises Trump’s ‘friendship’ with Putin.",
     "tags": [],
     "also_reported_by": []
   },
