@@ -1,5 +1,53 @@
 [
   {
+    "id": "https://theguardian.com/us-news/2026/nov/27/purse-found-woman-california-beach-wave",
+    "title": "Purse found of woman, 24, swept from California beach three weeks ago",
+    "link": "https://www.theguardian.com/us-news/2026/nov/27/purse-found-woman-california-beach-wave",
+    "outlet": "The Guardian",
+    "author": "Keely Aouga",
+    "published": "2026-11-27T23:43:00+00:00",
+    "first_seen": "2026-11-28T00:02:00.190521+00:00",
+    "excerpt": "Se Nah Park was overwhelmed by a wave at the notorious Panther Beach The purse of a 24-year-old who was swept into the ocean at a notorious California beach three weeks ago was found on Wednesday, as the west coast saw record high king tides. The Santa Cruz county sheriff’s office confirmed that Se…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/education/2026/nov/27/schools-in-england-must-set-aside-time-for-pupils-to-read-for-pleasure",
+    "title": "Schools in England must set aside time for pupils to read for pleasure",
+    "link": "https://www.theguardian.com/education/2026/nov/27/schools-in-england-must-set-aside-time-for-pupils-to-read-for-pleasure",
+    "outlet": "The Guardian",
+    "author": "Nadeem Badshah",
+    "published": "2026-11-27T23:34:55+00:00",
+    "first_seen": "2026-11-28T00:02:00.190521+00:00",
+    "excerpt": "Education secretary expected to announce measures as part of proposed reforms to national curriculum Schools in England will have to allocate time for children to read for pleasure as part of Labour’s proposed reforms of the national curriculum. The education secretary, Lucy Powell, is expected to…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/technology/2026/nov/27/openai-countersues-apple-trade-secrets",
+    "title": "OpenAI countersues Apple for allegedly stealing trade secrets",
+    "link": "https://www.theguardian.com/technology/2026/nov/27/openai-countersues-apple-trade-secrets",
+    "outlet": "The Guardian",
+    "author": "Reuters",
+    "published": "2026-11-27T23:28:50+00:00",
+    "first_seen": "2026-11-28T00:02:00.190521+00:00",
+    "excerpt": "Lawsuit also alleging pressure on hardware suppliers comes after Apple sued OpenAI for allegedly poaching employees OpenAI sued Apple on Friday, accusing the company of ⁠stealing its trade secrets ​and discouraging hardware suppliers from working on future OpenAI devices. The suit, filed in…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/27/will-taiwan-vote-to-revive-nuclear-power-and-why-does-that-matter-for-ai?traffic_source=rss",
+    "title": "Will Taiwan vote to revive nuclear power – and why does that matter for AI?",
+    "link": "https://www.aljazeera.com/news/2026/11/27/will-taiwan-vote-to-revive-nuclear-power-and-why-does-that-matter-for-ai?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-27T23:09:04+00:00",
+    "first_seen": "2026-11-28T00:02:00.190521+00:00",
+    "excerpt": "Voters will decide on Saturday whether to scrap the country's 'nuclear-free homeland' policy.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://bbc.co.uk/news/articles/cme3d4y094x7o?at_medium=RSS&at_campaign=rss",
     "title": "Behind China's spectacular rise, voices who defied it say they are being drowned out",
     "link": "https://www.bbc.co.uk/news/articles/cme3d4y094x7o?at_medium=RSS&at_campaign=rss",
