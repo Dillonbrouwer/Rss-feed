@@ -1,5 +1,89 @@
 [
   {
+    "id": "https://npr.org/2026/11/28/nx-s1-6056359/epa-results-iowa-lead-testing",
+    "title": "EPA says initial tests show no toxic lead contamination in Iowa following detonation",
+    "link": "https://www.npr.org/2026/11/28/nx-s1-6056359/epa-results-iowa-lead-testing",
+    "outlet": "NPR",
+    "author": "Kat Lonsdorf",
+    "published": "2026-11-28T17:32:26+00:00",
+    "first_seen": "2026-11-28T17:56:46.420496+00:00",
+    "excerpt": "U.S. Army officials called the controlled detonation of roughly five tons of explosive lead azide on Wednesday a success. But some have criticized the Army for a lack of transparency.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/28/dozens-reported-killed-in-series-of-myanmar-air-attacks?traffic_source=rss",
+    "title": "Dozens reported killed in series of Myanmar air attacks",
+    "link": "https://www.aljazeera.com/news/2026/11/28/dozens-reported-killed-in-series-of-myanmar-air-attacks?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-28T17:29:28+00:00",
+    "first_seen": "2026-11-28T17:56:46.420496+00:00",
+    "excerpt": "A wedding party, school, monastery, market and camp for displaced people were bombed.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://theguardian.com/uk-news/2026/nov/28/counter-terrorism-police-watching-far-right-group-who-pose-as-security-guards-british-security-uk",
+    "title": "Counter-terrorism police watching far-right group who pose as security guards",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/28/counter-terrorism-police-watching-far-right-group-who-pose-as-security-guards-british-security-uk",
+    "outlet": "The Guardian",
+    "author": "Helena Horton",
+    "published": "2026-11-28T17:13:13+00:00",
+    "first_seen": "2026-11-28T17:56:46.420496+00:00",
+    "excerpt": "Exclusive: Members of British Security UK being monitored after 12 people were arrested over ‘potential serious threat’ to Muslim event Counter-terrorism police are monitoring a far-right group whose members pose as security guards and which has threatened to disrupt a Muslim event, the Guardian…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/sports/2026/11/28/pakistan-vs-sri-lanka-acc-mens-asia-cup-rising-stars-2026-teams-start?traffic_source=rss",
+    "title": "Pakistan vs Sri Lanka: ACC Men’s Asia Cup Rising Stars 2026 – teams, start time",
+    "link": "https://www.aljazeera.com/sports/2026/11/28/pakistan-vs-sri-lanka-acc-mens-asia-cup-rising-stars-2026-teams-start?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-28T17:07:44+00:00",
+    "first_seen": "2026-11-28T17:56:46.420496+00:00",
+    "excerpt": "Holders and record three-time winners Pakistan face two-time winners Sri Lanka in the ACC Asia Cup Rising Stars final.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/sports/2026/11/28/spurs-lakers-doncic-shoved-by-fan-security-intervenes-as-wristband-tossed?traffic_source=rss",
+    "title": "Spurs-Lakers: Doncic shoved by fan, security intervenes as wristband tossed",
+    "link": "https://www.aljazeera.com/sports/2026/11/28/spurs-lakers-doncic-shoved-by-fan-security-intervenes-as-wristband-tossed?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-28T17:05:47+00:00",
+    "first_seen": "2026-11-28T17:56:46.420496+00:00",
+    "excerpt": "Luka Doncic shoved by fan, security intervenes following wristband toss after San Antonio Spurs game with LA Lakers.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/sports/2026/11/28/brentford-beat-manchester-united-4-0-as-pochettino-has-horror-home-debut?traffic_source=rss",
+    "title": "Brentford thrash Manchester United 4-0 as Pochettino has horror home debut",
+    "link": "https://www.aljazeera.com/sports/2026/11/28/brentford-beat-manchester-united-4-0-as-pochettino-has-horror-home-debut?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-28T17:00:58+00:00",
+    "first_seen": "2026-11-28T17:56:46.420496+00:00",
+    "excerpt": "Mauricio Pochettino endures a nightmare Old Trafford debut as Brentford leave United in Premier League relegation zone.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://bbc.co.uk/news/articles/cm752q30q5leo?at_medium=RSS&at_campaign=rss",
+    "title": "Dozens killed in Myanmar military strikes on wedding venue and school",
+    "link": "https://www.bbc.co.uk/news/articles/cm752q30q5leo?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-28T16:53:20+00:00",
+    "first_seen": "2026-11-28T17:56:46.420496+00:00",
+    "excerpt": "Air strikes by Myanmar's military government have killed dozens of civilians across the South East Asian nation in recent days.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://theguardian.com/technology/2026/nov/28/department-for-work-and-pensions-cyber-attack-benefits-pension-services",
     "title": "Department for Work and Pensions confirms cyber-attack on its systems",
     "link": "https://www.theguardian.com/technology/2026/nov/28/department-for-work-and-pensions-cyber-attack-benefits-pension-services",
@@ -1052,6 +1136,18 @@
     "published": "2026-11-28T01:55:03+00:00",
     "first_seen": "2026-11-28T03:07:34.420981+00:00",
     "excerpt": "An Israeli strike on a clinic operated by Doctors Without Borders (MSF) in Gaza has killed two watchmen.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://bbc.co.uk/news/articles/cqkgr4g5nrnlo?at_medium=RSS&at_campaign=rss",
+    "title": "Two American Airlines planes clip wings before takeoff at Reagan airport",
+    "link": "https://www.bbc.co.uk/news/articles/cqkgr4g5nrnlo?at_medium=RSS&at_campaign=rss",
+    "outlet": "BBC World",
+    "author": null,
+    "published": "2026-11-28T01:31:28+00:00",
+    "first_seen": "2026-11-28T17:56:46.420496+00:00",
+    "excerpt": "No injuries were reported, and the FAA plans to investigate the incident, which occurred during taxiing.",
     "tags": [],
     "also_reported_by": []
   },
