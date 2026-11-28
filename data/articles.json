@@ -1,5 +1,65 @@
 [
   {
+    "id": "https://theguardian.com/us-news/2026/nov/28/kratom-synthetic-drug-overdoses-addiction-regulators",
+    "title": "US regulators eye kratom as overdose deaths mount",
+    "link": "https://www.theguardian.com/us-news/2026/nov/28/kratom-synthetic-drug-overdoses-addiction-regulators",
+    "outlet": "The Guardian",
+    "author": "Edward Helmore",
+    "published": "2026-11-28T14:00:41+00:00",
+    "first_seen": "2026-11-28T14:17:27.946266+00:00",
+    "excerpt": "Kratom advocates say a ‘critical distinction’ should be made between natural and chemically enhanced versions of drug The US government is paying more attention to kratom after the apparent overdose deaths of young people, but advocates say the synthetic drug hurting people is not the same as the…",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/28/iran-points-to-europes-war-role-after-italians-killed-in-kuwait-strike?traffic_source=rss",
+    "title": "Iran points to Europe’s war role after Italians killed in Kuwait strike",
+    "link": "https://www.aljazeera.com/news/2026/11/28/iran-points-to-europes-war-role-after-italians-killed-in-kuwait-strike?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-28T13:42:53+00:00",
+    "first_seen": "2026-11-28T14:17:27.946266+00:00",
+    "excerpt": "Italy and Kuwait say an Iranian drone was involved, but Tehran says the US and Israel may be looking to escalate war.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/video/newsfeed/2026/11/28/putin-unveils-new-nuclear-submarine?traffic_source=rss",
+    "title": "Putin unveils new nuclear submarine",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/28/putin-unveils-new-nuclear-submarine?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-28T13:32:51+00:00",
+    "first_seen": "2026-11-28T14:17:27.946266+00:00",
+    "excerpt": "Russian President Vladimir Putin attended the commissioning of the nuclear-powered submarine in Russia.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/28/court-rejects-argentinas-request-to-stop-uk-oil-activity-near-falklands?traffic_source=rss",
+    "title": "Court rejects Argentina’s request to stop UK oil activity near Falklands",
+    "link": "https://www.aljazeera.com/news/2026/11/28/court-rejects-argentinas-request-to-stop-uk-oil-activity-near-falklands?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-28T13:24:24+00:00",
+    "first_seen": "2026-11-28T14:17:27.946266+00:00",
+    "excerpt": "An international tribunal refuses Buenos Aires's application, giving the green light to the project off the disputed region.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
+    "id": "https://aljazeera.com/news/2026/11/28/bootleg-alcohol-poisonings-in-iran-see-dozens-dead-and-badly-injured?traffic_source=rss",
+    "title": "Bootleg alcohol poisonings in Iran see dozens dead and badly injured",
+    "link": "https://www.aljazeera.com/news/2026/11/28/bootleg-alcohol-poisonings-in-iran-see-dozens-dead-and-badly-injured?traffic_source=rss",
+    "outlet": "Al Jazeera",
+    "author": null,
+    "published": "2026-11-28T13:12:56+00:00",
+    "first_seen": "2026-11-28T14:17:27.946266+00:00",
+    "excerpt": "A spate of alcohol poisonings in Iran has led to deaths and serious injuries including blindness.",
+    "tags": [],
+    "also_reported_by": []
+  },
+  {
     "id": "https://bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&at_campaign=rss",
     "title": "Argentina's bid to stop Falklands oil drilling rejected",
     "link": "https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&at_campaign=rss",
